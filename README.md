@@ -14,6 +14,18 @@ Singapore · Bangkok · Hanoi · Bengaluru · Delhi NCR · Mumbai · Hyderabad �
 
 ---
 
+## A heartfelt note to the judges
+
+**Please read our [Judges’ Guide and Supplementary Documents](https://drive.google.com/drive/folders/1HSvUg-sO5HJJ8fJtuXaeRNj463QecLV_?usp=sharing).**
+
+We poured our hearts and souls into HELIOS. There is so much we want to share about the project, and a single README or short demonstration cannot capture all of it. We put together this folder to help you explore the work more fully, with a judges’ guide and supplementary documents to accompany your review.
+
+If you can spare a little more time, please open the folder and spend some time with the project. It would mean so much to us for you to see the care, thought and effort we have put into building it. Thank you for taking the time to understand HELIOS and consider what we have made.
+
+**[Open the Judges’ Guide and Supplementary Documents →](https://drive.google.com/drive/folders/1HSvUg-sO5HJJ8fJtuXaeRNj463QecLV_?usp=sharing)**
+
+---
+
 HELIOS brings urban mobility, rooftop solar, heat exposure, EV charging, building carbon, policy screening and investment analysis into one interactive planning environment. It helps planners, building owners and project teams move from **“What could we change here?”** to a concrete, costed scenario with explicit assumptions, environmental trade-offs and a practical decision brief.
 
 Start with a whole-island view of Singapore, investigate a district, draw a shaded cycling corridor, add solar and charging, and compare the package against an evolving baseline through 2036. Inspect its carbon, heat, mobility and financial results; check physical placement and encoded policy rules; then explore funding, suppliers, rollout and monitoring. Elsewhere, assess a rooftop in Bangkok, compare managed charging in Hanoi, or test cool roofs and rain gardens across eight Indian cities.
