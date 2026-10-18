@@ -1,0 +1,148 @@
+{
+  "id": "sg.evca2022.defined_works",
+  "title": "EV Charging Act \u2014 when a development must provide EV charging (defined works)",
+  "instrument": "Electric Vehicles Charging Act 2022, Part 9",
+  "jurisdiction": "SG",
+  "category": "law",
+  "kind": "trigger_requirement",
+  "status": "in_force",
+  "effective_from": "2023-12-08",
+  "effective_to": null,
+  "applies_to": {
+    "asset": [
+      "development"
+    ]
+  },
+  "citation": {
+    "source": "sso_evca2022",
+    "clause": "ss 61\u201362, 64 (Part 9: EV charging in developments)",
+    "pages": [
+      82,
+      83,
+      84
+    ],
+    "quote": "would increase the approved gross floor area of the development by at least 50%"
+  },
+  "triggers": [
+    {
+      "key": "new_building",
+      "label": "Erection or re-erection of a building",
+      "test": "is_true"
+    },
+    {
+      "key": "gfa_increase_pct",
+      "label": "Approved GFA increase",
+      "test": ">=",
+      "value": 0.5,
+      "unit": ""
+    },
+    {
+      "key": "electrical_load_after_kva",
+      "label": "Approved electrical load raised above 280 kVA (or increased when already above)",
+      "test": ">",
+      "value": 280,
+      "unit": "kVA",
+      "requires": "electrical_load_increase"
+    }
+  ],
+  "exemptions": [
+    {
+      "key": "government_on_state_land",
+      "label": "Works by/for Government on State land (s 62(1)(a))",
+      "test": "is_true",
+      "exempts": "all"
+    },
+    {
+      "key": "parking_lots_after",
+      "label": "Fewer than 8 parking lots after the works (s 62(2))",
+      "test": "<",
+      "value": 8,
+      "exempts": "charging_points"
+    }
+  ],
+  "obligations": {
+    "all": [
+      "Install electrical infrastructure for a minimum EV-charging electrical load (s 64(1)(a))",
+      "Install a minimum number of charging points in the parking places (s 64(1)(b))",
+      "Submit proposals and plans to LTA for approval before the relevant date (s 64(3))"
+    ],
+    "load_only": [
+      "Install electrical infrastructure for a minimum EV-charging electrical load (s 64(1)(a))",
+      "Submit proposals and plans to LTA (s 64(3))"
+    ]
+  },
+  "missing": "The minimum load and charging-point counts are set by a Ministerial order in the Gazette (s 64(2)), not in the Act \u2014 that order has not been ingested yet.",
+  "examples": [
+    {
+      "name": "New building with car park",
+      "asOf": "2026-10-16",
+      "facts": {
+        "new_building": true,
+        "parking_lots_after": 120
+      },
+      "expect": {
+        "outcome": "fail"
+      }
+    },
+    {
+      "name": "New building with EV provision planned",
+      "asOf": "2026-10-16",
+      "facts": {
+        "new_building": true,
+        "parking_lots_after": 120,
+        "ev_provision_planned": true
+      },
+      "expect": {
+        "outcome": "pass"
+      }
+    },
+    {
+      "name": "Small car park \u2192 load only",
+      "asOf": "2026-10-16",
+      "facts": {
+        "new_building": true,
+        "parking_lots_after": 5
+      },
+      "expect": {
+        "outcome": "fail",
+        "tier": "load_only"
+      }
+    },
+    {
+      "name": "Government on State land exempt",
+      "asOf": "2026-10-16",
+      "facts": {
+        "new_building": true,
+        "government_on_state_land": true
+      },
+      "expect": {
+        "outcome": "not_applicable"
+      }
+    },
+    {
+      "name": "Minor A&A not triggered",
+      "asOf": "2026-10-16",
+      "facts": {
+        "new_building": false,
+        "gfa_increase_pct": 0.2,
+        "electrical_load_increase": false
+      },
+      "expect": {
+        "outcome": "not_applicable"
+      }
+    },
+    {
+      "name": "Unknown works",
+      "asOf": "2026-10-16",
+      "facts": {},
+      "expect": {
+        "outcome": "needs_info"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "verified_primary",
+    "reviewed_by": "claude (extracted) \u2014 pending human sign-off",
+    "reviewed_at": "2026-10-16"
+  }
+}

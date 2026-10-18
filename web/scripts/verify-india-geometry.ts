@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import { roofPolygon } from '../lib/india/geometry';
+import { BENGALURU_BOUNDS } from '../lib/india/solar';
+const points = [{lat:12.97,lng:77.59},{lat:12.97,lng:77.5901},{lat:12.9701,lng:77.5901},{lat:12.9701,lng:77.59}];
+const run = (p: unknown) => roofPolygon(p,BENGALURU_BOUNDS);
+assert.equal(typeof roofPolygon,'function');
+assert.throws(() => run([{lat:13,lng:77.5},{lat:13.02,lng:77.52},{lat:13.04,lng:77.54}]), "Reject diagonal collinear corners before spherical area approximation");
+const roof=run(points);
+assert.ok(roof.areaM2>115 && roof.areaM2<125);
+assert.ok(Math.abs(roof.areaM2-run([...points].reverse()).areaM2)<0.001);
+for(const bad of [null,[],points.slice(0,2),[...points,points[0]],[points[0],points[2],points[1],points[3]],points.map(p=>({...p,lat:0})),Array(101).fill(points[0]),[{lat:12.97,lng:77.59},{lat:12.97,lng:77.6},{lat:12.97,lng:77.61}]]) assert.throws(()=>run(bad));
+console.log('India geometry: area, winding, finite bounds, duplicates, crossings and degenerate rings passed.');

@@ -1,0 +1,217 @@
+row_no,row,level,col,value,uom
+1,Total,1,Total|Total,2356000.0,Number
+1,Total,1,Total|Males,1233500.0,Number
+1,Total,1,Total|Females,1122400.0,Number
+1,Total,1,Below 30 Years|Total,294600.0,Number
+1,Total,1,Below 30 Years|Males,149900.0,Number
+1,Total,1,Below 30 Years|Females,144700.0,Number
+1,Total,1,30 - 39 Years|Total,561300.0,Number
+1,Total,1,30 - 39 Years|Males,283500.0,Number
+1,Total,1,30 - 39 Years|Females,277900.0,Number
+1,Total,1,40 - 49 Years|Total,547400.0,Number
+1,Total,1,40 - 49 Years|Males,278500.0,Number
+1,Total,1,40 - 49 Years|Females,268900.0,Number
+1,Total,1,50 - 59 Years|Total,491600.0,Number
+1,Total,1,50 - 59 Years|Males,257400.0,Number
+1,Total,1,50 - 59 Years|Females,234200.0,Number
+1,Total,1,60 Years & Over|Total,461100.0,Number
+1,Total,1,60 Years & Over|Males,264300.0,Number
+1,Total,1,60 Years & Over|Females,196800.0,Number
+1.1,Public Bus Only,2,Total|Total,303200.0,Number
+1.1,Public Bus Only,2,Total|Males,134600.0,Number
+1.1,Public Bus Only,2,Total|Females,168600.0,Number
+1.1,Public Bus Only,2,Below 30 Years|Total,41200.0,Number
+1.1,Public Bus Only,2,Below 30 Years|Males,21600.0,Number
+1.1,Public Bus Only,2,Below 30 Years|Females,19600.0,Number
+1.1,Public Bus Only,2,30 - 39 Years|Total,59200.0,Number
+1.1,Public Bus Only,2,30 - 39 Years|Males,26200.0,Number
+1.1,Public Bus Only,2,30 - 39 Years|Females,33000.0,Number
+1.1,Public Bus Only,2,40 - 49 Years|Total,57400.0,Number
+1.1,Public Bus Only,2,40 - 49 Years|Males,21300.0,Number
+1.1,Public Bus Only,2,40 - 49 Years|Females,36100.0,Number
+1.1,Public Bus Only,2,50 - 59 Years|Total,64100.0,Number
+1.1,Public Bus Only,2,50 - 59 Years|Males,26400.0,Number
+1.1,Public Bus Only,2,50 - 59 Years|Females,37700.0,Number
+1.1,Public Bus Only,2,60 Years & Over|Total,81400.0,Number
+1.1,Public Bus Only,2,60 Years & Over|Males,39000.0,Number
+1.1,Public Bus Only,2,60 Years & Over|Females,42300.0,Number
+1.2,Rail (MRT/LRT) Only,2,Total|Total,372500.0,Number
+1.2,Rail (MRT/LRT) Only,2,Total|Males,161700.0,Number
+1.2,Rail (MRT/LRT) Only,2,Total|Females,210800.0,Number
+1.2,Rail (MRT/LRT) Only,2,Below 30 Years|Total,60500.0,Number
+1.2,Rail (MRT/LRT) Only,2,Below 30 Years|Males,26400.0,Number
+1.2,Rail (MRT/LRT) Only,2,Below 30 Years|Females,34100.0,Number
+1.2,Rail (MRT/LRT) Only,2,30 - 39 Years|Total,109900.0,Number
+1.2,Rail (MRT/LRT) Only,2,30 - 39 Years|Males,49700.0,Number
+1.2,Rail (MRT/LRT) Only,2,30 - 39 Years|Females,60200.0,Number
+1.2,Rail (MRT/LRT) Only,2,40 - 49 Years|Total,84500.0,Number
+1.2,Rail (MRT/LRT) Only,2,40 - 49 Years|Males,36500.0,Number
+1.2,Rail (MRT/LRT) Only,2,40 - 49 Years|Females,48000.0,Number
+1.2,Rail (MRT/LRT) Only,2,50 - 59 Years|Total,67900.0,Number
+1.2,Rail (MRT/LRT) Only,2,50 - 59 Years|Males,26500.0,Number
+1.2,Rail (MRT/LRT) Only,2,50 - 59 Years|Females,41400.0,Number
+1.2,Rail (MRT/LRT) Only,2,60 Years & Over|Total,49800.0,Number
+1.2,Rail (MRT/LRT) Only,2,60 Years & Over|Males,22700.0,Number
+1.2,Rail (MRT/LRT) Only,2,60 Years & Over|Females,27100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Total|Total,713000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Total|Males,324900.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Total|Females,388100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Below 30 Years|Total,125600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Below 30 Years|Males,59500.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Below 30 Years|Females,66100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,30 - 39 Years|Total,176500.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,30 - 39 Years|Males,79800.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,30 - 39 Years|Females,96700.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,40 - 49 Years|Total,143100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,40 - 49 Years|Males,61500.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,40 - 49 Years|Females,81600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,50 - 59 Years|Total,129600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,50 - 59 Years|Males,56000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,50 - 59 Years|Females,73600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,60 Years & Over|Total,138200.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,60 Years & Over|Males,68100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,60 Years & Over|Females,70100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Total|Total,27900.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Total|Males,18500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Total|Females,9400.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Below 30 Years|Total,5600.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Below 30 Years|Males,4300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Below 30 Years|Females,1300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,30 - 39 Years|Total,6300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,30 - 39 Years|Males,4300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,30 - 39 Years|Females,2100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,40 - 49 Years|Total,7200.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,40 - 49 Years|Males,4200.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,40 - 49 Years|Females,3000.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,50 - 59 Years|Total,5300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,50 - 59 Years|Males,3000.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,50 - 59 Years|Females,2300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,60 Years & Over|Total,3500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,60 Years & Over|Males,2600.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,60 Years & Over|Females,800.0,Number
+1.5,Taxi/Private Hire Car Only,2,Total|Total,59000.0,Number
+1.5,Taxi/Private Hire Car Only,2,Total|Males,27200.0,Number
+1.5,Taxi/Private Hire Car Only,2,Total|Females,31800.0,Number
+1.5,Taxi/Private Hire Car Only,2,Below 30 Years|Total,7700.0,Number
+1.5,Taxi/Private Hire Car Only,2,Below 30 Years|Males,2800.0,Number
+1.5,Taxi/Private Hire Car Only,2,Below 30 Years|Females,4900.0,Number
+1.5,Taxi/Private Hire Car Only,2,30 - 39 Years|Total,18400.0,Number
+1.5,Taxi/Private Hire Car Only,2,30 - 39 Years|Males,8700.0,Number
+1.5,Taxi/Private Hire Car Only,2,30 - 39 Years|Females,9800.0,Number
+1.5,Taxi/Private Hire Car Only,2,40 - 49 Years|Total,16900.0,Number
+1.5,Taxi/Private Hire Car Only,2,40 - 49 Years|Males,7300.0,Number
+1.5,Taxi/Private Hire Car Only,2,40 - 49 Years|Females,9600.0,Number
+1.5,Taxi/Private Hire Car Only,2,50 - 59 Years|Total,10000.0,Number
+1.5,Taxi/Private Hire Car Only,2,50 - 59 Years|Males,5000.0,Number
+1.5,Taxi/Private Hire Car Only,2,50 - 59 Years|Females,5000.0,Number
+1.5,Taxi/Private Hire Car Only,2,60 Years & Over|Total,6000.0,Number
+1.5,Taxi/Private Hire Car Only,2,60 Years & Over|Males,3400.0,Number
+1.5,Taxi/Private Hire Car Only,2,60 Years & Over|Females,2600.0,Number
+1.6,Car Only,2,Total|Total,499000.0,Number
+1.6,Car Only,2,Total|Males,317800.0,Number
+1.6,Car Only,2,Total|Females,181200.0,Number
+1.6,Car Only,2,Below 30 Years|Total,23700.0,Number
+1.6,Car Only,2,Below 30 Years|Males,15500.0,Number
+1.6,Car Only,2,Below 30 Years|Females,8200.0,Number
+1.6,Car Only,2,30 - 39 Years|Total,119200.0,Number
+1.6,Car Only,2,30 - 39 Years|Males,70300.0,Number
+1.6,Car Only,2,30 - 39 Years|Females,48800.0,Number
+1.6,Car Only,2,40 - 49 Years|Total,154800.0,Number
+1.6,Car Only,2,40 - 49 Years|Males,95600.0,Number
+1.6,Car Only,2,40 - 49 Years|Females,59200.0,Number
+1.6,Car Only,2,50 - 59 Years|Total,121900.0,Number
+1.6,Car Only,2,50 - 59 Years|Males,79700.0,Number
+1.6,Car Only,2,50 - 59 Years|Females,42200.0,Number
+1.6,Car Only,2,60 Years & Over|Total,79400.0,Number
+1.6,Car Only,2,60 Years & Over|Males,56500.0,Number
+1.6,Car Only,2,60 Years & Over|Females,22900.0,Number
+1.7,Private Chartered Bus/Van Only,2,Total|Total,38200.0,Number
+1.7,Private Chartered Bus/Van Only,2,Total|Males,23900.0,Number
+1.7,Private Chartered Bus/Van Only,2,Total|Females,14300.0,Number
+1.7,Private Chartered Bus/Van Only,2,Below 30 Years|Total,2500.0,Number
+1.7,Private Chartered Bus/Van Only,2,Below 30 Years|Males,1500.0,Number
+1.7,Private Chartered Bus/Van Only,2,Below 30 Years|Females,1000.0,Number
+1.7,Private Chartered Bus/Van Only,2,30 - 39 Years|Total,6900.0,Number
+1.7,Private Chartered Bus/Van Only,2,30 - 39 Years|Males,4100.0,Number
+1.7,Private Chartered Bus/Van Only,2,30 - 39 Years|Females,2700.0,Number
+1.7,Private Chartered Bus/Van Only,2,40 - 49 Years|Total,11200.0,Number
+1.7,Private Chartered Bus/Van Only,2,40 - 49 Years|Males,6400.0,Number
+1.7,Private Chartered Bus/Van Only,2,40 - 49 Years|Females,4800.0,Number
+1.7,Private Chartered Bus/Van Only,2,50 - 59 Years|Total,9800.0,Number
+1.7,Private Chartered Bus/Van Only,2,50 - 59 Years|Males,6200.0,Number
+1.7,Private Chartered Bus/Van Only,2,50 - 59 Years|Females,3600.0,Number
+1.7,Private Chartered Bus/Van Only,2,60 Years & Over|Total,7900.0,Number
+1.7,Private Chartered Bus/Van Only,2,60 Years & Over|Males,5700.0,Number
+1.7,Private Chartered Bus/Van Only,2,60 Years & Over|Females,2200.0,Number
+1.8,Lorry/Pickup Only,2,Total|Total,17100.0,Number
+1.8,Lorry/Pickup Only,2,Total|Males,15600.0,Number
+1.8,Lorry/Pickup Only,2,Total|Females,1600.0,Number
+1.8,Lorry/Pickup Only,2,Below 30 Years|Total,400.0,Number
+1.8,Lorry/Pickup Only,2,Below 30 Years|Males,400.0,Number
+1.8,Lorry/Pickup Only,2,Below 30 Years|Females,0.0,Number
+1.8,Lorry/Pickup Only,2,30 - 39 Years|Total,1300.0,Number
+1.8,Lorry/Pickup Only,2,30 - 39 Years|Males,1200.0,Number
+1.8,Lorry/Pickup Only,2,30 - 39 Years|Females,100.0,Number
+1.8,Lorry/Pickup Only,2,40 - 49 Years|Total,3100.0,Number
+1.8,Lorry/Pickup Only,2,40 - 49 Years|Males,2800.0,Number
+1.8,Lorry/Pickup Only,2,40 - 49 Years|Females,300.0,Number
+1.8,Lorry/Pickup Only,2,50 - 59 Years|Total,4500.0,Number
+1.8,Lorry/Pickup Only,2,50 - 59 Years|Males,4100.0,Number
+1.8,Lorry/Pickup Only,2,50 - 59 Years|Females,500.0,Number
+1.8,Lorry/Pickup Only,2,60 Years & Over|Total,7800.0,Number
+1.8,Lorry/Pickup Only,2,60 Years & Over|Males,7200.0,Number
+1.8,Lorry/Pickup Only,2,60 Years & Over|Females,600.0,Number
+1.9,Motorcycle/Scooter Only,2,Total|Total,69100.0,Number
+1.9,Motorcycle/Scooter Only,2,Total|Males,60800.0,Number
+1.9,Motorcycle/Scooter Only,2,Total|Females,8300.0,Number
+1.9,Motorcycle/Scooter Only,2,Below 30 Years|Total,11800.0,Number
+1.9,Motorcycle/Scooter Only,2,Below 30 Years|Males,9600.0,Number
+1.9,Motorcycle/Scooter Only,2,Below 30 Years|Females,2300.0,Number
+1.9,Motorcycle/Scooter Only,2,30 - 39 Years|Total,19300.0,Number
+1.9,Motorcycle/Scooter Only,2,30 - 39 Years|Males,16500.0,Number
+1.9,Motorcycle/Scooter Only,2,30 - 39 Years|Females,2700.0,Number
+1.9,Motorcycle/Scooter Only,2,40 - 49 Years|Total,16100.0,Number
+1.9,Motorcycle/Scooter Only,2,40 - 49 Years|Males,14200.0,Number
+1.9,Motorcycle/Scooter Only,2,40 - 49 Years|Females,2000.0,Number
+1.9,Motorcycle/Scooter Only,2,50 - 59 Years|Total,13300.0,Number
+1.9,Motorcycle/Scooter Only,2,50 - 59 Years|Males,12300.0,Number
+1.9,Motorcycle/Scooter Only,2,50 - 59 Years|Females,1000.0,Number
+1.9,Motorcycle/Scooter Only,2,60 Years & Over|Total,8600.0,Number
+1.9,Motorcycle/Scooter Only,2,60 Years & Over|Males,8200.0,Number
+1.9,Motorcycle/Scooter Only,2,60 Years & Over|Females,300.0,Number
+1.10,Others,2,Total|Total,27800.0,Number
+1.10,Others,2,Total|Males,19100.0,Number
+1.10,Others,2,Total|Females,8600.0,Number
+1.10,Others,2,Below 30 Years|Total,2700.0,Number
+1.10,Others,2,Below 30 Years|Males,2100.0,Number
+1.10,Others,2,Below 30 Years|Females,500.0,Number
+1.10,Others,2,30 - 39 Years|Total,4800.0,Number
+1.10,Others,2,30 - 39 Years|Males,3200.0,Number
+1.10,Others,2,30 - 39 Years|Females,1600.0,Number
+1.10,Others,2,40 - 49 Years|Total,5400.0,Number
+1.10,Others,2,40 - 49 Years|Males,3100.0,Number
+1.10,Others,2,40 - 49 Years|Females,2400.0,Number
+1.10,Others,2,50 - 59 Years|Total,7300.0,Number
+1.10,Others,2,50 - 59 Years|Males,4700.0,Number
+1.10,Others,2,50 - 59 Years|Females,2600.0,Number
+1.10,Others,2,60 Years & Over|Total,7500.0,Number
+1.10,Others,2,60 Years & Over|Males,6100.0,Number
+1.10,Others,2,60 Years & Over|Females,1500.0,Number
+1.11,No Transport Required,2,Total|Total,229200.0,Number
+1.11,No Transport Required,2,Total|Males,129500.0,Number
+1.11,No Transport Required,2,Total|Females,99600.0,Number
+1.11,No Transport Required,2,Below 30 Years|Total,12900.0,Number
+1.11,No Transport Required,2,Below 30 Years|Males,6200.0,Number
+1.11,No Transport Required,2,Below 30 Years|Females,6700.0,Number
+1.11,No Transport Required,2,30 - 39 Years|Total,39600.0,Number
+1.11,No Transport Required,2,30 - 39 Years|Males,19500.0,Number
+1.11,No Transport Required,2,30 - 39 Years|Females,20100.0,Number
+1.11,No Transport Required,2,40 - 49 Years|Total,47800.0,Number
+1.11,No Transport Required,2,40 - 49 Years|Males,25600.0,Number
+1.11,No Transport Required,2,40 - 49 Years|Females,22100.0,Number
+1.11,No Transport Required,2,50 - 59 Years|Total,57900.0,Number
+1.11,No Transport Required,2,50 - 59 Years|Males,33400.0,Number
+1.11,No Transport Required,2,50 - 59 Years|Females,24500.0,Number
+1.11,No Transport Required,2,60 Years & Over|Total,71000.0,Number
+1.11,No Transport Required,2,60 Years & Over|Males,44800.0,Number
+1.11,No Transport Required,2,60 Years & Over|Females,26300.0,Number

@@ -1,0 +1,16 @@
+{
+  "_note": "Parser-prior / provenance reference: typical VERIFIED effect magnitudes per intervention type (sourced research, tropical/SG-first). Used to ground the open-intervention parser's estimates and as a defensibility backstop. Confidence: verified / partial / indicative. NOT engine inputs — the engine still simulates each modifier; these are the sanity anchors our capability effects sit within.",
+  "interventions": {
+    "protected_cycle_lane": { "co2_per_km_yr_t": 40, "cycling_uplift_pct": "25-52% (4× vs no lane)", "cost_usd_per_km": "0.3-1.5M", "confidence": "partial", "basis": "Bogota/Guangzhou network; Nature Cities 2025" },
+    "covered_walkway": { "co2": "gap (benefit flows via transit)", "cost_sgd_per_100m": "200k-300k (high 600k)", "confidence": "verified", "basis": "MOT 2021 [SG]" },
+    "street_trees": { "cooling_c": "~2 daytime (tropical)", "seq_kg_per_tree_yr": "100-200", "night_warming_risk_c": "up to 0.8", "confidence": "verified", "basis": "Cambridge 110-city review; Singapore-ETH 88 sites [SG/tropical]" },
+    "rooftop_solar": { "yield_kwh_per_kwp_yr": "1100-1250", "co2_t_per_kwp_yr": 0.5, "cost_sgd_per_kwp": "940-1600", "payback_yr": "6-10", "confidence": "verified", "basis": "EMA; Malaysia 14-yr measured 1,202; Changi 43MWp ~465 tCO2/MWp/yr [SG/SEA]" },
+    "ev_hub": { "co2_t_per_charger_yr": "5-15 (utilisation-driven)", "grid_kgco2_per_kwh": 0.43, "note": "utilisation is the dominant lever (4× range 20%→80%)", "confidence": "indicative", "basis": "SG grid + utilisation logic [SG]" },
+    "bus_priority": { "frequency_elasticity": "0.5-0.7", "car_shift_pct": "5-15%", "net_saving_g_per_pkm": "50-80", "confidence": "verified", "basis": "TCRP; IPCC AR4; LTA LTMP2040 [W/SG]" },
+    "pedestrianisation": { "footfall_uplift_pct": "+50%", "corridor_co2_reduction_pct": "~1.6%", "confidence": "partial", "basis": "Oxford St 2025; NZ study [W]" },
+    "pocket_park": { "cooling_c": "1-3 within/adjacent (~100m radius)", "confidence": "partial", "basis": "Xi'an/Shanghai [ASIA subtropical]" },
+    "green_roof": { "cooling_energy_saving_pct": "5-20% top floor", "energy_kwh_per_m2_yr": "2-17", "cost_sgd_per_m2": "120-400 (SGIS halves it)", "confidence": "partial", "basis": "SG studies; NParks SGIS [SG/ASIA]" },
+    "floating_solar": { "yield_kwh_per_kwp_yr": "1265-1440 (+5-15% vs rooftop)", "co2_t_per_kwp_yr": 0.53, "capex_premium_pct": "15-25", "confidence": "verified", "basis": "PUB/Sembcorp Tengeh 60MWp ~32,000 tCO2/yr = 533 tCO2/MWp/yr [SG] — corrects the erroneous 6 GWh figure seen elsewhere" }
+  },
+  "regional_grid_kgco2_per_kwh": { "singapore": 0.402, "malaysia": "0.45-0.55", "thailand": 0.5, "vietnam": "0.5-0.6", "indonesia": 0.7, "_note": "parameterise for broader SEA" }
+}

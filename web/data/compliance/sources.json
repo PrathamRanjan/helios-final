@@ -1,0 +1,138 @@
+{
+  "_note": "Source manifest for compliance rules. Raw documents live in helios/policy_sources/ (gitignored — BCA material is reference-only, no redistribution). Rules cite these ids + page numbers.",
+  "sources": {
+    "lta_vrl_16_2025": {
+      "title": "LTA circular VRL/16/2025 — Extension and adjustment of the EEAI and VES (incl. NEA/LTA joint news release, 8 Sep 2025)",
+      "issuer": "Land Transport Authority / National Environment Agency",
+      "url": "https://onemotoring.lta.gov.sg/content/dam/onemotoring/pdf/Circulars%20to%20ESAs/2025/VRL_16_2025.pdf",
+      "file": "VRL_16_2025.pdf",
+      "published": "2025-09-08",
+      "retrieved": "2026-10-16",
+      "kind": "official_circular",
+      "licence": "Singapore Government — public information"
+    },
+    "bca_gm2021_cert_std_r3": {
+      "title": "BCA Green Mark 2021 Certification Standard (3rd Edition, R3)",
+      "issuer": "Building and Construction Authority",
+      "url": "https://go.gov.sg/GM2021",
+      "file": "20260601_certification_standard_r3.pdf",
+      "published": "2026-06-01",
+      "retrieved": "2026-10-16",
+      "kind": "official_standard",
+      "licence": "© BCA — reference use only; no reproduction/distribution without consent"
+    },
+    "bca_gm2021_inop_nonresi": {
+      "title": "BCA Green Mark 2021 In-Operation (Non-Residential) submission template — EE requirement & EUI Pathway 1",
+      "issuer": "Building and Construction Authority",
+      "url": "https://go.gov.sg/GM2021",
+      "file": "20250606_gm2021_in-operation_nonresi.xlsx",
+      "published": "2025-06-06",
+      "retrieved": "2026-10-16",
+      "kind": "official_template",
+      "licence": "© BCA — reference use only; no reproduction/distribution without consent"
+    },
+    "bca_gm2021_inop_resi": {
+      "title": "BCA Green Mark 2021 In-Operation (Residential) submission template R2",
+      "issuer": "Building and Construction Authority",
+      "url": "https://go.gov.sg/GM2021",
+      "file": "gm2021_in-operation_resi_r2.xlsx",
+      "published": null,
+      "retrieved": "2026-10-16",
+      "kind": "official_template",
+      "licence": "© BCA — reference use only; no reproduction/distribution without consent"
+    },
+    "bca_building_energy_2020": {
+      "title": "Listing of Building Energy Performance Data 2020 (EUI 2017–2020 per building)",
+      "issuer": "Building and Construction Authority (via data.gov.sg)",
+      "url": "https://data.gov.sg/datasets/d_e86d8a219d0936dbb321ade068a381da/view",
+      "file": null,
+      "published": "2024-06-06",
+      "retrieved": "2026-10-16",
+      "kind": "official_dataset",
+      "licence": "Singapore Open Data Licence"
+    },
+    "bca_green_mark_buildings": {
+      "title": "Green Mark Buildings (certificates, ratings, expiry)",
+      "issuer": "Building and Construction Authority (via data.gov.sg)",
+      "url": "https://data.gov.sg/datasets/d_c4bd082b48fa7611713f39e23d250c27/view",
+      "file": null,
+      "published": "2026-05-19",
+      "retrieved": "2026-10-16",
+      "kind": "official_dataset",
+      "licence": "Singapore Open Data Licence"
+    },
+    "mas_sat_info_note_2025": {
+      "title": "Application of the Singapore-Asia Taxonomy in the Financial and Corporate Sectors — Information Note",
+      "issuer": "Monetary Authority of Singapore",
+      "url": "https://www.mas.gov.sg/development/sustainable-finance/taxonomy",
+      "file": "MAS Singapore-Asia Taxonomy Information Note.pdf",
+      "published": "2025-03",
+      "retrieved": "2026-10-16",
+      "kind": "official_guidance",
+      "licence": "MAS — public information",
+      "note": "Context only; contains no activity thresholds. Full SAT 2023 edition still needed."
+    },
+    "sso_cpa2018": {
+      "title": "Carbon Pricing Act 2018 (2020 Rev. Ed., consolidation in force from 1 Jan 2024)",
+      "issuer": "Attorney-General's Chambers — Singapore Statutes Online",
+      "url": "https://sso.agc.gov.sg/Act/CPA2018",
+      "file": "Carbon Pricing Act 2018.pdf",
+      "published": "2024-01-01",
+      "retrieved": "2026-10-16",
+      "kind": "legislation",
+      "licence": "Singapore Government — public legislation"
+    },
+    "sso_evca2022": {
+      "title": "Electric Vehicles Charging Act 2022 (consolidation in force from 1 Jul 2026)",
+      "issuer": "Attorney-General's Chambers — Singapore Statutes Online",
+      "url": "https://sso.agc.gov.sg/Act/EVCA2022",
+      "file": "Electric Vehicles Charging Act 2022.pdf",
+      "published": "2026-07-01",
+      "retrieved": "2026-10-16",
+      "kind": "legislation",
+      "licence": "Singapore Government — public legislation"
+    },
+    "sso_evca_chargers_regs": {
+      "title": "Electric Vehicles Charging (Electric Vehicle Chargers) Regulations 2023 (consolidation from 18 Mar 2025)",
+      "issuer": "Attorney-General's Chambers — Singapore Statutes Online",
+      "url": "https://sso.agc.gov.sg/SL/EVCA2022-S786-2023",
+      "file": "Electric Vehicles Charging (Electric Vehicle Chargers) Regulations 2023.pdf",
+      "published": "2025-03-18",
+      "retrieved": "2026-10-16",
+      "kind": "subsidiary_legislation",
+      "licence": "Singapore Government — public legislation"
+    },
+    "mas_sat_2023": {
+      "title": "Singapore-Asia Taxonomy for Sustainable Finance — 2023 Edition",
+      "issuer": "Monetary Authority of Singapore",
+      "url": "https://www.mas.gov.sg/-/media/mas-media-library/development/sustainable-finance/singaporeasia-taxonomy-updated.pdf",
+      "file": "MAS Singapore-Asia Taxonomy (updated).pdf",
+      "published": "2023-12",
+      "retrieved": "2026-10-16",
+      "kind": "official_taxonomy",
+      "licence": "MAS — public information"
+    },
+    "acra_sds_cp_2026": {
+      "title": "Consultation Paper on the Singapore Sustainability Disclosure Standards (draft SFRS S1/S2), July 2026",
+      "issuer": "ACRA Interim Sustainability Standards Committee",
+      "url": "https://file.go.gov.sg/singapore-sds-consultation-paper.pdf",
+      "file": "ACRA Singapore SFRS S1 S2 Consultation Paper July 2026.pdf",
+      "published": "2026-07-27",
+      "retrieved": "2026-10-16",
+      "kind": "consultation",
+      "licence": "Singapore Government — public information",
+      "note": "Consultation closes 25 Oct 2026; standards are drafts. Table 1 restates the existing climate-reporting roadmap."
+    },
+    "nccs_carbon_tax_trajectory": {
+      "title": "NCCS — Singapore carbon tax trajectory (S$50–80/tCO2e by 2030, policy statement)",
+      "issuer": "National Climate Change Secretariat",
+      "url": "https://www.nccs.gov.sg/media/parliamentary-reply-by-min-grace-fu-on-singapore-s-carbon-tax/",
+      "file": null,
+      "published": null,
+      "retrieved": "2026-10-16",
+      "kind": "policy_statement",
+      "licence": "Singapore Government — public information",
+      "note": "Not legislated: the Carbon Pricing Act fixes S$45/t for 2026 and later years until amended."
+    }
+  }
+}

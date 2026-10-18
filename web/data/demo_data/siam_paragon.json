@@ -1,0 +1,89 @@
+{
+ "source": "google_solar",
+ "address": "Siam Paragon, Bangkok, Thailand",
+ "lat": 13.7467897,
+ "lng": 100.53495819999999,
+ "country_code": "TH",
+ "roof_area_m2": 22135,
+ "usable_area_m2": 18469,
+ "usable_fraction_verified": 0.834,
+ "panels": 9406,
+ "kwp": 3762.4,
+ "yearly_kwh": 5995040,
+ "sunshine_hours_per_year": 1697,
+ "panel_capacity_watts": 400,
+ "panel_area_m2": 1.96,
+ "imagery_quality": "LOW",
+ "imagery_date": "2025-01-22",
+ "roof_segment_count": 58,
+ "roof_segments": [
+  {
+   "pitch_deg": 8.1,
+   "azimuth_deg": 134.4,
+   "area_m2": 2119,
+   "sunshine_kwh_m2_yr": 1648
+  },
+  {
+   "pitch_deg": 6.2,
+   "azimuth_deg": 292.9,
+   "area_m2": 2109,
+   "sunshine_kwh_m2_yr": 1628
+  },
+  {
+   "pitch_deg": 2.3,
+   "azimuth_deg": 72.7,
+   "area_m2": 1947,
+   "sunshine_kwh_m2_yr": 1654
+  },
+  {
+   "pitch_deg": 1.5,
+   "azimuth_deg": 162.3,
+   "area_m2": 1893,
+   "sunshine_kwh_m2_yr": 1666
+  },
+  {
+   "pitch_deg": 3.6,
+   "azimuth_deg": 17.3,
+   "area_m2": 1476,
+   "sunshine_kwh_m2_yr": 1650
+  },
+  {
+   "pitch_deg": 10.2,
+   "azimuth_deg": 61.9,
+   "area_m2": 1371,
+   "sunshine_kwh_m2_yr": 1629
+  }
+ ],
+ "best_segment": {
+  "pitch_deg": 8.1,
+  "azimuth_deg": 134.4,
+  "area_m2": 2119,
+  "sunshine_kwh_m2_yr": 1648
+ },
+ "confidence_tier": "A",
+ "confidence_band_pct": 20,
+ "provenance": "Google Solar API (buildingInsights + dataLayers)",
+ "tariff_per_kwh_usd": 0.122,
+ "tariff_year": 2025,
+ "tariff_source": "MEA medium-business tariff average",
+ "tariff_tier": "medium-business retail",
+ "om_usd_per_kwp_year": 15,
+ "om_usd_per_year": 56436,
+ "yearly_savings_usd": 674959,
+ "yearly_gross_revenue_y1_usd": 731395,
+ "install_cost_usd": 3574280,
+ "payback_years": 5,
+ "co2_offset_tonnes_per_year": 2991.5,
+ "co2_source": "EGAT 2024 grid emission factor",
+ "lifetime_savings_20y_usd": 13570154,
+ "npv_usd": 4351397,
+ "lcoe_usd_per_mwh": 41.9,
+ "degradation_rate": 0.007,
+ "tariff_escalation": 0.03,
+ "discount_rate": 0.08,
+ "performance_ratio": 0.75,
+ "utility": "MEA / PEA",
+ "country": "Thailand",
+ "grid_carbon_kg_per_kwh": 0.499,
+ "headline": "Shopping mall · 6.0 GWh / yr potential"
+}

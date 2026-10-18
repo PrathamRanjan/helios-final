@@ -1,0 +1,17 @@
+{
+  "_note": "Labelled eval set for the shock_parser agent. Each item: a news text and the expected shock type (or null when irrelevant) with magnitude bounds. Scored by run_evals.py: type accuracy, magnitude-in-range rate, false-positive rate on irrelevant items.",
+  "items": [
+    {"text": "Brent crude jumps 35% in a week after Strait of Hormuz shipping disruption; Singapore pump prices expected to rise sharply.", "expect_type": "oil_price_spike", "bounds": {"carCostIncreasePct": [10, 60]}},
+    {"text": "LTA confirms the Circle Line Stage 6 will open on 12 December, closing the loop and cutting journeys between Marina Bay and HarbourFront.", "expect_type": "mrt_loop_closure", "bounds": {"mrtSpeedupPct": [5, 30]}},
+    {"text": "NEA warns of a prolonged hot spell with daily maximum temperatures of 35–36°C expected over the next two weeks.", "expect_type": "heatwave", "bounds": {"severity": [0.1, 0.8]}},
+    {"text": "Meteorological Service Singapore forecasts an unusually wet northeast monsoon with flash floods likely in low-lying areas.", "expect_type": "heavy_rain", "bounds": {"severity": [0.1, 0.8]}},
+    {"text": "A regional gas supply outage forces Singapore gencos to run older oil-fired units, raising grid emissions temporarily.", "expect_type": "grid_carbon_spike", "bounds": {"gridFactorMultiplier": [1.05, 1.6]}},
+    {"text": "MOH reports a new respiratory virus wave; schools move to home-based learning and offices urged to let staff work from home.", "expect_type": "pandemic", "bounds": {"demandDropPct": [10, 70]}},
+    {"text": "Singapore Zoo welcomes twin red panda cubs.", "expect_type": null},
+    {"text": "A new bubble tea chain opens 10 outlets in Orchard Road malls.", "expect_type": null},
+    {"text": "Government announces ERP 2.0 gantry rates unchanged for the next quarter.", "expect_type": null},
+    {"text": "Diesel and petrol prices fall 8% as global oil markets ease.", "expect_type": null},
+    {"text": "Haze from regional fires pushes PSI into the unhealthy range; residents advised to reduce outdoor activity.", "expect_type": "heatwave", "alt_types": [null], "bounds": {"severity": [0.05, 0.6]}},
+    {"text": "Thomson-East Coast Line Stage 5 opening delayed by a year due to testing issues.", "expect_type": null}
+  ]
+}

@@ -1,0 +1,23 @@
+# Invoked by scripts/deploy/cloud.py build; both Dockerfiles use the repo root.
+serviceAccount: projects/$PROJECT_ID/serviceAccounts/${_BUILD_ACCOUNT}@$PROJECT_ID.iam.gserviceaccount.com
+steps:
+  - id: web
+    name: gcr.io/cloud-builders/docker
+    args: [build, --platform, linux/amd64, --file, web/Dockerfile, --build-arg, 'NEXT_PUBLIC_GOOGLE_MAPS_KEY=${_MAPS_KEY}', --tag, '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/web:${_TAG}', .]
+    waitFor: ['-']
+  - id: engine
+    name: gcr.io/cloud-builders/docker
+    args: [build, --platform, linux/amd64, --file, engine/Dockerfile, --tag, '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/engine:${_TAG}', .]
+    waitFor: ['-']
+images:
+  - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/web:${_TAG}'
+  - '${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/engine:${_TAG}'
+substitutions:
+  _REGION: asia-southeast1
+  _REPOSITORY: helios
+  _TAG: manual
+  _MAPS_KEY: ''
+  _BUILD_ACCOUNT: helios-build
+timeout: 1800s
+options:
+  logging: CLOUD_LOGGING_ONLY

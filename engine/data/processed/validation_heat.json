@@ -1,0 +1,7 @@
+{
+  "check": "Stull wet-bulb from NEA 2024 island-mean temp/RH vs NEA measured hourly wet-bulb (Changi)",
+  "n_hours": 8766,
+  "bias_c": -0.121,
+  "mae_c": 0.367,
+  "corr": 0.841
+}

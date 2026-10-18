@@ -1,0 +1,42 @@
+{
+  "_note": "B2G intervention finance for HELIO Flow. Costs stored in USD; UI converts to local currency. Every value labelled per COMPASS_DATA_LEDGER. Numbers are defensible ballparks from official Singapore programmes — realistic, not audited estimates.",
+  "discount_rate_social": { "value": 0.04, "label": "literature-derived", "source": "Public-sector social discount rate; UK Green Book 3.5%, ADB 6-9% Asia infra — 4% mid, shown in UI" },
+  "horizon_years": 10,
+  "district_budget_usd": { "value": 1500000, "label": "speculative", "source": "Demo framing: ~S$2M district low-carbon infrastructure envelope" },
+
+  "carbon_price_usd_per_t": {
+    "trajectory": { "2026": 33, "2027": 33, "2030": 48, "2036": 55 },
+    "label": "policy pathway",
+    "source": "Carbon Pricing Act 2018, Third Schedule (verified): S$45/t for 2026 and every later year until amended. 2030+ values follow the government's S$50-80/t by 2030 intent (mid S$65) — policy pathway, not law. USD at 1.35 SGD/USD"
+  },
+
+  "_unit_costs_note": "Refreshed from sourced Singapore unit-cost research (2021-2026). VERIFIED = official SG figure; PARTIAL = SG-inferred; INDICATIVE = proxy. SGD→USD at 1.35.",
+  "unit_costs_usd": {
+    "covered_walkway_per_km": { "value": 1110000, "label": "literature-derived", "source": "LTA Walk2Ride programme ~S$1.5M/km (S$300M/200km, 2018) ÷ 1.35. Official MOT per-km statement is higher (S$2.0-3.0M/km, 2021) — using the programme-average lower end. [PARTIAL]" },
+    "cycle_lane_per_km": { "value": 570000, "label": "literature-derived", "source": "LTA cycling network >S$1B for ~1,300km ≈ S$770k/km ÷ 1.35 [programme avg]; specific urban contracts run to S$3.42M/km (S$188.3M/55km, 2023) [PARTIAL]" },
+    "solar_per_kwp": { "value": 747, "label": "measured", "source": "EMA 2025 rooftop-PV benchmark S$1,009/kWp (1,000 kWp industrial; official range S$1,000-1,600) ÷ 1.35 [VERIFIED]" },
+    "battery_per_kwh": { "value": 250, "label": "calibrated proxy", "source": "BNEF 2025 all-in turnkey BESS ~US$117/kWh + distributed/small-scale premium → ~US$250/kWh [PARTIAL]" },
+    "ev_ac_port": { "value": 5900, "label": "literature-derived", "source": "LTA ECCG 2025 worked examples S$5,500-10,500/charger all-in (mid S$8k) ÷ 1.35 [PARTIAL]" },
+    "shade_trees_per_km": { "value": 90000, "label": "calibrated proxy", "source": "NParks tree cost S$250-300/tree × ~100 trees/km = S$25-30k/km planting; + establishment/soil-cell/civils → ~S$120k/km ÷ 1.35. (Report 10 NParks-based supports this lower figure vs the UK-proxy 185k.) [INDICATIVE]" }
+  },
+
+  "energy_value_usd_per_kwh": {
+    "electricity_tariff": { "value": 0.213, "label": "measured", "source": "SP Group SG tariff ~S$0.29/kWh ÷ 1.35 — solar displaces grid purchase (real cash saving)" },
+    "ev_cost_recovery": { "value": 0.1, "label": "calibrated proxy", "source": "Net charging margin (fee − wholesale electricity) per kWh dispensed" }
+  },
+
+  "opex_rate_per_year": {
+    "solar": { "value": 0.01, "label": "literature-derived", "source": "PV O&M ~1%/yr of capex (NREL/IRENA)" },
+    "ev": { "value": 0.05, "label": "literature-derived", "source": "Charger servicing/downtime ~5%/yr of hardware (CPO reports)" },
+    "civil": { "value": 0.02, "label": "calibrated proxy", "source": "Walkway/lane/greenery upkeep ~2%/yr" },
+    "default": { "value": 0.02, "label": "calibrated proxy", "source": "Generic infrastructure upkeep" }
+  },
+
+  "currencies": {
+    "USD": { "symbol": "$", "code": "USD", "per_usd": 1, "label": "measured", "source": "base" },
+    "SGD": { "symbol": "S$", "code": "SGD", "per_usd": 1.35, "label": "measured", "source": "~2026 USD/SGD" },
+    "THB": { "symbol": "฿", "code": "THB", "per_usd": 34, "label": "measured", "source": "~2026 USD/THB" },
+    "VND": { "symbol": "₫", "code": "VND", "per_usd": 26000, "label": "measured", "source": "~2026 USD/VND" }
+  },
+  "district_currency": { "jurong_east": "SGD", "hanoi": "VND", "bangkok": "THB" }
+}

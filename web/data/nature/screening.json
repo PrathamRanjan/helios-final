@@ -1,0 +1,109 @@
+{
+  "_note": "TNFD 'Locate' screening for a single building, island-wide. Each test is a threshold on a measured distance or value. 'basis' says whether the threshold comes from a Singapore rule ('cited') or is a HELIOS screening choice ('method') — method thresholds are flags for a closer look, not findings of harm.",
+  "framework": {
+    "name": "TNFD LEAP approach — Locate phase (interface with nature, sensitive locations)",
+    "url": "https://tnfd.global/publication/additional-guidance-on-assessment-of-nature-related-issues-the-leap-approach/"
+  },
+  "tests": [
+    {
+      "id": "protected_inside",
+      "group": "nature",
+      "label": "Inside a nature reserve or national park",
+      "metric": "d_protected",
+      "op": "<=",
+      "value": 0,
+      "level": "high",
+      "basis": "cited",
+      "source": "URA Master Plan 2025 SDCP Nature Reserve, National Park and Nature Area Boundary; reserves are protected under the Parks and Trees Act 2005",
+      "url": "https://data.gov.sg/datasets/d_4617a296298180aa9faf2369bc3ff1c9/view"
+    },
+    {
+      "id": "protected_near",
+      "group": "nature",
+      "label": "Within 500 m of a nature reserve or national park",
+      "metric": "d_protected",
+      "op": "<=",
+      "value": 500,
+      "level": "elevated",
+      "basis": "method",
+      "source": "HELIOS screening buffer — edge effects (light, noise, run-off) reach a few hundred metres; NParks may ask for an environmental study near reserves"
+    },
+    {
+      "id": "nature_area_near",
+      "group": "nature",
+      "label": "Within 100 m of a designated nature area",
+      "metric": "d_nature",
+      "op": "<=",
+      "value": 100,
+      "level": "elevated",
+      "basis": "method",
+      "source": "HELIOS screening buffer around URA MP2025 Nature Areas"
+    },
+    {
+      "id": "coastal_habitat_near",
+      "group": "nature",
+      "label": "Within 250 m of mangrove, seagrass, coral or mudflat",
+      "metric": "d_habitat",
+      "op": "<=",
+      "value": 250,
+      "level": "elevated",
+      "basis": "method",
+      "source": "NParks Coastal and Marine Habitat Map 2018; HELIOS screening buffer",
+      "url": "https://data.gov.sg/datasets/d_18bcfe0a1b8c77f9b4493cef72ffd717/view"
+    },
+    {
+      "id": "ground_below_old_mpl",
+      "group": "flood",
+      "label": "Ground below 3 m above mean sea level",
+      "metric": "ground_m",
+      "op": "<",
+      "value": 3,
+      "level": "high",
+      "basis": "cited",
+      "source": "PUB: before 2011 the minimum platform level for new developments was 3 m above mean sea level; raised to at least 4 m in 2011. Mean sea level may rise up to 1.15 m by 2100 (NCCS, V3).",
+      "url": "https://pub.gov.sg/Public/KeyInitiatives/Flood-Resilience/Coastal-Protection"
+    },
+    {
+      "id": "ground_below_mpl",
+      "group": "flood",
+      "label": "Ground below today's 4 m minimum platform level",
+      "metric": "ground_m",
+      "op": "<",
+      "value": 4,
+      "level": "elevated",
+      "basis": "cited",
+      "source": "PUB: minimum platform level for new developments raised to at least 4 m above mean sea level since 2011",
+      "url": "https://pub.gov.sg/Public/KeyInitiatives/Flood-Resilience/Coastal-Protection"
+    },
+    {
+      "id": "flood_spot_near",
+      "group": "flood",
+      "label": "Within 300 m of a PUB flood-prone location",
+      "metric": "d_flood",
+      "op": "<=",
+      "value": 300,
+      "level": "elevated",
+      "basis": "method",
+      "source": "PUB List of Flood Prone Areas (Nov 2025); 300 m is a HELIOS buffer around each geocoded location",
+      "url": "https://www.pub.gov.sg/-/media/PUB/PDF/Flood-Management/List-of-Flood-Prone-Areas-as-at-Nov-2025.pdf"
+    },
+    {
+      "id": "low_greenery",
+      "group": "heat",
+      "label": "Less than 10% vegetation within 100 m",
+      "metric": "veg_100m",
+      "op": "<",
+      "value": 10,
+      "level": "elevated",
+      "basis": "method",
+      "source": "ESA WorldCover 2021. Low surrounding greenery is associated with higher surface and air temperatures; 10% is a HELIOS screening cut, not a standard.",
+      "url": "https://esa-worldcover.org/"
+    }
+  ],
+  "caveats": [
+    "Ground level is estimated from a 30 m surface model (Copernicus DEM, includes roofs and trees) by taking the 10th percentile of non-water cells within ~75 m. Expect ±2–4 m; a survey platform level always wins.",
+    "Flood-prone locations are PUB's named streets geocoded to one point each; PUB does not publish their extents.",
+    "GBIF records reflect where people look as much as where species live (observer bias), so species counts compare areas loosely.",
+    "IUCN threatened categories come via GBIF from the IUCN Red List, which is free for non-commercial use only. Commercial use would need an IUCN/IBAT licence."
+  ]
+}

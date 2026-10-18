@@ -1,0 +1,27 @@
+{
+  "_note": "Generalized mode-choice coefficients for the HELIO Flow world engine. Illustrative, calibrated to a plausible Singapore baseline split — a modelled reallocation, NOT a ridership forecast.",
+  "betas": {
+    "time_per_min": { "value": -0.06, "label": "literature-derived", "source": "V2 calibration; within Rahman et al. IJTTE 2020 range (-0.02..-0.08)" },
+    "cost_per_usd": { "value": -0.18, "label": "literature-derived", "source": "V2 calibration; Bierlaire MNL framework (EPFL)" },
+    "heat": { "value": -0.6, "label": "calibrated proxy", "source": "UTCI heat-mobility literature; heatwaves cut active travel 20-40% (arXiv:2501.03978)" },
+    "rain": { "value": -0.4, "label": "calibrated proxy", "source": "Rain-cycling elasticity -0.3..-0.5 (covered-walkway literature)" },
+    "comfort": { "value": -0.5, "label": "calibrated proxy", "source": "Plausible Singapore baseline" },
+    "safety": { "value": -0.7, "label": "calibrated proxy", "source": "Plausible Singapore baseline; perceived-safety cycling literature" }
+  },
+  "asc": { "car": -0.15, "bus": -0.9, "mrt": -0.4, "walk": -0.5, "cycle": -2.0 },
+  "_asc_note": "Recalibrated for the generalized utility (heat/rain/comfort/safety terms shifted the V2 baseline): targets the accepted V2 all-day split (car ~0.38, PT ~0.47, walk ~0.08, cycle ~0.06), HTS-informed. Label: calibrated proxy.",
+  "speed_kmh": { "car": 28, "bus": 18, "mrt": 35, "walk": 4.6, "cycle": 14 },
+  "access_wait_min": { "car": 4, "bus": 9, "mrt": 7, "walk": 0, "cycle": 1 },
+  "_wait_note": "bus wait overridden at runtime by measured LTA headways (data/lta_frequencies.json peak_wait_min). Label: measured.",
+  "cost_per_km_usd": { "car": 0.22, "bus": 0.04, "mrt": 0.05, "walk": 0, "cycle": 0 },
+  "fixed_cost_usd": { "car": 2.2, "bus": 0.55, "mrt": 0.6, "walk": 0, "cycle": 0 },
+  "walk_max_km": 2.2,
+  "cycle_max_km": 6.0,
+  "infeasible_penalty": -6.0,
+  "baseline_pt_share": { "value": 0.65, "label": "measured", "source": "LTA Household Travel Survey peak-period PT mode share (~65%)" },
+  "exposure_weight_by_mode": { "car": 0.0, "bus": 0.2, "mrt": 0.1, "walk": 1.0, "cycle": 1.0 },
+  "_exposure_note": "Fraction of a trip's heat/rain exposure felt per mode (bus/mrt = first/last-mile walking). Label: calibrated proxy.",
+  "comfort_weight_by_mode": { "car": 0.0, "bus": 0.1, "mrt": 0.1, "walk": 0.8, "cycle": 1.0 },
+  "safety_weight_by_mode": { "car": 0.0, "bus": 0.0, "mrt": 0.0, "walk": 0.4, "cycle": 1.0 },
+  "_weight_note": "How strongly comfort/safety scores act on each mode's utility (cycling most safety-sensitive per ITDP protected-lane literature). Label: calibrated proxy."
+}

@@ -1,0 +1,59 @@
+# Render using cloud.py render. Secrets are references, never credential values.
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: ${SERVICE}
+  annotations:
+    run.googleapis.com/ingress: all
+spec:
+  template:
+    metadata:
+      annotations:
+        run.googleapis.com/execution-environment: gen2
+        run.googleapis.com/container-dependencies: '{"web":["engine"]}'
+        autoscaling.knative.dev/minScale: '0'
+        autoscaling.knative.dev/maxScale: '1'
+    spec:
+      serviceAccountName: ${RUNTIME_ACCOUNT}
+      containerConcurrency: 8
+      timeoutSeconds: 1200
+      containers:
+        - name: web
+          image: ${WEB_IMAGE}
+          ports:
+            - containerPort: 8080
+          resources:
+            limits: {cpu: '1', memory: 2Gi}
+          env:
+            - {name: HOSTNAME, value: '0.0.0.0'}
+            - {name: ENGINE_URL, value: 'http://127.0.0.1:8081'}
+            - {name: HELIOS_INTERNAL_APP_URL, value: 'http://127.0.0.1:8080'}
+            - {name: HELIOS_STORAGE_BUCKET, value: '${BUCKET}'}
+            - {name: LLM_MODEL, value: '${WEB_MODEL}'}
+            - {name: LLM_BASE_URL, value: 'https://generativelanguage.googleapis.com/v1beta/openai'}
+            - name: GOOGLE_MAPS_API_KEY
+              valueFrom: {secretKeyRef: {name: '${MAPS_SECRET}', key: '${SECRET_VERSION}'}}
+            - name: GOOGLE_SOLAR_API_KEY
+              valueFrom: {secretKeyRef: {name: '${SOLAR_SECRET}', key: '${SECRET_VERSION}'}}
+            - name: GEMINI_API_KEY
+              valueFrom: {secretKeyRef: {name: '${GEMINI_SECRET}', key: '${SECRET_VERSION}'}}
+            - name: LLM_API_KEY
+              valueFrom: {secretKeyRef: {name: '${LLM_SECRET}', key: '${SECRET_VERSION}'}}
+          startupProbe:
+            httpGet: {path: /api/health, port: 8080}
+            periodSeconds: 5
+            failureThreshold: 48
+        - name: engine
+          image: ${ENGINE_IMAGE}
+          resources:
+            limits: {cpu: '1', memory: 2Gi}
+          env:
+            - {name: PORT, value: '8081'}
+            - {name: HELIOS_APP_URL, value: 'http://127.0.0.1:8080'}
+            - {name: HELIOS_MODEL, value: '${ENGINE_MODEL}'}
+            - name: GEMINI_API_KEY
+              valueFrom: {secretKeyRef: {name: '${GEMINI_SECRET}', key: '${SECRET_VERSION}'}}
+          startupProbe:
+            httpGet: {path: /health, port: 8081}
+            periodSeconds: 5
+            failureThreshold: 48

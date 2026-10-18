@@ -1,0 +1,63 @@
+{
+  "id": "sg.ves.2026_2027",
+  "title": "Vehicular Emissions Scheme (VES) 2026–2027 — band, rebate / surcharge",
+  "instrument": "Vehicular Emissions Scheme (NEA / LTA)",
+  "jurisdiction": "SG",
+  "category": "cost",
+  "kind": "worst_band",
+  "status": "in_force",
+  "effective_from": "2026-01-01",
+  "effective_to": "2027-12-31",
+  "supersedes": "sg.ves.2024_2025",
+  "applies_to": { "asset": ["vehicle"], "vehicle_class": ["car", "taxi"], "event": "new_registration" },
+  "citation": {
+    "source": "lta_vrl_16_2025",
+    "clause": "Para 3 & Table 2; Joint News Release Table 1 and footnote 2",
+    "pages": [2, 5],
+    "quote": "categorised into one of five VES bands, based on the worst-performing of the following pollutants"
+  },
+  "metrics": {
+    "co2_g_km": { "label": "CO₂", "unit": "g/km" },
+    "hc_g_km": { "label": "HC", "unit": "g/km" },
+    "co_g_km": { "label": "CO", "unit": "g/km" },
+    "nox_g_km": { "label": "NOx", "unit": "g/km" },
+    "pm_mg_km": { "label": "PM", "unit": "mg/km" }
+  },
+  "bands": [
+    { "band": "A", "max": { "co2_g_km": 90, "hc_g_km": 0, "co_g_km": 0, "nox_g_km": 0, "pm_mg_km": 0 } },
+    { "band": "B", "max": { "co2_g_km": 120, "hc_g_km": 0.024, "co_g_km": 0.19, "nox_g_km": 0.009, "pm_mg_km": 0.3 } },
+    { "band": "C1", "max": { "co2_g_km": 159, "hc_g_km": 0.029, "co_g_km": 0.27, "nox_g_km": 0.018, "pm_mg_km": 0.4 } },
+    { "band": "C2", "max": { "co2_g_km": 182, "hc_g_km": 0.04, "co_g_km": 0.35, "nox_g_km": 0.022, "pm_mg_km": 1.0 } },
+    { "band": "C3", "max": null }
+  ],
+  "amount_sgd": {
+    "_sign": "negative = rebate off ARF, positive = surcharge",
+    "periods": [
+      { "from": "2026-01-01", "to": "2026-12-31", "by_band": { "A": -22500, "B": 0, "C1": 7500, "C2": 22500, "C3": 35000 } },
+      { "from": "2027-01-01", "to": "2027-12-31", "by_band": { "A": -20000, "B": 0, "C1": 15000, "C2": 30000, "C3": 45000 } }
+    ]
+  },
+  "multipliers": { "vehicle_class": { "taxi": 1.5 } },
+  "constants": {
+    "ev_grid_emission_factor_g_per_wh": {
+      "value": 0.4,
+      "until": "2027-12-31",
+      "note": "CO₂ for EVs / PHEVs is accounted at 0.4 g CO₂/Wh of electricity (VRL 16/2025 para 8, p.3)."
+    }
+  },
+  "notes": [
+    "Hybrids no longer receive rebates from 2026; only EVs reach Band A.",
+    "Pollutant thresholds unchanged from the 2024–25 scheme; bands were renamed (A1→A, A2→B, B→C1, C1→C2, C2→C3)."
+  ],
+  "examples": [
+    { "name": "EV car 2026", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "co2_g_km": 60, "hc_g_km": 0, "co_g_km": 0, "nox_g_km": 0, "pm_mg_km": 0 }, "expect": { "tier": "A", "amount_sgd": -22500 } },
+    { "name": "EV car 2027", "asOf": "2027-03-01", "facts": { "vehicle_class": "car", "co2_g_km": 60, "hc_g_km": 0, "co_g_km": 0, "nox_g_km": 0, "pm_mg_km": 0 }, "expect": { "tier": "A", "amount_sgd": -20000 } },
+    { "name": "Hybrid lands in neutral band B", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "co2_g_km": 105, "hc_g_km": 0.01, "co_g_km": 0.1, "nox_g_km": 0.005, "pm_mg_km": 0.1 }, "expect": { "tier": "B", "amount_sgd": 0 } },
+    { "name": "Worst pollutant decides (NOx pushes to C2)", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "co2_g_km": 110, "hc_g_km": 0.01, "co_g_km": 0.1, "nox_g_km": 0.02, "pm_mg_km": 0.1 }, "expect": { "tier": "C2", "amount_sgd": 22500 } },
+    { "name": "Petrol taxi C3 with 1.5x", "asOf": "2027-03-01", "facts": { "vehicle_class": "taxi", "co2_g_km": 200, "hc_g_km": 0.03, "co_g_km": 0.3, "nox_g_km": 0.02, "pm_mg_km": 0.5 }, "expect": { "tier": "C3", "amount_sgd": 67500 } },
+    { "name": "Exactly on the C1 CO₂ limit stays C1", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "co2_g_km": 159, "hc_g_km": 0.01, "co_g_km": 0.1, "nox_g_km": 0.005, "pm_mg_km": 0.1 }, "expect": { "tier": "C1", "amount_sgd": 7500 } },
+    { "name": "Expired after 2027", "asOf": "2028-02-01", "facts": { "vehicle_class": "car", "co2_g_km": 60, "hc_g_km": 0, "co_g_km": 0, "nox_g_km": 0, "pm_mg_km": 0 }, "expect": { "outcome": "not_in_force" } },
+    { "name": "Missing pollutant data", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "co2_g_km": 100 }, "expect": { "outcome": "needs_info" } }
+  ],
+  "review": { "confidence": "verified_primary", "reviewed_by": "claude (extracted) — pending human sign-off", "reviewed_at": "2026-10-16" }
+}

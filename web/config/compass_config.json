@@ -1,0 +1,81 @@
+{
+  "_note": "Tunable parameters for the HELIO Compass engine. Mode-choice coefficients are illustrative, calibrated to a plausible Singapore baseline split — NOT a ridership forecast.",
+
+  "solar": {
+    "feed_in_rate_per_kwh_usd": 0.10,
+    "demand_to_gen_ratio": 2.5,
+    "storage_self_consumption_bonus": 0.18,
+    "lifetime_years": 20,
+    "nearby_node_radius_km": 0.6
+  },
+
+  "mode_choice": {
+    "modes": ["car", "bus", "mrt", "walk", "cycle"],
+    "beta_time_per_min": -0.06,
+    "beta_cost_per_usd": -0.18,
+    "asc": { "car": 0.0, "bus": -0.9, "mrt": -0.4, "walk": -1.2, "cycle": -2.2 },
+    "speed_kmh": { "car": 28, "bus": 18, "mrt": 35, "walk": 4.6, "cycle": 14 },
+    "access_wait_min": { "car": 4, "bus": 9, "mrt": 7, "walk": 0, "cycle": 1 },
+    "cost_per_km_usd": { "car": 0.22, "bus": 0.04, "mrt": 0.05, "walk": 0, "cycle": 0 },
+    "fixed_cost_usd": { "car": 2.2, "bus": 0.55, "mrt": 0.6, "walk": 0, "cycle": 0 },
+    "walk_max_km": 2.2,
+    "cycle_max_km": 6.0,
+    "infeasible_penalty": -6.0,
+    "baseline_pt_share": 0.65,
+    "_baseline_pt_share_source": "LTA Household Travel Survey — peak-period public-transport mode share (~65%, target 75% by 2030). Replaces the earlier 0.55 placeholder."
+  },
+
+  "weather": {
+    "_note": "Walk/cycle disutility added under each scenario (Singapore heat/rain suppress active travel). Representative of NEA readings; live wiring is a later fine-tune.",
+    "scenarios": {
+      "clear":  { "label": "Clear morning", "walk_penalty": 0.0,  "cycle_penalty": 0.0 },
+      "hot":    { "label": "Hot midday (WBGT high)", "walk_penalty": -1.1, "cycle_penalty": -0.7 },
+      "rain":   { "label": "Rain", "walk_penalty": -1.6, "cycle_penalty": -2.0 }
+    }
+  },
+
+  "interventions": {
+    "lifetime_years": 15,
+    "green_corridor": {
+      "label": "Green corridor (new cycling + walking link)",
+      "cycle_asc_bonus": 0.7,
+      "walk_asc_bonus": 0.4,
+      "cycle_max_km_extension": 1.5,
+      "capex_per_km_usd": 250000,
+      "corridor_km": 1.5
+    },
+    "road_to_green": {
+      "label": "Convert road lane → green corridor",
+      "car_time_penalty_min": 4.0,
+      "cycle_asc_bonus": 0.8,
+      "walk_asc_bonus": 0.5,
+      "capex_per_km_usd": 180000,
+      "corridor_km": 1.2
+    },
+    "mobility_hub": {
+      "label": "Mobility hub / bike shop + parking",
+      "cycle_asc_bonus": 0.9,
+      "capex_usd": 150000
+    },
+    "sheltered_walkway": {
+      "label": "Sheltered / solar walkway",
+      "removes_walk_weather_penalty": true,
+      "walk_asc_bonus": 0.3,
+      "capex_per_km_usd": 200000,
+      "corridor_km": 1.0,
+      "solar_kwp": 40
+    },
+    "erp_parking": {
+      "label": "Raise ERP / cut parking supply",
+      "car_cost_increase_usd": 2.5,
+      "capex_usd": 40000
+    },
+    "new_bus_stop": {
+      "label": "New bus stop / higher frequency",
+      "bus_wait_reduction_min": 3.0,
+      "capex_usd": 80000
+    },
+    "solar_capex_per_kwp_usd": 1100,
+    "solar_storage_capex_per_kwp_usd": 1550
+  }
+}

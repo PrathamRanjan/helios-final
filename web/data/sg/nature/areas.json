@@ -1,0 +1,3797 @@
+{
+ "_sources": {
+  "nature": "URA Master Plan 2025 SDCP Nature Reserve, National Park and Nature Area Boundary (data.gov.sg)",
+  "land_cover": "ESA WorldCover 10 m 2021 v200 (CC BY 4.0)",
+  "elevation": "Copernicus DEM GLO-30 (\u00a9 DLR/Airbus, provided under COPERNICUS by the EU and ESA)",
+  "flood": "PUB List of Flood Prone Areas, as at Nov 2025 (36 locations), geocoded with OneMap",
+  "biodiversity": "GBIF.org occurrence API (records with coordinates, no geospatial issues). IUCN categories as assigned by GBIF from the IUCN Red List.",
+  "heritage_trees": "NParks Heritage Trees (data.gov.sg)"
+ },
+ "retrieved": "2026-10-16",
+ "areas": {
+  "ang_mo_kio": {
+   "area_km2": 13.93,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.36,
+   "vegetation_cover": 0.425,
+   "mangrove_ha": 0.0,
+   "buildings": 5345,
+   "bld_near_protected_500m": 1375,
+   "bld_near_nature_100m": 231,
+   "bld_ground_below_4m": 2,
+   "bld_near_flood_spot_300m": 224,
+   "bld_low_greenery": 2144,
+   "flood_spots": [],
+   "heritage_trees": 1,
+   "gbif": {
+    "records": 21589,
+    "species": 1624,
+    "threatened_species": 50,
+    "threatened_records": 718,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 147,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 68,
+      "introduced": false
+     },
+     {
+      "name": "Pteropus vampyrus",
+      "vernacular": "large flying fox",
+      "class": "Mammalia",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Montipora hispida",
+      "vernacular": "pore coral",
+      "class": "Anthozoa",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "bedok": {
+   "area_km2": 21.78,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.214,
+   "vegetation_cover": 0.263,
+   "mangrove_ha": 0.0,
+   "buildings": 12039,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 509,
+   "bld_near_flood_spot_300m": 1195,
+   "bld_low_greenery": 8266,
+   "flood_spots": [
+    {
+     "sn": 4,
+     "location": "Bedok South Rd (slip road to Bedok South Ave 1)"
+    },
+    {
+     "sn": 5,
+     "location": "Service road off Changi Road (near Chin Cheng Ave)"
+    },
+    {
+     "sn": 19,
+     "location": "Lorong H Telok Kurau (near canal)"
+    },
+    {
+     "sn": 27,
+     "location": "State Land at junction of New Upper Changi Road and Tanah Merah Kechil Avenue"
+    },
+    {
+     "sn": 34,
+     "location": "Upper East Coast Road (near Parbury Avenue)"
+    }
+   ],
+   "heritage_trees": 4,
+   "gbif": {
+    "records": 18995,
+    "species": 1370,
+    "threatened_species": 35,
+    "threatened_records": 1216,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 71,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 67,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 15,
+      "introduced": false
+     },
+     {
+      "name": "Parathelphusa reticulata",
+      "vernacular": "Reticulated Swamp Crab",
+      "class": "Malacostraca",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Amyda cartilaginea",
+      "vernacular": "Asiatic Softshell Turtle",
+      "class": "Testudines",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Pitta nympha",
+      "vernacular": "Fairy Pitta",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "bishan": {
+   "area_km2": 7.6,
+   "nature_area_share": 0.001,
+   "protected_share": 0.001,
+   "tree_cover": 0.292,
+   "vegetation_cover": 0.343,
+   "mangrove_ha": 0.0,
+   "buildings": 3789,
+   "bld_near_protected_500m": 1436,
+   "bld_near_nature_100m": 361,
+   "bld_ground_below_4m": 17,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 1980,
+   "flood_spots": [],
+   "heritage_trees": 1,
+   "gbif": {
+    "records": 70518,
+    "species": 2138,
+    "threatened_species": 27,
+    "threatened_records": 3170,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 357,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 18,
+      "introduced": false
+     },
+     {
+      "name": "Cryptocoryne pontederiifolia",
+      "vernacular": null,
+      "class": "Liliopsida",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Khaya senegalensis",
+      "vernacular": "Senegal Mahogany",
+      "class": "Magnoliopsida",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 4,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "boon_lay": {
+   "area_km2": 8.28,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.122,
+   "vegetation_cover": 0.174,
+   "mangrove_ha": 0.0,
+   "buildings": 719,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 65,
+   "bld_near_flood_spot_300m": 14,
+   "bld_low_greenery": 394,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 2370,
+    "species": 298,
+    "threatened_species": 18,
+    "threatened_records": 209,
+    "top_threatened": [
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 19,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 14,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus comes",
+      "vernacular": "Tiger Tail Seahorse",
+      "class": null,
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "bukit_batok": {
+   "area_km2": 11.16,
+   "nature_area_share": 0.068,
+   "protected_share": 0.0,
+   "tree_cover": 0.453,
+   "vegetation_cover": 0.491,
+   "mangrove_ha": 0.0,
+   "buildings": 3517,
+   "bld_near_protected_500m": 166,
+   "bld_near_nature_100m": 208,
+   "bld_ground_below_4m": 6,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 1225,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 26803,
+    "species": 1549,
+    "threatened_species": 30,
+    "threatened_records": 974,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 141,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 48,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 25,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 10,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Oxalis corniculata",
+      "vernacular": "Procumbent Yellow-sorrel",
+      "class": "Magnoliopsida",
+      "records": 5,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "bukit_merah": {
+   "area_km2": 14.44,
+   "nature_area_share": 0.063,
+   "protected_share": 0.007,
+   "tree_cover": 0.342,
+   "vegetation_cover": 0.376,
+   "mangrove_ha": 0.0,
+   "buildings": 2382,
+   "bld_near_protected_500m": 52,
+   "bld_near_nature_100m": 137,
+   "bld_ground_below_4m": 175,
+   "bld_near_flood_spot_300m": 182,
+   "bld_low_greenery": 506,
+   "flood_spots": [
+    {
+     "sn": 1,
+     "location": "Prince Philip Avenue / Jervois Road"
+    },
+    {
+     "sn": 10,
+     "location": "Indus Road (from Havelock Road to Ganges Avenue)"
+    },
+    {
+     "sn": 20,
+     "location": "State Land at junction of Alexandra Road and Lower Delta Road"
+    },
+    {
+     "sn": 36,
+     "location": "Former Boys' Brigade HQ at Zion Road"
+    }
+   ],
+   "heritage_trees": 16,
+   "gbif": {
+    "records": 74514,
+    "species": 1578,
+    "threatened_species": 41,
+    "threatened_records": 2758,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 251,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 49,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 45,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "bukit_panjang": {
+   "area_km2": 9.02,
+   "nature_area_share": 0.201,
+   "protected_share": 0.18,
+   "tree_cover": 0.529,
+   "vegetation_cover": 0.558,
+   "mangrove_ha": 0.0,
+   "buildings": 1980,
+   "bld_near_protected_500m": 483,
+   "bld_near_nature_100m": 75,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 641,
+   "flood_spots": [],
+   "heritage_trees": 4,
+   "gbif": {
+    "records": 150523,
+    "species": 2649,
+    "threatened_species": 36,
+    "threatened_records": 5777,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 1128,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 457,
+      "introduced": false
+     },
+     {
+      "name": "Pitta nympha",
+      "vernacular": "Fairy Pitta",
+      "class": "Aves",
+      "records": 72,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 56,
+      "introduced": false
+     },
+     {
+      "name": "Anisophyllea disticha",
+      "vernacular": "Mousedeer Plant",
+      "class": "Magnoliopsida",
+      "records": 36,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 23,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "bukit_timah": {
+   "area_km2": 17.5,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.416,
+   "vegetation_cover": 0.449,
+   "mangrove_ha": 0.0,
+   "buildings": 9419,
+   "bld_near_protected_500m": 372,
+   "bld_near_nature_100m": 32,
+   "bld_ground_below_4m": 1,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 2917,
+   "flood_spots": [],
+   "heritage_trees": 4,
+   "gbif": {
+    "records": 58497,
+    "species": 1893,
+    "threatened_species": 43,
+    "threatened_records": 2615,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 596,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 70,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 38,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 32,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Aphanamixis polystachya",
+      "vernacular": "Pithraj Tree",
+      "class": "Magnoliopsida",
+      "records": 6,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "central_water_catchment": {
+   "area_km2": 37.17,
+   "nature_area_share": 0.834,
+   "protected_share": 0.811,
+   "tree_cover": 0.721,
+   "vegetation_cover": 0.778,
+   "mangrove_ha": 0.0,
+   "buildings": 0,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 0,
+   "flood_spots": [],
+   "heritage_trees": 8,
+   "gbif": {
+    "records": 199319,
+    "species": 6383,
+    "threatened_species": 119,
+    "threatened_records": 5918,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 2064,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 152,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 84,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 68,
+      "introduced": false
+     },
+     {
+      "name": "Anisophyllea disticha",
+      "vernacular": "Mousedeer Plant",
+      "class": "Magnoliopsida",
+      "records": 67,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 44,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "changi": {
+   "area_km2": 41.49,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.157,
+   "vegetation_cover": 0.418,
+   "mangrove_ha": 0.0,
+   "buildings": 1473,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 208,
+   "bld_near_flood_spot_300m": 55,
+   "bld_low_greenery": 457,
+   "flood_spots": [
+    {
+     "sn": 24,
+     "location": "Mindef\u2019s Changi Camp at junction of Changi Village Road and Farnborough Road"
+    }
+   ],
+   "heritage_trees": 16,
+   "gbif": {
+    "records": 27780,
+    "species": 1392,
+    "threatened_species": 40,
+    "threatened_records": 1665,
+    "top_threatened": [
+     {
+      "name": "Pluvialis squatarola",
+      "vernacular": "Black-bellied Plover",
+      "class": "Aves",
+      "records": 123,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 103,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 69,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 19,
+      "introduced": false
+     },
+     {
+      "name": "Calidris falcinellus",
+      "vernacular": "Broad-billed Sandpiper",
+      "class": "Aves",
+      "records": 11,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 10,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "changi_bay": {
+   "area_km2": 1.94,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.519,
+   "vegetation_cover": 0.649,
+   "mangrove_ha": 0.0,
+   "buildings": 0,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 0,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 1675,
+    "species": 171,
+    "threatened_species": 5,
+    "threatened_records": 70,
+    "top_threatened": [
+     {
+      "name": "Pluvialis squatarola",
+      "vernacular": "Black-bellied Plover",
+      "class": "Aves",
+      "records": 24,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Acridotheres javanicus",
+      "vernacular": "Javan Myna",
+      "class": "Aves",
+      "records": 41,
+      "introduced": true
+     }
+    ]
+   }
+  },
+  "choa_chu_kang": {
+   "area_km2": 6.1,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.18,
+   "vegetation_cover": 0.239,
+   "mangrove_ha": 0.0,
+   "buildings": 1665,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 33,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 809,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 5256,
+    "species": 517,
+    "threatened_species": 11,
+    "threatened_records": 341,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 44,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Kopsia fruticosa",
+      "vernacular": "shrub-vinca",
+      "class": "Magnoliopsida",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus comes",
+      "vernacular": "Tiger Tail Seahorse",
+      "class": null,
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Pterocarpus indicus",
+      "vernacular": "Amboyna-wood",
+      "class": "Magnoliopsida",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "clementi": {
+   "area_km2": 9.52,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.236,
+   "vegetation_cover": 0.269,
+   "mangrove_ha": 0.0,
+   "buildings": 2677,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 102,
+   "bld_near_flood_spot_300m": 124,
+   "bld_low_greenery": 946,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 23666,
+    "species": 996,
+    "threatened_species": 18,
+    "threatened_records": 1329,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 186,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 17,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 10,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "downtown_core": {
+   "area_km2": 5.07,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.127,
+   "vegetation_cover": 0.194,
+   "mangrove_ha": 0.0,
+   "buildings": 2436,
+   "bld_near_protected_500m": 344,
+   "bld_near_nature_100m": 18,
+   "bld_ground_below_4m": 249,
+   "bld_near_flood_spot_300m": 341,
+   "bld_low_greenery": 2008,
+   "flood_spots": [
+    {
+     "sn": 3,
+     "location": "St John\u2019s Headquarters at junction of Beach Road and Java Road"
+    }
+   ],
+   "heritage_trees": 21,
+   "gbif": {
+    "records": 10947,
+    "species": 1169,
+    "threatened_species": 31,
+    "threatened_records": 729,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 21,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 14,
+      "introduced": false
+     },
+     {
+      "name": "Oxalis corniculata",
+      "vernacular": "Procumbent Yellow-sorrel",
+      "class": "Magnoliopsida",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Egretta eulophotes",
+      "vernacular": "Chinese Egret",
+      "class": "Aves",
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "geylang": {
+   "area_km2": 9.64,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.136,
+   "vegetation_cover": 0.168,
+   "mangrove_ha": 0.0,
+   "buildings": 5624,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 1666,
+   "bld_near_flood_spot_300m": 996,
+   "bld_low_greenery": 4109,
+   "flood_spots": [
+    {
+     "sn": 17,
+     "location": "Langsat Road Area (from Lor 102 Changi to Lor 106 Changi)"
+    },
+    {
+     "sn": 28,
+     "location": "Rose Lane"
+    }
+   ],
+   "heritage_trees": 3,
+   "gbif": {
+    "records": 3063,
+    "species": 512,
+    "threatened_species": 21,
+    "threatened_records": 282,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 30,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 23,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Kopsia fruticosa",
+      "vernacular": "shrub-vinca",
+      "class": "Magnoliopsida",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Irmengardia johnsoni",
+      "vernacular": "Johnson's Freshwater Crab",
+      "class": "Malacostraca",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Scleropages formosus",
+      "vernacular": "Asian bonytongue",
+      "class": null,
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "hougang": {
+   "area_km2": 13.94,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.173,
+   "vegetation_cover": 0.228,
+   "mangrove_ha": 0.0,
+   "buildings": 8162,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 198,
+   "bld_near_flood_spot_300m": 474,
+   "bld_low_greenery": 5451,
+   "flood_spots": [
+    {
+     "sn": 18,
+     "location": "Lorong Buangkok Area"
+    },
+    {
+     "sn": 31,
+     "location": "Service road off Tampines Road (near Jalan Teliti)"
+    }
+   ],
+   "heritage_trees": 3,
+   "gbif": {
+    "records": 17222,
+    "species": 850,
+    "threatened_species": 29,
+    "threatened_records": 1034,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 49,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 41,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Parathelphusa reticulata",
+      "vernacular": "Reticulated Swamp Crab",
+      "class": "Malacostraca",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Scleropages formosus",
+      "vernacular": "Asian bonytongue",
+      "class": null,
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Carettochelys insculpta",
+      "vernacular": "Pignose turtle",
+      "class": "Testudines",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "jurong_east": {
+   "area_km2": 17.86,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.172,
+   "vegetation_cover": 0.252,
+   "mangrove_ha": 0.0,
+   "buildings": 1023,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 61,
+   "bld_near_flood_spot_300m": 23,
+   "bld_low_greenery": 221,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 82419,
+    "species": 1141,
+    "threatened_species": 36,
+    "threatened_records": 3303,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 497,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 112,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 48,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 40,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 19,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 15,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "jurong_west": {
+   "area_km2": 14.67,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.183,
+   "vegetation_cover": 0.254,
+   "mangrove_ha": 0.0,
+   "buildings": 3177,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 51,
+   "bld_near_flood_spot_300m": 42,
+   "bld_low_greenery": 1656,
+   "flood_spots": [
+    {
+     "sn": 9,
+     "location": "Hong Kah Area"
+    },
+    {
+     "sn": 29,
+     "location": "Second Chin Bee Road"
+    }
+   ],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 4980,
+    "species": 627,
+    "threatened_species": 20,
+    "threatened_records": 289,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 31,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 16,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 10,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus comes",
+      "vernacular": "Tiger Tail Seahorse",
+      "class": null,
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Scleropages formosus",
+      "vernacular": "Asian bonytongue",
+      "class": null,
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Heosemys spinosa",
+      "vernacular": "Spiny turtle",
+      "class": "Testudines",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "kallang": {
+   "area_km2": 8.59,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.189,
+   "vegetation_cover": 0.266,
+   "mangrove_ha": 0.0,
+   "buildings": 3331,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 724,
+   "bld_near_flood_spot_300m": 790,
+   "bld_low_greenery": 1508,
+   "flood_spots": [
+    {
+     "sn": 11,
+     "location": "Jalan Benaan Kapal"
+    },
+    {
+     "sn": 12,
+     "location": "Jalan Besar Area"
+    },
+    {
+     "sn": 15,
+     "location": "Jalan Taman"
+    },
+    {
+     "sn": 16,
+     "location": "People\u2019s Association HQ at King George\u2019s Avenue"
+    }
+   ],
+   "heritage_trees": 2,
+   "gbif": {
+    "records": 10954,
+    "species": 631,
+    "threatened_species": 17,
+    "threatened_records": 721,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 51,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 29,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Kopsia fruticosa",
+      "vernacular": "shrub-vinca",
+      "class": "Magnoliopsida",
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Sousa chinensis",
+      "vernacular": "Chinese white dolphin",
+      "class": "Mammalia",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "lim_chu_kang": {
+   "area_km2": 17.47,
+   "nature_area_share": 0.153,
+   "protected_share": 0.074,
+   "tree_cover": 0.515,
+   "vegetation_cover": 0.747,
+   "mangrove_ha": 89.3,
+   "buildings": 875,
+   "bld_near_protected_500m": 267,
+   "bld_near_nature_100m": 118,
+   "bld_ground_below_4m": 31,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 19,
+   "flood_spots": [],
+   "heritage_trees": 1,
+   "gbif": {
+    "records": 285715,
+    "species": 1574,
+    "threatened_species": 34,
+    "threatened_records": 11446,
+    "top_threatened": [
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 3048,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 1793,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 341,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 288,
+      "introduced": false
+     },
+     {
+      "name": "Calidris falcinellus",
+      "vernacular": "Broad-billed Sandpiper",
+      "class": "Aves",
+      "records": 106,
+      "introduced": false
+     },
+     {
+      "name": "Calidris tenuirostris",
+      "vernacular": "Great Knot",
+      "class": "Aves",
+      "records": 43,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "mandai": {
+   "area_km2": 11.73,
+   "nature_area_share": 0.026,
+   "protected_share": 0.026,
+   "tree_cover": 0.608,
+   "vegetation_cover": 0.834,
+   "mangrove_ha": 0.0,
+   "buildings": 715,
+   "bld_near_protected_500m": 48,
+   "bld_near_nature_100m": 8,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 167,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 8578,
+    "species": 1022,
+    "threatened_species": 12,
+    "threatened_records": 298,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 70,
+      "introduced": false
+     },
+     {
+      "name": "Mulleripicus pulverulentus",
+      "vernacular": "Great Slaty Woodpecker",
+      "class": "Aves",
+      "records": 52,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Kopsia fruticosa",
+      "vernacular": "shrub-vinca",
+      "class": "Magnoliopsida",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "marina_east": {
+   "area_km2": 1.85,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.202,
+   "vegetation_cover": 0.672,
+   "mangrove_ha": 0.0,
+   "buildings": 0,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 0,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 70640,
+    "species": 577,
+    "threatened_species": 11,
+    "threatened_records": 2471,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 208,
+      "introduced": false
+     },
+     {
+      "name": "Pluvialis squatarola",
+      "vernacular": "Black-bellied Plover",
+      "class": "Aves",
+      "records": 11,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Onychoprion aleuticus",
+      "vernacular": "Aleutian Tern",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Calidris falcinellus",
+      "vernacular": "Broad-billed Sandpiper",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "marina_south": {
+   "area_km2": 1.63,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.42,
+   "vegetation_cover": 0.619,
+   "mangrove_ha": 0.0,
+   "buildings": 0,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 0,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 56530,
+    "species": 794,
+    "threatened_species": 22,
+    "threatened_records": 2506,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 172,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 7,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "marine_parade": {
+   "area_km2": 6.12,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.32,
+   "vegetation_cover": 0.369,
+   "mangrove_ha": 0.0,
+   "buildings": 2721,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 916,
+   "bld_near_flood_spot_300m": 582,
+   "bld_low_greenery": 2158,
+   "flood_spots": [
+    {
+     "sn": 22,
+     "location": "Meyer Road Area (from Fort Road to Broadrick Road)"
+    },
+    {
+     "sn": 25,
+     "location": "Service Road off Mountbatten Rd (near Jalan Seaview)"
+    }
+   ],
+   "heritage_trees": 3,
+   "gbif": {
+    "records": 13432,
+    "species": 1159,
+    "threatened_species": 18,
+    "threatened_records": 678,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 80,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 18,
+      "introduced": false
+     },
+     {
+      "name": "Pareuthymia fasciata",
+      "vernacular": "Malayan Wide-headed Grasshopper",
+      "class": "Insecta",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Pitta nympha",
+      "vernacular": "Fairy Pitta",
+      "class": "Aves",
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "museum": {
+   "area_km2": 0.82,
+   "nature_area_share": 0.218,
+   "protected_share": 0.218,
+   "tree_cover": 0.41,
+   "vegetation_cover": 0.445,
+   "mangrove_ha": 0.0,
+   "buildings": 340,
+   "bld_near_protected_500m": 309,
+   "bld_near_nature_100m": 34,
+   "bld_ground_below_4m": 17,
+   "bld_near_flood_spot_300m": 53,
+   "bld_low_greenery": 114,
+   "flood_spots": [],
+   "heritage_trees": 17,
+   "gbif": {
+    "records": 9601,
+    "species": 544,
+    "threatened_species": 8,
+    "threatened_records": 565,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 23,
+      "introduced": false
+     },
+     {
+      "name": "Costus phyllocephalus",
+      "vernacular": "African Princess",
+      "class": "Liliopsida",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Kopsia fruticosa",
+      "vernacular": "shrub-vinca",
+      "class": "Magnoliopsida",
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "newton": {
+   "area_km2": 2.08,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.533,
+   "vegetation_cover": 0.569,
+   "mangrove_ha": 0.0,
+   "buildings": 1142,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 11,
+   "bld_near_flood_spot_300m": 62,
+   "bld_low_greenery": 268,
+   "flood_spots": [],
+   "heritage_trees": 7,
+   "gbif": {
+    "records": 1216,
+    "species": 271,
+    "threatened_species": 11,
+    "threatened_records": 117,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Trachypithecus obscurus",
+      "vernacular": "dusky leaf monkey",
+      "class": "Mammalia",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Amyda cartilaginea",
+      "vernacular": "Asiatic Softshell Turtle",
+      "class": "Testudines",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "north_eastern_islands": {
+   "area_km2": 67.19,
+   "nature_area_share": 0.129,
+   "protected_share": 0.0,
+   "tree_cover": 0.417,
+   "vegetation_cover": 0.572,
+   "mangrove_ha": 458.9,
+   "buildings": 424,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 154,
+   "bld_ground_below_4m": 123,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 51,
+   "flood_spots": [],
+   "heritage_trees": 9,
+   "gbif": {
+    "records": 752,
+    "species": 175,
+    "threatened_species": 8,
+    "threatened_records": 66,
+    "top_threatened": [
+     {
+      "name": "Egretta eulophotes",
+      "vernacular": "Chinese Egret",
+      "class": "Aves",
+      "records": 20,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 10,
+      "introduced": false
+     },
+     {
+      "name": "Pluvialis squatarola",
+      "vernacular": "Black-bellied Plover",
+      "class": "Aves",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Calidris tenuirostris",
+      "vernacular": "Great Knot",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Treron fulvicollis",
+      "vernacular": "Cinnamon-headed Pigeon",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "novena": {
+   "area_km2": 8.97,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.456,
+   "vegetation_cover": 0.475,
+   "mangrove_ha": 0.0,
+   "buildings": 3859,
+   "bld_near_protected_500m": 619,
+   "bld_near_nature_100m": 61,
+   "bld_ground_below_4m": 120,
+   "bld_near_flood_spot_300m": 110,
+   "bld_low_greenery": 1010,
+   "flood_spots": [
+    {
+     "sn": 7,
+     "location": "CTE (slip road to Moulmein Road)"
+    },
+    {
+     "sn": 8,
+     "location": "Derbyshire Road/ Cambridge Road/ Farrer Park Field"
+    },
+    {
+     "sn": 13,
+     "location": "Jalan Mashor"
+    }
+   ],
+   "heritage_trees": 6,
+   "gbif": {
+    "records": 23851,
+    "species": 1576,
+    "threatened_species": 40,
+    "threatened_records": 1354,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 436,
+      "introduced": false
+     },
+     {
+      "name": "Psittacus erithacus",
+      "vernacular": "Gray Parrot",
+      "class": "Aves",
+      "records": 28,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 26,
+      "introduced": false
+     },
+     {
+      "name": "Rollulus rouloul",
+      "vernacular": "Crested Partridge",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Costus phyllocephalus",
+      "vernacular": "African Princess",
+      "class": "Liliopsida",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Lophura erythrophthalma",
+      "vernacular": "Crestless Fireback",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "orchard": {
+   "area_km2": 0.96,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.218,
+   "vegetation_cover": 0.219,
+   "mangrove_ha": 0.0,
+   "buildings": 295,
+   "bld_near_protected_500m": 11,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 39,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 1737,
+    "species": 335,
+    "threatened_species": 7,
+    "threatened_records": 180,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Kopsia fruticosa",
+      "vernacular": "shrub-vinca",
+      "class": "Magnoliopsida",
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "outram": {
+   "area_km2": 1.36,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.238,
+   "vegetation_cover": 0.249,
+   "mangrove_ha": 0.0,
+   "buildings": 621,
+   "bld_near_protected_500m": 17,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 19,
+   "bld_near_flood_spot_300m": 141,
+   "bld_low_greenery": 451,
+   "flood_spots": [
+    {
+     "sn": 33,
+     "location": "South Bridge Road / Upper Hokien Street / Upper Pickering Street"
+    }
+   ],
+   "heritage_trees": 3,
+   "gbif": {
+    "records": 3549,
+    "species": 381,
+    "threatened_species": 8,
+    "threatened_records": 291,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Heosemys grandis",
+      "vernacular": "Giant Asian pond turtle",
+      "class": "Testudines",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Cinnamomum verum",
+      "vernacular": "True cinnamon tree, Ceylon cinnamon tree, Cinnamon, Ceylon cinnamon",
+      "class": "Magnoliopsida",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Pocillopora acuta",
+      "vernacular": null,
+      "class": "Anthozoa",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "pasir_ris": {
+   "area_km2": 15.77,
+   "nature_area_share": 0.009,
+   "protected_share": 0.0,
+   "tree_cover": 0.293,
+   "vegetation_cover": 0.403,
+   "mangrove_ha": 0.0,
+   "buildings": 3030,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 13,
+   "bld_ground_below_4m": 109,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 1571,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 126502,
+    "species": 1733,
+    "threatened_species": 45,
+    "threatened_records": 4731,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 522,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 86,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 64,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 56,
+      "introduced": false
+     },
+     {
+      "name": "Egretta eulophotes",
+      "vernacular": "Chinese Egret",
+      "class": "Aves",
+      "records": 32,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 30,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "paya_lebar": {
+   "area_km2": 11.69,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.35,
+   "vegetation_cover": 0.614,
+   "mangrove_ha": 0.0,
+   "buildings": 339,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 49,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 958,
+    "species": 390,
+    "threatened_species": 16,
+    "threatened_records": 83,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 34,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Pitta nympha",
+      "vernacular": "Fairy Pitta",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Onychoprion aleuticus",
+      "vernacular": "Aleutian Tern",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "pioneer": {
+   "area_km2": 12.22,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.076,
+   "vegetation_cover": 0.113,
+   "mangrove_ha": 0.0,
+   "buildings": 1203,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 71,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 828,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 308,
+    "species": 191,
+    "threatened_species": 18,
+    "threatened_records": 58,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 20,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 16,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus comes",
+      "vernacular": "Tiger Tail Seahorse",
+      "class": null,
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Scleropages formosus",
+      "vernacular": "Asian bonytongue",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Carcharhinus melanopterus",
+      "vernacular": "Blacktip Reef Shark, Blacktip Shark",
+      "class": "Elasmobranchii",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "punggol": {
+   "area_km2": 9.39,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.279,
+   "vegetation_cover": 0.404,
+   "mangrove_ha": 0.0,
+   "buildings": 1351,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 138,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 384,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 25835,
+    "species": 1101,
+    "threatened_species": 23,
+    "threatened_records": 1001,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 73,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 13,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 7,
+      "introduced": false
+     },
+     {
+      "name": "Aquila nipalensis",
+      "vernacular": "Steppe Eagle",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Egretta eulophotes",
+      "vernacular": "Chinese Egret",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "queenstown": {
+   "area_km2": 21.7,
+   "nature_area_share": 0.026,
+   "protected_share": 0.0,
+   "tree_cover": 0.316,
+   "vegetation_cover": 0.345,
+   "mangrove_ha": 0.0,
+   "buildings": 3221,
+   "bld_near_protected_500m": 26,
+   "bld_near_nature_100m": 296,
+   "bld_ground_below_4m": 122,
+   "bld_near_flood_spot_300m": 567,
+   "bld_low_greenery": 803,
+   "flood_spots": [
+    {
+     "sn": 6,
+     "location": "Junction of Commonwealth Drive and Commonwealth Ave"
+    },
+    {
+     "sn": 14,
+     "location": "Jalan Mat Jambol"
+    },
+    {
+     "sn": 21,
+     "location": "Margaret Drive / Tanglin Road"
+    },
+    {
+     "sn": 26,
+     "location": "Junction of Neo Pee Teck Lane and Pasir Panjang Road"
+    }
+   ],
+   "heritage_trees": 14,
+   "gbif": {
+    "records": 70476,
+    "species": 2078,
+    "threatened_species": 44,
+    "threatened_records": 3122,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 332,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 54,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 51,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 22,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 19,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 18,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "river_valley": {
+   "area_km2": 1.47,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.365,
+   "vegetation_cover": 0.366,
+   "mangrove_ha": 0.0,
+   "buildings": 587,
+   "bld_near_protected_500m": 43,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 12,
+   "bld_near_flood_spot_300m": 1,
+   "bld_low_greenery": 77,
+   "flood_spots": [],
+   "heritage_trees": 2,
+   "gbif": {
+    "records": 1107,
+    "species": 238,
+    "threatened_species": 9,
+    "threatened_records": 87,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Caulastraea echinulata",
+      "vernacular": "finger coral",
+      "class": "Anthozoa",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Buceros bicornis",
+      "vernacular": "Great Hornbill",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Porites lichen",
+      "vernacular": "Lichen coral",
+      "class": "Anthozoa",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus kuda",
+      "vernacular": "Spotted seahorse",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "rochor": {
+   "area_km2": 1.6,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.082,
+   "vegetation_cover": 0.111,
+   "mangrove_ha": 0.0,
+   "buildings": 948,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 130,
+   "bld_near_flood_spot_300m": 18,
+   "bld_low_greenery": 842,
+   "flood_spots": [
+    {
+     "sn": 35,
+     "location": "Waterloo Street / Bencoolen Street / Prinsep Street"
+    }
+   ],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 1666,
+    "species": 387,
+    "threatened_species": 8,
+    "threatened_records": 196,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 10,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Monomorium hospitum",
+      "vernacular": null,
+      "class": "Insecta",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Pangasianodon hypophthalmus",
+      "vernacular": "Striped catfish",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Shorea sumatrana",
+      "vernacular": null,
+      "class": "Magnoliopsida",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "seletar": {
+   "area_km2": 10.81,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.309,
+   "vegetation_cover": 0.558,
+   "mangrove_ha": 0.0,
+   "buildings": 466,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 77,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 105,
+   "flood_spots": [],
+   "heritage_trees": 7,
+   "gbif": {
+    "records": 20186,
+    "species": 606,
+    "threatened_species": 21,
+    "threatened_records": 884,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 98,
+      "introduced": false
+     },
+     {
+      "name": "Balearica regulorum",
+      "vernacular": "Gray Crowned-Crane",
+      "class": "Aves",
+      "records": 72,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Aquila heliaca",
+      "vernacular": "Imperial Eagle",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Numenius madagascariensis",
+      "vernacular": "Far Eastern Curlew",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "sembawang": {
+   "area_km2": 12.61,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.226,
+   "vegetation_cover": 0.306,
+   "mangrove_ha": 0.0,
+   "buildings": 2885,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 99,
+   "bld_near_flood_spot_300m": 34,
+   "bld_low_greenery": 1086,
+   "flood_spots": [
+    {
+     "sn": 2,
+     "location": "Admiralty Road West (from Sembawang Drive to Dock Road West)"
+    }
+   ],
+   "heritage_trees": 5,
+   "gbif": {
+    "records": 10179,
+    "species": 755,
+    "threatened_species": 17,
+    "threatened_records": 558,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 89,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 23,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Calidris falcinellus",
+      "vernacular": "Broad-billed Sandpiper",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "sengkang": {
+   "area_km2": 10.61,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.252,
+   "vegetation_cover": 0.379,
+   "mangrove_ha": 0.0,
+   "buildings": 2024,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 9,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 831,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 7096,
+    "species": 659,
+    "threatened_species": 21,
+    "threatened_records": 422,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 46,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 27,
+      "introduced": false
+     },
+     {
+      "name": "Kopsia fruticosa",
+      "vernacular": "shrub-vinca",
+      "class": "Magnoliopsida",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Scleropages formosus",
+      "vernacular": "Asian bonytongue",
+      "class": null,
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Amyda cartilaginea",
+      "vernacular": "Asiatic Softshell Turtle",
+      "class": "Testudines",
+      "records": 2,
+      "introduced": false
+     },
+     {
+      "name": "Heosemys spinosa",
+      "vernacular": "Spiny turtle",
+      "class": "Testudines",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "serangoon": {
+   "area_km2": 10.09,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.105,
+   "vegetation_cover": 0.148,
+   "mangrove_ha": 0.0,
+   "buildings": 8501,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 34,
+   "bld_near_flood_spot_300m": 348,
+   "bld_low_greenery": 6178,
+   "flood_spots": [
+    {
+     "sn": 23,
+     "location": "Mimosa Walk (near canal)"
+    }
+   ],
+   "heritage_trees": 1,
+   "gbif": {
+    "records": 6189,
+    "species": 722,
+    "threatened_species": 27,
+    "threatened_records": 341,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 39,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 32,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 15,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Amyda cartilaginea",
+      "vernacular": "Asiatic Softshell Turtle",
+      "class": "Testudines",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Pluvialis squatarola",
+      "vernacular": "Black-bellied Plover",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "simpang": {
+   "area_km2": 8.24,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.533,
+   "vegetation_cover": 0.637,
+   "mangrove_ha": 74.7,
+   "buildings": 0,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 0,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 1928,
+    "species": 285,
+    "threatened_species": 11,
+    "threatened_records": 93,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 17,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 9,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Calidris falcinellus",
+      "vernacular": "Broad-billed Sandpiper",
+      "class": "Aves",
+      "records": 7,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 4,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "singapore_river": {
+   "area_km2": 0.96,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.155,
+   "vegetation_cover": 0.173,
+   "mangrove_ha": 0.0,
+   "buildings": 41,
+   "bld_near_protected_500m": 29,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 5,
+   "bld_near_flood_spot_300m": 8,
+   "bld_low_greenery": 25,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 1615,
+    "species": 207,
+    "threatened_species": 6,
+    "threatened_records": 221,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 7,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Egretta eulophotes",
+      "vernacular": "Chinese Egret",
+      "class": "Aves",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus comes",
+      "vernacular": "Tiger Tail Seahorse",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Manis javanica",
+      "vernacular": "Sunda pangolin",
+      "class": "Mammalia",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Acridotheres javanicus",
+      "vernacular": "Javan Myna",
+      "class": "Aves",
+      "records": 206,
+      "introduced": true
+     }
+    ]
+   }
+  },
+  "southern_islands": {
+   "area_km2": 7.1,
+   "nature_area_share": 0.055,
+   "protected_share": 0.0,
+   "tree_cover": 0.405,
+   "vegetation_cover": 0.559,
+   "mangrove_ha": 0.0,
+   "buildings": 1215,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 70,
+   "bld_ground_below_4m": 453,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 282,
+   "flood_spots": [],
+   "heritage_trees": 29,
+   "gbif": {
+    "records": 14572,
+    "species": 891,
+    "threatened_species": 26,
+    "threatened_records": 709,
+    "top_threatened": [
+     {
+      "name": "Cacatua moluccensis",
+      "vernacular": "Salmon-crested Cockatoo",
+      "class": "Aves",
+      "records": 21,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 16,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 12,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Pavo muticus",
+      "vernacular": "Green Peafowl",
+      "class": "Aves",
+      "records": 7,
+      "introduced": false
+     },
+     {
+      "name": "Psittacus erithacus",
+      "vernacular": "Gray Parrot",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "straits_view": {
+   "area_km2": 1.12,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.165,
+   "vegetation_cover": 0.544,
+   "mangrove_ha": 0.0,
+   "buildings": 0,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 0,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 1504,
+    "species": 272,
+    "threatened_species": 7,
+    "threatened_records": 76,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Rastrelliger faughni",
+      "vernacular": "island mackerel",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus kuda",
+      "vernacular": "Spotted seahorse",
+      "class": null,
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Pocillopora acuta",
+      "vernacular": null,
+      "class": "Anthozoa",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "sungei_kadut": {
+   "area_km2": 17.61,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.348,
+   "vegetation_cover": 0.464,
+   "mangrove_ha": 16.4,
+   "buildings": 1158,
+   "bld_near_protected_500m": 1,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 77,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 499,
+   "flood_spots": [],
+   "heritage_trees": 2,
+   "gbif": {
+    "records": 4713,
+    "species": 691,
+    "threatened_species": 17,
+    "threatened_records": 248,
+    "top_threatened": [
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 26,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 25,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 19,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 12,
+      "introduced": false
+     },
+     {
+      "name": "Calidris falcinellus",
+      "vernacular": "Broad-billed Sandpiper",
+      "class": "Aves",
+      "records": 10,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 8,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "tampines": {
+   "area_km2": 20.78,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.186,
+   "vegetation_cover": 0.357,
+   "mangrove_ha": 0.0,
+   "buildings": 2549,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 92,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 1374,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 48493,
+    "species": 1253,
+    "threatened_species": 34,
+    "threatened_records": 2064,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 209,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 61,
+      "introduced": false
+     },
+     {
+      "name": "Treron fulvicollis",
+      "vernacular": "Cinnamon-headed Pigeon",
+      "class": "Aves",
+      "records": 20,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 9,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 9,
+      "introduced": false
+     },
+     {
+      "name": "Parathelphusa reticulata",
+      "vernacular": "Reticulated Swamp Crab",
+      "class": "Malacostraca",
+      "records": 7,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "tanglin": {
+   "area_km2": 7.53,
+   "nature_area_share": 0.08,
+   "protected_share": 0.07,
+   "tree_cover": 0.537,
+   "vegetation_cover": 0.557,
+   "mangrove_ha": 0.0,
+   "buildings": 1722,
+   "bld_near_protected_500m": 540,
+   "bld_near_nature_100m": 146,
+   "bld_ground_below_4m": 13,
+   "bld_near_flood_spot_300m": 26,
+   "bld_low_greenery": 86,
+   "flood_spots": [
+    {
+     "sn": 32,
+     "location": "Junction of Stevens Road and Balmoral Road"
+    }
+   ],
+   "heritage_trees": 62,
+   "gbif": {
+    "records": 175345,
+    "species": 2080,
+    "threatened_species": 60,
+    "threatened_records": 7422,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 1428,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 59,
+      "introduced": false
+     },
+     {
+      "name": "Mulleripicus pulverulentus",
+      "vernacular": "Great Slaty Woodpecker",
+      "class": "Aves",
+      "records": 57,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 28,
+      "introduced": false
+     },
+     {
+      "name": "Pitta nympha",
+      "vernacular": "Fairy Pitta",
+      "class": "Aves",
+      "records": 15,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 14,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "tengah": {
+   "area_km2": 7.37,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.689,
+   "vegetation_cover": 0.762,
+   "mangrove_ha": 0.0,
+   "buildings": 289,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 0,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 79,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 912,
+    "species": 401,
+    "threatened_species": 14,
+    "threatened_records": 60,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 21,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 13,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Carcharhinus melanopterus",
+      "vernacular": "Blacktip Reef Shark, Blacktip Shark",
+      "class": "Elasmobranchii",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Carettochelys insculpta",
+      "vernacular": "Pignose turtle",
+      "class": "Testudines",
+      "records": 1,
+      "introduced": false
+     },
+     {
+      "name": "Amyda cartilaginea",
+      "vernacular": "Asiatic Softshell Turtle",
+      "class": "Testudines",
+      "records": 1,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "toa_payoh": {
+   "area_km2": 8.21,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.246,
+   "vegetation_cover": 0.276,
+   "mangrove_ha": 0.0,
+   "buildings": 1531,
+   "bld_near_protected_500m": 7,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 78,
+   "bld_near_flood_spot_300m": 50,
+   "bld_low_greenery": 618,
+   "flood_spots": [
+    {
+     "sn": 30,
+     "location": "Sennett Estate (Siang Kuang Avenue / Puay Hee Avenue / Wan Tho Avenue / Jalan Kemboja from Siang Kuang Avenue to Lorong Kembang / Mulberry Avenue from Jalan Wangi to Angsana Avenue)"
+    }
+   ],
+   "heritage_trees": 2,
+   "gbif": {
+    "records": 29393,
+    "species": 1082,
+    "threatened_species": 30,
+    "threatened_records": 1456,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 168,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 29,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 27,
+      "introduced": false
+     },
+     {
+      "name": "Oxalis corniculata",
+      "vernacular": "Procumbent Yellow-sorrel",
+      "class": "Magnoliopsida",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Oreochromis mossambicus",
+      "vernacular": "Mozambique tilapia",
+      "class": null,
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Heosemys grandis",
+      "vernacular": "Giant Asian pond turtle",
+      "class": "Testudines",
+      "records": 2,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "tuas": {
+   "area_km2": 47.67,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.066,
+   "vegetation_cover": 0.198,
+   "mangrove_ha": 0.0,
+   "buildings": 2626,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 513,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 1534,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 21011,
+    "species": 671,
+    "threatened_species": 29,
+    "threatened_records": 846,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 69,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 46,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 16,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus comes",
+      "vernacular": "Tiger Tail Seahorse",
+      "class": null,
+      "records": 13,
+      "introduced": false
+     },
+     {
+      "name": "Ptilinopus jambu",
+      "vernacular": "Jambu Fruit-Dove",
+      "class": "Aves",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Calidris pygmaea",
+      "vernacular": "Spoon-billed Sandpiper",
+      "class": "Aves",
+      "records": 5,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "western_islands": {
+   "area_km2": 45.66,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.14,
+   "vegetation_cover": 0.354,
+   "mangrove_ha": 117.2,
+   "buildings": 1527,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 0,
+   "bld_ground_below_4m": 980,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 1136,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 730,
+    "species": 297,
+    "threatened_species": 22,
+    "threatened_records": 124,
+    "top_threatened": [
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 43,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 31,
+      "introduced": false
+     },
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 7,
+      "introduced": false
+     },
+     {
+      "name": "Chloropsis sonnerati",
+      "vernacular": "Greater Green Leafbird",
+      "class": "Aves",
+      "records": 4,
+      "introduced": false
+     },
+     {
+      "name": "Presbytis femoralis",
+      "vernacular": "Banded Langur",
+      "class": "Mammalia",
+      "records": 3,
+      "introduced": false
+     },
+     {
+      "name": "Manis javanica",
+      "vernacular": "Sunda pangolin",
+      "class": "Mammalia",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "western_water_catchment": {
+   "area_km2": 69.75,
+   "nature_area_share": 0.089,
+   "protected_share": 0.0,
+   "tree_cover": 0.608,
+   "vegetation_cover": 0.724,
+   "mangrove_ha": 90.0,
+   "buildings": 1700,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 9,
+   "bld_ground_below_4m": 12,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 119,
+   "flood_spots": [],
+   "heritage_trees": 1,
+   "gbif": {
+    "records": 31254,
+    "species": 1414,
+    "threatened_species": 47,
+    "threatened_records": 1948,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 308,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 86,
+      "introduced": false
+     },
+     {
+      "name": "Pycnonotus zeylanicus",
+      "vernacular": "Straw-headed Bulbul",
+      "class": "Aves",
+      "records": 64,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 23,
+      "introduced": false
+     },
+     {
+      "name": "Buceros rhinoceros",
+      "vernacular": "Rhinoceros Hornbill",
+      "class": "Aves",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Hippocampus comes",
+      "vernacular": "Tiger Tail Seahorse",
+      "class": null,
+      "records": 8,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "woodlands": {
+   "area_km2": 13.6,
+   "nature_area_share": 0.015,
+   "protected_share": 0.0,
+   "tree_cover": 0.233,
+   "vegetation_cover": 0.326,
+   "mangrove_ha": 5.7,
+   "buildings": 2057,
+   "bld_near_protected_500m": 0,
+   "bld_near_nature_100m": 22,
+   "bld_ground_below_4m": 8,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 938,
+   "flood_spots": [],
+   "heritage_trees": 1,
+   "gbif": {
+    "records": 19657,
+    "species": 1323,
+    "threatened_species": 18,
+    "threatened_records": 1011,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 273,
+      "introduced": false
+     },
+     {
+      "name": "Mycteria cinerea",
+      "vernacular": "Milky Stork",
+      "class": "Aves",
+      "records": 26,
+      "introduced": false
+     },
+     {
+      "name": "Anthracoceros malayanus",
+      "vernacular": "Black Hornbill",
+      "class": "Aves",
+      "records": 11,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 8,
+      "introduced": false
+     },
+     {
+      "name": "Ardisia elliptica",
+      "vernacular": "Shoebutton ardisia",
+      "class": "Magnoliopsida",
+      "records": 5,
+      "introduced": false
+     },
+     {
+      "name": "Buceros rhinoceros",
+      "vernacular": "Rhinoceros Hornbill",
+      "class": "Aves",
+      "records": 3,
+      "introduced": false
+     }
+    ]
+   }
+  },
+  "yishun": {
+   "area_km2": 21.02,
+   "nature_area_share": 0.0,
+   "protected_share": 0.0,
+   "tree_cover": 0.3,
+   "vegetation_cover": 0.425,
+   "mangrove_ha": 0.0,
+   "buildings": 2994,
+   "bld_near_protected_500m": 302,
+   "bld_near_nature_100m": 4,
+   "bld_ground_below_4m": 68,
+   "bld_near_flood_spot_300m": 0,
+   "bld_low_greenery": 1137,
+   "flood_spots": [],
+   "heritage_trees": 0,
+   "gbif": {
+    "records": 73488,
+    "species": 1761,
+    "threatened_species": 29,
+    "threatened_records": 1635,
+    "top_threatened": [
+     {
+      "name": "Psittacula longicauda",
+      "vernacular": "Long-tailed Parakeet",
+      "class": "Aves",
+      "records": 193,
+      "introduced": false
+     },
+     {
+      "name": "Calidris ferruginea",
+      "vernacular": "Curlew Sandpiper",
+      "class": "Aves",
+      "records": 64,
+      "introduced": false
+     },
+     {
+      "name": "Halcyon pileata",
+      "vernacular": "Black-capped Kingfisher",
+      "class": "Aves",
+      "records": 42,
+      "introduced": false
+     },
+     {
+      "name": "Macaca fascicularis",
+      "vernacular": "crab eating macaque",
+      "class": "Mammalia",
+      "records": 14,
+      "introduced": false
+     },
+     {
+      "name": "Calidris tenuirostris",
+      "vernacular": "Great Knot",
+      "class": "Aves",
+      "records": 14,
+      "introduced": false
+     },
+     {
+      "name": "Egretta eulophotes",
+      "vernacular": "Chinese Egret",
+      "class": "Aves",
+      "records": 6,
+      "introduced": false
+     }
+    ]
+   }
+  }
+ }
+}

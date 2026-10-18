@@ -1,0 +1,30 @@
+{
+  "_note": "gCO2 per passenger-km. The car factor is fleet-weighted from the REAL Singapore car fuel mix (LTA Annual Vehicle Statistics 2025), not a flat guess. MRT/electric modes scale with the EMA grid factor.",
+  "_sources": {
+    "car": "Fleet-weighted from LTA Annual Vehicle Statistics 2025 (ICE 74.2%, hybrid 18.4%, BEV 7.4%): 0.742*165 + 0.184*95 + 0.074*50 = 144 gCO2/pkm. Per-type from DEFRA 2024 + EMA grid factor for BEV.",
+    "bus": "DEFRA 2024 local bus, occupancy-adjusted for SG high-load network (~70 gCO2/pkm)",
+    "mrt": "Derived: ~0.06 kWh/pkm (LTA energy intensity) x EMA grid factor 0.402"
+  },
+  "factors_gco2_per_pkm": {
+    "car": 144,
+    "bus": 70,
+    "mrt": 24,
+    "walk": 0,
+    "cycle": 0
+  },
+  "car_fleet_2025": {
+    "ice_share": 0.742,
+    "hybrid_share": 0.184,
+    "bev_share": 0.074,
+    "ef_ice": 165,
+    "ef_hybrid": 95,
+    "ef_bev": 50,
+    "source": "LTA Annual Vehicle Statistics 2025 (MVP by fuel type)"
+  },
+  "grid_factor_kgco2_per_kwh_sg": 0.402,
+  "annual": {
+    "weekday_days": 250,
+    "weekend_days": 104,
+    "weekend_demand_ratio": 0.65
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "sg.climate_reporting.roadmap",
+  "title": "Climate reporting roadmap — what an owner must disclose (SGX / ACRA, SFRS S2)",
+  "instrument": "Singapore climate reporting roadmap (SGX RegCo + ACRA); draft SFRS S2",
+  "jurisdiction": "SG",
+  "category": "disclosure",
+  "kind": "disclosure_schedule",
+  "status": "in_force",
+  "effective_from": "2025-01-01",
+  "effective_to": null,
+  "applies_to": {
+    "asset": [
+      "entity"
+    ]
+  },
+  "citation": {
+    "source": "acra_sds_cp_2026",
+    "clause": "Table 1 — implementation roadmap; footnotes 6–9; paras 27–29",
+    "pages": [
+      7,
+      10
+    ],
+    "quote": "Large non-listed companies refer to Singapore-incorporated companies limited by shares, that are not listed on the Singapore Exchange, with annual revenue of at least S$1 billion"
+  },
+  "entity_types": {
+    "sti": "STI constituent (as at 30 Jun 2025)",
+    "listed_large": "Non-STI listed, market cap ≥ S$1B",
+    "listed_small": "Non-STI listed, market cap < S$1B",
+    "large_non_listed": "Large non-listed (revenue ≥ S$1B and assets ≥ S$500M)",
+    "other": "Other entity (no mandatory climate reporting)"
+  },
+  "items": {
+    "scope_1_2": {
+      "label": "Scope 1 & 2 GHG emissions",
+      "start_fy": {
+        "sti": 2025,
+        "listed_large": 2025,
+        "listed_small": 2025,
+        "large_non_listed": 2030
+      }
+    },
+    "other_climate": {
+      "label": "Other ISSB-based climate disclosures (governance, strategy, risk, targets)",
+      "start_fy": {
+        "sti": 2025,
+        "listed_large": 2028,
+        "listed_small": 2030,
+        "large_non_listed": 2030
+      }
+    },
+    "scope_3": {
+      "label": "Scope 3 GHG emissions",
+      "start_fy": {
+        "sti": 2026
+      },
+      "voluntary_for": [
+        "listed_large",
+        "listed_small",
+        "large_non_listed"
+      ]
+    },
+    "assurance_1_2": {
+      "label": "External limited assurance of Scope 1 & 2",
+      "start_fy": {
+        "sti": 2029,
+        "listed_large": 2029,
+        "listed_small": 2029,
+        "large_non_listed": 2032
+      }
+    }
+  },
+  "notes": [
+    "Table 1 extracted from the PDF's flattened text — confirm column alignment against the PDF (review flagged).",
+    "Large non-listed requirements are to be legislated; SFRS S1/S2 are drafts until the consultation (closes 25 Oct 2026) concludes."
+  ],
+  "examples": [
+    {
+      "name": "STI constituent FY2026 → scope 1&2, climate, scope 3 (assurance from FY2029)",
+      "asOf": "2026-10-16",
+      "facts": {
+        "entity_type": "sti",
+        "financial_year": 2026
+      },
+      "expect": {
+        "outcome": "info",
+        "tier": "3 items"
+      }
+    },
+    {
+      "name": "Large non-listed FY2026 → nothing yet",
+      "asOf": "2026-10-16",
+      "facts": {
+        "entity_type": "large_non_listed",
+        "financial_year": 2026
+      },
+      "expect": {
+        "outcome": "info",
+        "tier": "0 items"
+      }
+    },
+    {
+      "name": "Large non-listed FY2030 → scope 1&2 + climate",
+      "asOf": "2030-06-01",
+      "facts": {
+        "entity_type": "large_non_listed",
+        "financial_year": 2030
+      },
+      "expect": {
+        "tier": "2 items"
+      }
+    },
+    {
+      "name": "Statutory board / other",
+      "asOf": "2026-10-16",
+      "facts": {
+        "entity_type": "other",
+        "financial_year": 2026
+      },
+      "expect": {
+        "outcome": "not_applicable"
+      }
+    },
+    {
+      "name": "Needs entity type",
+      "asOf": "2026-10-16",
+      "facts": {
+        "financial_year": 2026
+      },
+      "expect": {
+        "outcome": "needs_info"
+      }
+    },
+    {
+      "name": "STI FY2029 → assurance too",
+      "asOf": "2029-06-01",
+      "facts": {
+        "entity_type": "sti",
+        "financial_year": 2029
+      },
+      "expect": {
+        "tier": "4 items"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "secondary",
+    "reviewed_by": "claude (extracted) — pending human sign-off",
+    "reviewed_at": "2026-10-16"
+  }
+}

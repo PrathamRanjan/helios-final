@@ -1,0 +1,577 @@
+row_no,row,level,col,value,uom
+1,Total,1,Total|Total,2356000.0,Number
+1,Total,1,Total|Males,1233500.0,Number
+1,Total,1,Total|Females,1122400.0,Number
+1,Total,1,"Below $1,000|Total",82300.0,Number
+1,Total,1,"Below $1,000|Males",46400.0,Number
+1,Total,1,"Below $1,000|Females",35900.0,Number
+1,Total,1,"$1,000 - $1,999|Total",215200.0,Number
+1,Total,1,"$1,000 - $1,999|Males",106600.0,Number
+1,Total,1,"$1,000 - $1,999|Females",108600.0,Number
+1,Total,1,"$2,000 - $2,999|Total",223700.0,Number
+1,Total,1,"$2,000 - $2,999|Males",110800.0,Number
+1,Total,1,"$2,000 - $2,999|Females",112900.0,Number
+1,Total,1,"$3,000 - $3,999|Total",245300.0,Number
+1,Total,1,"$3,000 - $3,999|Males",123200.0,Number
+1,Total,1,"$3,000 - $3,999|Females",122100.0,Number
+1,Total,1,"$4,000 - $4,999|Total",208600.0,Number
+1,Total,1,"$4,000 - $4,999|Males",102100.0,Number
+1,Total,1,"$4,000 - $4,999|Females",106500.0,Number
+1,Total,1,"$5,000 - $5,999|Total",194700.0,Number
+1,Total,1,"$5,000 - $5,999|Males",91900.0,Number
+1,Total,1,"$5,000 - $5,999|Females",102800.0,Number
+1,Total,1,"$6,000 - $6,999|Total",163500.0,Number
+1,Total,1,"$6,000 - $6,999|Males",80400.0,Number
+1,Total,1,"$6,000 - $6,999|Females",83200.0,Number
+1,Total,1,"$7,000 - $7,999|Total",139600.0,Number
+1,Total,1,"$7,000 - $7,999|Males",69400.0,Number
+1,Total,1,"$7,000 - $7,999|Females",70200.0,Number
+1,Total,1,"$8,000 - $8,999|Total",122900.0,Number
+1,Total,1,"$8,000 - $8,999|Males",62700.0,Number
+1,Total,1,"$8,000 - $8,999|Females",60200.0,Number
+1,Total,1,"$9,000 - $9,999|Total",107000.0,Number
+1,Total,1,"$9,000 - $9,999|Males",55900.0,Number
+1,Total,1,"$9,000 - $9,999|Females",51100.0,Number
+1,Total,1,"$10,000 - $10,999|Total",102500.0,Number
+1,Total,1,"$10,000 - $10,999|Males",57900.0,Number
+1,Total,1,"$10,000 - $10,999|Females",44600.0,Number
+1,Total,1,"$11,000 - $11,999|Total",82600.0,Number
+1,Total,1,"$11,000 - $11,999|Males",44300.0,Number
+1,Total,1,"$11,000 - $11,999|Females",38300.0,Number
+1,Total,1,"$12,000 - $14,999|Total",172900.0,Number
+1,Total,1,"$12,000 - $14,999|Males",95200.0,Number
+1,Total,1,"$12,000 - $14,999|Females",77700.0,Number
+1,Total,1,"$15,000 - $19,999|Total",137100.0,Number
+1,Total,1,"$15,000 - $19,999|Males",81200.0,Number
+1,Total,1,"$15,000 - $19,999|Females",55900.0,Number
+1,Total,1,"$20,000 & Over|Total",158000.0,Number
+1,Total,1,"$20,000 & Over|Males",105600.0,Number
+1,Total,1,"$20,000 & Over|Females",52500.0,Number
+1.1,Public Bus Only,2,Total|Total,303200.0,Number
+1.1,Public Bus Only,2,Total|Males,134600.0,Number
+1.1,Public Bus Only,2,Total|Females,168600.0,Number
+1.1,Public Bus Only,2,"Below $1,000|Total",16500.0,Number
+1.1,Public Bus Only,2,"Below $1,000|Males",8300.0,Number
+1.1,Public Bus Only,2,"Below $1,000|Females",8100.0,Number
+1.1,Public Bus Only,2,"$1,000 - $1,999|Total",37900.0,Number
+1.1,Public Bus Only,2,"$1,000 - $1,999|Males",15400.0,Number
+1.1,Public Bus Only,2,"$1,000 - $1,999|Females",22500.0,Number
+1.1,Public Bus Only,2,"$2,000 - $2,999|Total",41900.0,Number
+1.1,Public Bus Only,2,"$2,000 - $2,999|Males",17500.0,Number
+1.1,Public Bus Only,2,"$2,000 - $2,999|Females",24300.0,Number
+1.1,Public Bus Only,2,"$3,000 - $3,999|Total",41300.0,Number
+1.1,Public Bus Only,2,"$3,000 - $3,999|Males",17400.0,Number
+1.1,Public Bus Only,2,"$3,000 - $3,999|Females",23900.0,Number
+1.1,Public Bus Only,2,"$4,000 - $4,999|Total",31000.0,Number
+1.1,Public Bus Only,2,"$4,000 - $4,999|Males",13100.0,Number
+1.1,Public Bus Only,2,"$4,000 - $4,999|Females",17900.0,Number
+1.1,Public Bus Only,2,"$5,000 - $5,999|Total",25900.0,Number
+1.1,Public Bus Only,2,"$5,000 - $5,999|Males",11000.0,Number
+1.1,Public Bus Only,2,"$5,000 - $5,999|Females",14900.0,Number
+1.1,Public Bus Only,2,"$6,000 - $6,999|Total",22100.0,Number
+1.1,Public Bus Only,2,"$6,000 - $6,999|Males",10000.0,Number
+1.1,Public Bus Only,2,"$6,000 - $6,999|Females",12100.0,Number
+1.1,Public Bus Only,2,"$7,000 - $7,999|Total",15600.0,Number
+1.1,Public Bus Only,2,"$7,000 - $7,999|Males",6400.0,Number
+1.1,Public Bus Only,2,"$7,000 - $7,999|Females",9200.0,Number
+1.1,Public Bus Only,2,"$8,000 - $8,999|Total",12900.0,Number
+1.1,Public Bus Only,2,"$8,000 - $8,999|Males",6100.0,Number
+1.1,Public Bus Only,2,"$8,000 - $8,999|Females",6800.0,Number
+1.1,Public Bus Only,2,"$9,000 - $9,999|Total",10500.0,Number
+1.1,Public Bus Only,2,"$9,000 - $9,999|Males",4600.0,Number
+1.1,Public Bus Only,2,"$9,000 - $9,999|Females",6000.0,Number
+1.1,Public Bus Only,2,"$10,000 - $10,999|Total",8600.0,Number
+1.1,Public Bus Only,2,"$10,000 - $10,999|Males",4700.0,Number
+1.1,Public Bus Only,2,"$10,000 - $10,999|Females",3900.0,Number
+1.1,Public Bus Only,2,"$11,000 - $11,999|Total",7500.0,Number
+1.1,Public Bus Only,2,"$11,000 - $11,999|Males",3100.0,Number
+1.1,Public Bus Only,2,"$11,000 - $11,999|Females",4400.0,Number
+1.1,Public Bus Only,2,"$12,000 - $14,999|Total",13600.0,Number
+1.1,Public Bus Only,2,"$12,000 - $14,999|Males",5700.0,Number
+1.1,Public Bus Only,2,"$12,000 - $14,999|Females",7900.0,Number
+1.1,Public Bus Only,2,"$15,000 - $19,999|Total",9200.0,Number
+1.1,Public Bus Only,2,"$15,000 - $19,999|Males",5600.0,Number
+1.1,Public Bus Only,2,"$15,000 - $19,999|Females",3600.0,Number
+1.1,Public Bus Only,2,"$20,000 & Over|Total",8700.0,Number
+1.1,Public Bus Only,2,"$20,000 & Over|Males",5500.0,Number
+1.1,Public Bus Only,2,"$20,000 & Over|Females",3200.0,Number
+1.2,Rail (MRT/LRT) Only,2,Total|Total,372500.0,Number
+1.2,Rail (MRT/LRT) Only,2,Total|Males,161700.0,Number
+1.2,Rail (MRT/LRT) Only,2,Total|Females,210800.0,Number
+1.2,Rail (MRT/LRT) Only,2,"Below $1,000|Total",10000.0,Number
+1.2,Rail (MRT/LRT) Only,2,"Below $1,000|Males",5300.0,Number
+1.2,Rail (MRT/LRT) Only,2,"Below $1,000|Females",4700.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$1,000 - $1,999|Total",20900.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$1,000 - $1,999|Males",8500.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$1,000 - $1,999|Females",12400.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$2,000 - $2,999|Total",24100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$2,000 - $2,999|Males",8600.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$2,000 - $2,999|Females",15500.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$3,000 - $3,999|Total",30700.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$3,000 - $3,999|Males",12100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$3,000 - $3,999|Females",18700.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$4,000 - $4,999|Total",32900.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$4,000 - $4,999|Males",13200.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$4,000 - $4,999|Females",19600.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$5,000 - $5,999|Total",30900.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$5,000 - $5,999|Males",10900.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$5,000 - $5,999|Females",20000.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$6,000 - $6,999|Total",27400.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$6,000 - $6,999|Males",10700.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$6,000 - $6,999|Females",16700.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$7,000 - $7,999|Total",26200.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$7,000 - $7,999|Males",10100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$7,000 - $7,999|Females",16100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$8,000 - $8,999|Total",23800.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$8,000 - $8,999|Males",9100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$8,000 - $8,999|Females",14700.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$9,000 - $9,999|Total",21100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$9,000 - $9,999|Males",9100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$9,000 - $9,999|Females",12000.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$10,000 - $10,999|Total",19100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$10,000 - $10,999|Males",9000.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$10,000 - $10,999|Females",10100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$11,000 - $11,999|Total",16800.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$11,000 - $11,999|Males",8000.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$11,000 - $11,999|Females",8900.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$12,000 - $14,999|Total",32200.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$12,000 - $14,999|Males",15100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$12,000 - $14,999|Females",17100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$15,000 - $19,999|Total",27800.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$15,000 - $19,999|Males",14100.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$15,000 - $19,999|Females",13700.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$20,000 & Over|Total",28600.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$20,000 & Over|Males",18000.0,Number
+1.2,Rail (MRT/LRT) Only,2,"$20,000 & Over|Females",10600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Total|Total,713000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Total|Males,324900.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,Total|Females,388100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"Below $1,000|Total",28200.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"Below $1,000|Males",16200.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"Below $1,000|Females",12000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$1,000 - $1,999|Total",79300.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$1,000 - $1,999|Males",34800.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$1,000 - $1,999|Females",44500.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$2,000 - $2,999|Total",71000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$2,000 - $2,999|Males",28000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$2,000 - $2,999|Females",43000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$3,000 - $3,999|Total",78900.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$3,000 - $3,999|Males",35200.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$3,000 - $3,999|Females",43600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$4,000 - $4,999|Total",73600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$4,000 - $4,999|Males",31000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$4,000 - $4,999|Females",42600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$5,000 - $5,999|Total",64200.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$5,000 - $5,999|Males",25500.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$5,000 - $5,999|Females",38700.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$6,000 - $6,999|Total",57000.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$6,000 - $6,999|Males",23700.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$6,000 - $6,999|Females",33300.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$7,000 - $7,999|Total",44300.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$7,000 - $7,999|Males",19600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$7,000 - $7,999|Females",24700.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$8,000 - $8,999|Total",35700.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$8,000 - $8,999|Males",16600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$8,000 - $8,999|Females",19100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$9,000 - $9,999|Total",31100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$9,000 - $9,999|Males",14300.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$9,000 - $9,999|Females",16800.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$10,000 - $10,999|Total",27700.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$10,000 - $10,999|Males",13600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$10,000 - $10,999|Females",14100.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$11,000 - $11,999|Total",23300.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$11,000 - $11,999|Males",10800.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$11,000 - $11,999|Females",12500.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$12,000 - $14,999|Total",46600.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$12,000 - $14,999|Males",23400.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$12,000 - $14,999|Females",23200.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$15,000 - $19,999|Total",28200.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$15,000 - $19,999|Males",16200.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$15,000 - $19,999|Females",11900.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$20,000 & Over|Total",23900.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$20,000 & Over|Males",15800.0,Number
+1.3,Rail (MRT/LRT) & Public Bus Only,2,"$20,000 & Over|Females",8100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Total|Total,27900.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Total|Males,18500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,Total|Females,9400.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"Below $1,000|Total",2500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"Below $1,000|Males",2500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"Below $1,000|Females",0.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$1,000 - $1,999|Total",1400.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$1,000 - $1,999|Males",1000.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$1,000 - $1,999|Females",400.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$2,000 - $2,999|Total",1200.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$2,000 - $2,999|Males",400.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$2,000 - $2,999|Females",700.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$3,000 - $3,999|Total",2900.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$3,000 - $3,999|Males",1700.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$3,000 - $3,999|Females",1200.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$4,000 - $4,999|Total",2600.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$4,000 - $4,999|Males",1500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$4,000 - $4,999|Females",1100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$5,000 - $5,999|Total",2400.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$5,000 - $5,999|Males",1300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$5,000 - $5,999|Females",1100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$6,000 - $6,999|Total",2500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$6,000 - $6,999|Males",1700.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$6,000 - $6,999|Females",800.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$7,000 - $7,999|Total",2300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$7,000 - $7,999|Males",1400.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$7,000 - $7,999|Females",900.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$8,000 - $8,999|Total",1700.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$8,000 - $8,999|Males",1100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$8,000 - $8,999|Females",600.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$9,000 - $9,999|Total",1600.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$9,000 - $9,999|Males",1000.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$9,000 - $9,999|Females",600.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$10,000 - $10,999|Total",1300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$10,000 - $10,999|Males",1100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$10,000 - $10,999|Females",300.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$11,000 - $11,999|Total",1100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$11,000 - $11,999|Males",700.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$11,000 - $11,999|Females",500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$12,000 - $14,999|Total",1900.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$12,000 - $14,999|Males",1200.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$12,000 - $14,999|Females",600.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$15,000 - $19,999|Total",1600.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$15,000 - $19,999|Males",1100.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$15,000 - $19,999|Females",500.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$20,000 & Over|Total",900.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$20,000 & Over|Males",700.0,Number
+1.4,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2,"$20,000 & Over|Females",200.0,Number
+1.5,Taxi/Private Hire Car Only,2,Total|Total,59000.0,Number
+1.5,Taxi/Private Hire Car Only,2,Total|Males,27200.0,Number
+1.5,Taxi/Private Hire Car Only,2,Total|Females,31800.0,Number
+1.5,Taxi/Private Hire Car Only,2,"Below $1,000|Total",1400.0,Number
+1.5,Taxi/Private Hire Car Only,2,"Below $1,000|Males",800.0,Number
+1.5,Taxi/Private Hire Car Only,2,"Below $1,000|Females",500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$1,000 - $1,999|Total",2600.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$1,000 - $1,999|Males",1500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$1,000 - $1,999|Females",1100.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$2,000 - $2,999|Total",2700.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$2,000 - $2,999|Males",1200.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$2,000 - $2,999|Females",1500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$3,000 - $3,999|Total",3500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$3,000 - $3,999|Males",1400.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$3,000 - $3,999|Females",2100.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$4,000 - $4,999|Total",3700.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$4,000 - $4,999|Males",1700.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$4,000 - $4,999|Females",1900.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$5,000 - $5,999|Total",4500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$5,000 - $5,999|Males",1900.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$5,000 - $5,999|Females",2600.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$6,000 - $6,999|Total",3900.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$6,000 - $6,999|Males",1100.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$6,000 - $6,999|Females",2700.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$7,000 - $7,999|Total",3500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$7,000 - $7,999|Males",1500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$7,000 - $7,999|Females",2000.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$8,000 - $8,999|Total",3100.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$8,000 - $8,999|Males",1300.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$8,000 - $8,999|Females",1900.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$9,000 - $9,999|Total",3700.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$9,000 - $9,999|Males",1500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$9,000 - $9,999|Females",2200.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$10,000 - $10,999|Total",3300.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$10,000 - $10,999|Males",1800.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$10,000 - $10,999|Females",1500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$11,000 - $11,999|Total",2400.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$11,000 - $11,999|Males",1100.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$11,000 - $11,999|Females",1300.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$12,000 - $14,999|Total",6000.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$12,000 - $14,999|Males",2400.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$12,000 - $14,999|Females",3600.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$15,000 - $19,999|Total",4600.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$15,000 - $19,999|Males",2100.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$15,000 - $19,999|Females",2500.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$20,000 & Over|Total",10200.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$20,000 & Over|Males",5700.0,Number
+1.5,Taxi/Private Hire Car Only,2,"$20,000 & Over|Females",4400.0,Number
+1.6,Car Only,2,Total|Total,499000.0,Number
+1.6,Car Only,2,Total|Males,317800.0,Number
+1.6,Car Only,2,Total|Females,181200.0,Number
+1.6,Car Only,2,"Below $1,000|Total",5700.0,Number
+1.6,Car Only,2,"Below $1,000|Males",3700.0,Number
+1.6,Car Only,2,"Below $1,000|Females",2000.0,Number
+1.6,Car Only,2,"$1,000 - $1,999|Total",18500.0,Number
+1.6,Car Only,2,"$1,000 - $1,999|Males",10800.0,Number
+1.6,Car Only,2,"$1,000 - $1,999|Females",7700.0,Number
+1.6,Car Only,2,"$2,000 - $2,999|Total",22100.0,Number
+1.6,Car Only,2,"$2,000 - $2,999|Males",13900.0,Number
+1.6,Car Only,2,"$2,000 - $2,999|Females",8200.0,Number
+1.6,Car Only,2,"$3,000 - $3,999|Total",29700.0,Number
+1.6,Car Only,2,"$3,000 - $3,999|Males",17100.0,Number
+1.6,Car Only,2,"$3,000 - $3,999|Females",12500.0,Number
+1.6,Car Only,2,"$4,000 - $4,999|Total",24000.0,Number
+1.6,Car Only,2,"$4,000 - $4,999|Males",14800.0,Number
+1.6,Car Only,2,"$4,000 - $4,999|Females",9300.0,Number
+1.6,Car Only,2,"$5,000 - $5,999|Total",36100.0,Number
+1.6,Car Only,2,"$5,000 - $5,999|Males",20600.0,Number
+1.6,Car Only,2,"$5,000 - $5,999|Females",15500.0,Number
+1.6,Car Only,2,"$6,000 - $6,999|Total",27400.0,Number
+1.6,Car Only,2,"$6,000 - $6,999|Males",16900.0,Number
+1.6,Car Only,2,"$6,000 - $6,999|Females",10500.0,Number
+1.6,Car Only,2,"$7,000 - $7,999|Total",28700.0,Number
+1.6,Car Only,2,"$7,000 - $7,999|Males",17300.0,Number
+1.6,Car Only,2,"$7,000 - $7,999|Females",11300.0,Number
+1.6,Car Only,2,"$8,000 - $8,999|Total",32500.0,Number
+1.6,Car Only,2,"$8,000 - $8,999|Males",20000.0,Number
+1.6,Car Only,2,"$8,000 - $8,999|Females",12600.0,Number
+1.6,Car Only,2,"$9,000 - $9,999|Total",27300.0,Number
+1.6,Car Only,2,"$9,000 - $9,999|Males",18400.0,Number
+1.6,Car Only,2,"$9,000 - $9,999|Females",9000.0,Number
+1.6,Car Only,2,"$10,000 - $10,999|Total",32000.0,Number
+1.6,Car Only,2,"$10,000 - $10,999|Males",20900.0,Number
+1.6,Car Only,2,"$10,000 - $10,999|Females",11100.0,Number
+1.6,Car Only,2,"$11,000 - $11,999|Total",24700.0,Number
+1.6,Car Only,2,"$11,000 - $11,999|Males",16300.0,Number
+1.6,Car Only,2,"$11,000 - $11,999|Females",8400.0,Number
+1.6,Car Only,2,"$12,000 - $14,999|Total",58500.0,Number
+1.6,Car Only,2,"$12,000 - $14,999|Males",37900.0,Number
+1.6,Car Only,2,"$12,000 - $14,999|Females",20600.0,Number
+1.6,Car Only,2,"$15,000 - $19,999|Total",55300.0,Number
+1.6,Car Only,2,"$15,000 - $19,999|Males",35600.0,Number
+1.6,Car Only,2,"$15,000 - $19,999|Females",19700.0,Number
+1.6,Car Only,2,"$20,000 & Over|Total",76400.0,Number
+1.6,Car Only,2,"$20,000 & Over|Males",53600.0,Number
+1.6,Car Only,2,"$20,000 & Over|Females",22800.0,Number
+1.7,Private Chartered Bus/Van Only,2,Total|Total,38200.0,Number
+1.7,Private Chartered Bus/Van Only,2,Total|Males,23900.0,Number
+1.7,Private Chartered Bus/Van Only,2,Total|Females,14300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"Below $1,000|Total",400.0,Number
+1.7,Private Chartered Bus/Van Only,2,"Below $1,000|Males",100.0,Number
+1.7,Private Chartered Bus/Van Only,2,"Below $1,000|Females",300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$1,000 - $1,999|Total",2000.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$1,000 - $1,999|Males",1300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$1,000 - $1,999|Females",800.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$2,000 - $2,999|Total",3400.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$2,000 - $2,999|Males",2100.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$2,000 - $2,999|Females",1300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$3,000 - $3,999|Total",5300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$3,000 - $3,999|Males",3100.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$3,000 - $3,999|Females",2300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$4,000 - $4,999|Total",5300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$4,000 - $4,999|Males",3300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$4,000 - $4,999|Females",2000.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$5,000 - $5,999|Total",3000.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$5,000 - $5,999|Males",2100.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$5,000 - $5,999|Females",900.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$6,000 - $6,999|Total",3900.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$6,000 - $6,999|Males",2400.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$6,000 - $6,999|Females",1600.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$7,000 - $7,999|Total",3900.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$7,000 - $7,999|Males",2700.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$7,000 - $7,999|Females",1200.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$8,000 - $8,999|Total",2400.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$8,000 - $8,999|Males",1500.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$8,000 - $8,999|Females",900.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$9,000 - $9,999|Total",1200.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$9,000 - $9,999|Males",700.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$9,000 - $9,999|Females",600.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$10,000 - $10,999|Total",1200.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$10,000 - $10,999|Males",800.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$10,000 - $10,999|Females",400.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$11,000 - $11,999|Total",1100.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$11,000 - $11,999|Males",600.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$11,000 - $11,999|Females",500.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$12,000 - $14,999|Total",2000.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$12,000 - $14,999|Males",1300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$12,000 - $14,999|Females",700.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$15,000 - $19,999|Total",1900.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$15,000 - $19,999|Males",1300.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$15,000 - $19,999|Females",600.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$20,000 & Over|Total",1000.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$20,000 & Over|Males",700.0,Number
+1.7,Private Chartered Bus/Van Only,2,"$20,000 & Over|Females",300.0,Number
+1.8,Lorry/Pickup Only,2,Total|Total,17100.0,Number
+1.8,Lorry/Pickup Only,2,Total|Males,15600.0,Number
+1.8,Lorry/Pickup Only,2,Total|Females,1600.0,Number
+1.8,Lorry/Pickup Only,2,"Below $1,000|Total",300.0,Number
+1.8,Lorry/Pickup Only,2,"Below $1,000|Males",200.0,Number
+1.8,Lorry/Pickup Only,2,"Below $1,000|Females",100.0,Number
+1.8,Lorry/Pickup Only,2,"$1,000 - $1,999|Total",2500.0,Number
+1.8,Lorry/Pickup Only,2,"$1,000 - $1,999|Males",2100.0,Number
+1.8,Lorry/Pickup Only,2,"$1,000 - $1,999|Females",500.0,Number
+1.8,Lorry/Pickup Only,2,"$2,000 - $2,999|Total",3400.0,Number
+1.8,Lorry/Pickup Only,2,"$2,000 - $2,999|Males",3000.0,Number
+1.8,Lorry/Pickup Only,2,"$2,000 - $2,999|Females",400.0,Number
+1.8,Lorry/Pickup Only,2,"$3,000 - $3,999|Total",3800.0,Number
+1.8,Lorry/Pickup Only,2,"$3,000 - $3,999|Males",3600.0,Number
+1.8,Lorry/Pickup Only,2,"$3,000 - $3,999|Females",200.0,Number
+1.8,Lorry/Pickup Only,2,"$4,000 - $4,999|Total",2500.0,Number
+1.8,Lorry/Pickup Only,2,"$4,000 - $4,999|Males",2400.0,Number
+1.8,Lorry/Pickup Only,2,"$4,000 - $4,999|Females",100.0,Number
+1.8,Lorry/Pickup Only,2,"$5,000 - $5,999|Total",1700.0,Number
+1.8,Lorry/Pickup Only,2,"$5,000 - $5,999|Males",1600.0,Number
+1.8,Lorry/Pickup Only,2,"$5,000 - $5,999|Females",100.0,Number
+1.8,Lorry/Pickup Only,2,"$6,000 - $6,999|Total",1000.0,Number
+1.8,Lorry/Pickup Only,2,"$6,000 - $6,999|Males",1000.0,Number
+1.8,Lorry/Pickup Only,2,"$6,000 - $6,999|Females",100.0,Number
+1.8,Lorry/Pickup Only,2,"$7,000 - $7,999|Total",700.0,Number
+1.8,Lorry/Pickup Only,2,"$7,000 - $7,999|Males",700.0,Number
+1.8,Lorry/Pickup Only,2,"$7,000 - $7,999|Females",0.0,Number
+1.8,Lorry/Pickup Only,2,"$8,000 - $8,999|Total",300.0,Number
+1.8,Lorry/Pickup Only,2,"$8,000 - $8,999|Males",300.0,Number
+1.8,Lorry/Pickup Only,2,"$8,000 - $8,999|Females",0.0,Number
+1.8,Lorry/Pickup Only,2,"$9,000 - $9,999|Total",300.0,Number
+1.8,Lorry/Pickup Only,2,"$9,000 - $9,999|Males",200.0,Number
+1.8,Lorry/Pickup Only,2,"$9,000 - $9,999|Females",100.0,Number
+1.8,Lorry/Pickup Only,2,"$10,000 - $10,999|Total",100.0,Number
+1.8,Lorry/Pickup Only,2,"$10,000 - $10,999|Males",100.0,Number
+1.8,Lorry/Pickup Only,2,"$10,000 - $10,999|Females",0.0,Number
+1.8,Lorry/Pickup Only,2,"$11,000 - $11,999|Total",100.0,Number
+1.8,Lorry/Pickup Only,2,"$11,000 - $11,999|Males",100.0,Number
+1.8,Lorry/Pickup Only,2,"$11,000 - $11,999|Females",0.0,Number
+1.8,Lorry/Pickup Only,2,"$12,000 - $14,999|Total",300.0,Number
+1.8,Lorry/Pickup Only,2,"$12,000 - $14,999|Males",300.0,Number
+1.8,Lorry/Pickup Only,2,"$12,000 - $14,999|Females",0.0,Number
+1.8,Lorry/Pickup Only,2,"$15,000 - $19,999|Total",200.0,Number
+1.8,Lorry/Pickup Only,2,"$15,000 - $19,999|Males",200.0,Number
+1.8,Lorry/Pickup Only,2,"$15,000 - $19,999|Females",0.0,Number
+1.8,Lorry/Pickup Only,2,"$20,000 & Over|Total",100.0,Number
+1.8,Lorry/Pickup Only,2,"$20,000 & Over|Males",100.0,Number
+1.8,Lorry/Pickup Only,2,"$20,000 & Over|Females",0.0,Number
+1.9,Motorcycle/Scooter Only,2,Total|Total,69100.0,Number
+1.9,Motorcycle/Scooter Only,2,Total|Males,60800.0,Number
+1.9,Motorcycle/Scooter Only,2,Total|Females,8300.0,Number
+1.9,Motorcycle/Scooter Only,2,"Below $1,000|Total",1400.0,Number
+1.9,Motorcycle/Scooter Only,2,"Below $1,000|Males",1200.0,Number
+1.9,Motorcycle/Scooter Only,2,"Below $1,000|Females",200.0,Number
+1.9,Motorcycle/Scooter Only,2,"$1,000 - $1,999|Total",3600.0,Number
+1.9,Motorcycle/Scooter Only,2,"$1,000 - $1,999|Males",3000.0,Number
+1.9,Motorcycle/Scooter Only,2,"$1,000 - $1,999|Females",600.0,Number
+1.9,Motorcycle/Scooter Only,2,"$2,000 - $2,999|Total",5300.0,Number
+1.9,Motorcycle/Scooter Only,2,"$2,000 - $2,999|Males",4300.0,Number
+1.9,Motorcycle/Scooter Only,2,"$2,000 - $2,999|Females",1000.0,Number
+1.9,Motorcycle/Scooter Only,2,"$3,000 - $3,999|Total",8800.0,Number
+1.9,Motorcycle/Scooter Only,2,"$3,000 - $3,999|Males",7400.0,Number
+1.9,Motorcycle/Scooter Only,2,"$3,000 - $3,999|Females",1500.0,Number
+1.9,Motorcycle/Scooter Only,2,"$4,000 - $4,999|Total",10200.0,Number
+1.9,Motorcycle/Scooter Only,2,"$4,000 - $4,999|Males",8800.0,Number
+1.9,Motorcycle/Scooter Only,2,"$4,000 - $4,999|Females",1400.0,Number
+1.9,Motorcycle/Scooter Only,2,"$5,000 - $5,999|Total",9000.0,Number
+1.9,Motorcycle/Scooter Only,2,"$5,000 - $5,999|Males",7600.0,Number
+1.9,Motorcycle/Scooter Only,2,"$5,000 - $5,999|Females",1400.0,Number
+1.9,Motorcycle/Scooter Only,2,"$6,000 - $6,999|Total",8100.0,Number
+1.9,Motorcycle/Scooter Only,2,"$6,000 - $6,999|Males",7300.0,Number
+1.9,Motorcycle/Scooter Only,2,"$6,000 - $6,999|Females",700.0,Number
+1.9,Motorcycle/Scooter Only,2,"$7,000 - $7,999|Total",5600.0,Number
+1.9,Motorcycle/Scooter Only,2,"$7,000 - $7,999|Males",5100.0,Number
+1.9,Motorcycle/Scooter Only,2,"$7,000 - $7,999|Females",500.0,Number
+1.9,Motorcycle/Scooter Only,2,"$8,000 - $8,999|Total",4200.0,Number
+1.9,Motorcycle/Scooter Only,2,"$8,000 - $8,999|Males",3700.0,Number
+1.9,Motorcycle/Scooter Only,2,"$8,000 - $8,999|Females",500.0,Number
+1.9,Motorcycle/Scooter Only,2,"$9,000 - $9,999|Total",3500.0,Number
+1.9,Motorcycle/Scooter Only,2,"$9,000 - $9,999|Males",3300.0,Number
+1.9,Motorcycle/Scooter Only,2,"$9,000 - $9,999|Females",300.0,Number
+1.9,Motorcycle/Scooter Only,2,"$10,000 - $10,999|Total",3000.0,Number
+1.9,Motorcycle/Scooter Only,2,"$10,000 - $10,999|Males",3000.0,Number
+1.9,Motorcycle/Scooter Only,2,"$10,000 - $10,999|Females",100.0,Number
+1.9,Motorcycle/Scooter Only,2,"$11,000 - $11,999|Total",1900.0,Number
+1.9,Motorcycle/Scooter Only,2,"$11,000 - $11,999|Males",1800.0,Number
+1.9,Motorcycle/Scooter Only,2,"$11,000 - $11,999|Females",200.0,Number
+1.9,Motorcycle/Scooter Only,2,"$12,000 - $14,999|Total",2500.0,Number
+1.9,Motorcycle/Scooter Only,2,"$12,000 - $14,999|Males",2400.0,Number
+1.9,Motorcycle/Scooter Only,2,"$12,000 - $14,999|Females",100.0,Number
+1.9,Motorcycle/Scooter Only,2,"$15,000 - $19,999|Total",1600.0,Number
+1.9,Motorcycle/Scooter Only,2,"$15,000 - $19,999|Males",1500.0,Number
+1.9,Motorcycle/Scooter Only,2,"$15,000 - $19,999|Females",100.0,Number
+1.9,Motorcycle/Scooter Only,2,"$20,000 & Over|Total",400.0,Number
+1.9,Motorcycle/Scooter Only,2,"$20,000 & Over|Males",400.0,Number
+1.9,Motorcycle/Scooter Only,2,"$20,000 & Over|Females",0.0,Number
+1.10,Others,2,Total|Total,27800.0,Number
+1.10,Others,2,Total|Males,19100.0,Number
+1.10,Others,2,Total|Females,8600.0,Number
+1.10,Others,2,"Below $1,000|Total",1700.0,Number
+1.10,Others,2,"Below $1,000|Males",1200.0,Number
+1.10,Others,2,"Below $1,000|Females",400.0,Number
+1.10,Others,2,"$1,000 - $1,999|Total",2900.0,Number
+1.10,Others,2,"$1,000 - $1,999|Males",1900.0,Number
+1.10,Others,2,"$1,000 - $1,999|Females",900.0,Number
+1.10,Others,2,"$2,000 - $2,999|Total",4000.0,Number
+1.10,Others,2,"$2,000 - $2,999|Males",2600.0,Number
+1.10,Others,2,"$2,000 - $2,999|Females",1400.0,Number
+1.10,Others,2,"$3,000 - $3,999|Total",5100.0,Number
+1.10,Others,2,"$3,000 - $3,999|Males",2800.0,Number
+1.10,Others,2,"$3,000 - $3,999|Females",2300.0,Number
+1.10,Others,2,"$4,000 - $4,999|Total",2900.0,Number
+1.10,Others,2,"$4,000 - $4,999|Males",1800.0,Number
+1.10,Others,2,"$4,000 - $4,999|Females",1000.0,Number
+1.10,Others,2,"$5,000 - $5,999|Total",2200.0,Number
+1.10,Others,2,"$5,000 - $5,999|Males",1600.0,Number
+1.10,Others,2,"$5,000 - $5,999|Females",600.0,Number
+1.10,Others,2,"$6,000 - $6,999|Total",1400.0,Number
+1.10,Others,2,"$6,000 - $6,999|Males",1100.0,Number
+1.10,Others,2,"$6,000 - $6,999|Females",400.0,Number
+1.10,Others,2,"$7,000 - $7,999|Total",1700.0,Number
+1.10,Others,2,"$7,000 - $7,999|Males",1300.0,Number
+1.10,Others,2,"$7,000 - $7,999|Females",400.0,Number
+1.10,Others,2,"$8,000 - $8,999|Total",700.0,Number
+1.10,Others,2,"$8,000 - $8,999|Males",500.0,Number
+1.10,Others,2,"$8,000 - $8,999|Females",100.0,Number
+1.10,Others,2,"$9,000 - $9,999|Total",1200.0,Number
+1.10,Others,2,"$9,000 - $9,999|Males",1000.0,Number
+1.10,Others,2,"$9,000 - $9,999|Females",200.0,Number
+1.10,Others,2,"$10,000 - $10,999|Total",600.0,Number
+1.10,Others,2,"$10,000 - $10,999|Males",400.0,Number
+1.10,Others,2,"$10,000 - $10,999|Females",200.0,Number
+1.10,Others,2,"$11,000 - $11,999|Total",300.0,Number
+1.10,Others,2,"$11,000 - $11,999|Males",200.0,Number
+1.10,Others,2,"$11,000 - $11,999|Females",100.0,Number
+1.10,Others,2,"$12,000 - $14,999|Total",1100.0,Number
+1.10,Others,2,"$12,000 - $14,999|Males",900.0,Number
+1.10,Others,2,"$12,000 - $14,999|Females",200.0,Number
+1.10,Others,2,"$15,000 - $19,999|Total",800.0,Number
+1.10,Others,2,"$15,000 - $19,999|Males",600.0,Number
+1.10,Others,2,"$15,000 - $19,999|Females",200.0,Number
+1.10,Others,2,"$20,000 & Over|Total",1300.0,Number
+1.10,Others,2,"$20,000 & Over|Males",1200.0,Number
+1.10,Others,2,"$20,000 & Over|Females",100.0,Number
+1.11,No Transport Required,2,Total|Total,229200.0,Number
+1.11,No Transport Required,2,Total|Males,129500.0,Number
+1.11,No Transport Required,2,Total|Females,99600.0,Number
+1.11,No Transport Required,2,"Below $1,000|Total",14400.0,Number
+1.11,No Transport Required,2,"Below $1,000|Males",6700.0,Number
+1.11,No Transport Required,2,"Below $1,000|Females",7700.0,Number
+1.11,No Transport Required,2,"$1,000 - $1,999|Total",43700.0,Number
+1.11,No Transport Required,2,"$1,000 - $1,999|Males",26400.0,Number
+1.11,No Transport Required,2,"$1,000 - $1,999|Females",17300.0,Number
+1.11,No Transport Required,2,"$2,000 - $2,999|Total",44700.0,Number
+1.11,No Transport Required,2,"$2,000 - $2,999|Males",29100.0,Number
+1.11,No Transport Required,2,"$2,000 - $2,999|Females",15500.0,Number
+1.11,No Transport Required,2,"$3,000 - $3,999|Total",35400.0,Number
+1.11,No Transport Required,2,"$3,000 - $3,999|Males",21500.0,Number
+1.11,No Transport Required,2,"$3,000 - $3,999|Females",13900.0,Number
+1.11,No Transport Required,2,"$4,000 - $4,999|Total",20100.0,Number
+1.11,No Transport Required,2,"$4,000 - $4,999|Males",10500.0,Number
+1.11,No Transport Required,2,"$4,000 - $4,999|Females",9500.0,Number
+1.11,No Transport Required,2,"$5,000 - $5,999|Total",14800.0,Number
+1.11,No Transport Required,2,"$5,000 - $5,999|Males",7800.0,Number
+1.11,No Transport Required,2,"$5,000 - $5,999|Females",7100.0,Number
+1.11,No Transport Required,2,"$6,000 - $6,999|Total",8900.0,Number
+1.11,No Transport Required,2,"$6,000 - $6,999|Males",4500.0,Number
+1.11,No Transport Required,2,"$6,000 - $6,999|Females",4400.0,Number
+1.11,No Transport Required,2,"$7,000 - $7,999|Total",7100.0,Number
+1.11,No Transport Required,2,"$7,000 - $7,999|Males",3200.0,Number
+1.11,No Transport Required,2,"$7,000 - $7,999|Females",3900.0,Number
+1.11,No Transport Required,2,"$8,000 - $8,999|Total",5500.0,Number
+1.11,No Transport Required,2,"$8,000 - $8,999|Males",2600.0,Number
+1.11,No Transport Required,2,"$8,000 - $8,999|Females",2900.0,Number
+1.11,No Transport Required,2,"$9,000 - $9,999|Total",5300.0,Number
+1.11,No Transport Required,2,"$9,000 - $9,999|Males",1900.0,Number
+1.11,No Transport Required,2,"$9,000 - $9,999|Females",3500.0,Number
+1.11,No Transport Required,2,"$10,000 - $10,999|Total",5400.0,Number
+1.11,No Transport Required,2,"$10,000 - $10,999|Males",2600.0,Number
+1.11,No Transport Required,2,"$10,000 - $10,999|Females",2800.0,Number
+1.11,No Transport Required,2,"$11,000 - $11,999|Total",3300.0,Number
+1.11,No Transport Required,2,"$11,000 - $11,999|Males",1700.0,Number
+1.11,No Transport Required,2,"$11,000 - $11,999|Females",1600.0,Number
+1.11,No Transport Required,2,"$12,000 - $14,999|Total",8200.0,Number
+1.11,No Transport Required,2,"$12,000 - $14,999|Males",4400.0,Number
+1.11,No Transport Required,2,"$12,000 - $14,999|Females",3800.0,Number
+1.11,No Transport Required,2,"$15,000 - $19,999|Total",5900.0,Number
+1.11,No Transport Required,2,"$15,000 - $19,999|Males",2900.0,Number
+1.11,No Transport Required,2,"$15,000 - $19,999|Females",3000.0,Number
+1.11,No Transport Required,2,"$20,000 & Over|Total",6500.0,Number
+1.11,No Transport Required,2,"$20,000 & Over|Males",3800.0,Number
+1.11,No Transport Required,2,"$20,000 & Over|Females",2800.0,Number

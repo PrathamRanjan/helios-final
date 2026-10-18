@@ -1,0 +1,15 @@
+{
+  "name": "helios",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "install:web": "npm --prefix web ci",
+    "dev": "npm --prefix web run dev",
+    "build": "npm --prefix web run build",
+    "start": "npm --prefix web run start",
+    "verify": "npm --prefix web run verify:india && npm --prefix web run verify:urban && npm --prefix web run verify:cloud",
+    "engine": "cd engine && python3 -m uvicorn api.main:app --host 127.0.0.1 --port 8081"
+  }
+}

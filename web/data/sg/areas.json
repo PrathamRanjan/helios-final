@@ -1,0 +1,1871 @@
+{
+ "_sources": {
+  "boundaries": "URA Master Plan 2019 Planning Area Boundary (No Sea), data.gov.sg",
+  "census": "SingStat General Household Survey 2025 (population, dwelling, transport to work, household income)",
+  "transit": "LTA Bus Stop + MRT Station Exit (data.gov.sg)"
+ },
+ "areas": [
+  {
+   "id": "ang_mo_kio",
+   "name": "Ang Mo Kio",
+   "code": "AM",
+   "region": "North-East Region",
+   "centroid": [
+    103.84256,
+    1.37673
+   ],
+   "bbox": [
+    1.35551,
+    103.81674,
+    1.39774,
+    103.86093
+   ],
+   "area_km2": 13.95,
+   "population": 158720,
+   "share_65_plus": 0.262,
+   "share_under_15": 0.103,
+   "share_hdb": 0.797,
+   "share_condo": 0.091,
+   "share_landed": 0.099,
+   "commuters": 77500,
+   "pt_share": 0.739,
+   "car_share": 0.192,
+   "taxi_share": 0.012,
+   "households": 61900,
+   "share_hh_income_10k_plus": 0.404,
+   "share_hh_income_below_3k": 0.326,
+   "bus_stops": 166,
+   "stations": 4,
+   "subzones": 12,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 5345,
+    "roads": 12266
+   }
+  },
+  {
+   "id": "bedok",
+   "name": "Bedok",
+   "code": "BD",
+   "region": "East Region",
+   "centroid": [
+    103.93087,
+    1.325
+   ],
+   "bbox": [
+    1.30182,
+    103.89618,
+    1.34859,
+    103.96363
+   ],
+   "area_km2": 21.74,
+   "population": 274360,
+   "share_65_plus": 0.237,
+   "share_under_15": 0.116,
+   "share_hdb": 0.611,
+   "share_condo": 0.224,
+   "share_landed": 0.155,
+   "commuters": 128700,
+   "pt_share": 0.65,
+   "car_share": 0.254,
+   "taxi_share": 0.035,
+   "households": 98100,
+   "share_hh_income_10k_plus": 0.459,
+   "share_hh_income_below_3k": 0.276,
+   "bus_stops": 286,
+   "stations": 8,
+   "subzones": 8,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 12042,
+    "roads": 24023
+   }
+  },
+  {
+   "id": "bishan",
+   "name": "Bishan",
+   "code": "BS",
+   "region": "Central Region",
+   "centroid": [
+    103.83773,
+    1.35516
+   ],
+   "bbox": [
+    1.342,
+    103.81854,
+    1.36799,
+    103.86044
+   ],
+   "area_km2": 7.61,
+   "population": 87530,
+   "share_65_plus": 0.228,
+   "share_under_15": 0.123,
+   "share_hdb": 0.643,
+   "share_condo": 0.232,
+   "share_landed": 0.117,
+   "commuters": 40300,
+   "pt_share": 0.663,
+   "car_share": 0.283,
+   "taxi_share": 0.03,
+   "households": 30100,
+   "share_hh_income_10k_plus": 0.581,
+   "share_hh_income_below_3k": 0.226,
+   "bus_stops": 99,
+   "stations": 4,
+   "subzones": 3,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3907,
+    "roads": 10281
+   }
+  },
+  {
+   "id": "boon_lay",
+   "name": "Boon Lay",
+   "code": "BL",
+   "region": "West Region",
+   "centroid": [
+    103.70779,
+    1.31536
+   ],
+   "bbox": [
+    1.29907,
+    103.6811,
+    1.33165,
+    103.72115
+   ],
+   "area_km2": 8.28,
+   "population": 30,
+   "share_65_plus": 0.0,
+   "share_under_15": 0.0,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.0,
+   "bus_stops": 67,
+   "stations": 0,
+   "subzones": 4,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 719,
+    "roads": 6787
+   }
+  },
+  {
+   "id": "bukit_batok",
+   "name": "Bukit Batok",
+   "code": "BK",
+   "region": "West Region",
+   "centroid": [
+    103.7526,
+    1.35603
+   ],
+   "bbox": [
+    1.33245,
+    103.73651,
+    1.37967,
+    103.77038
+   ],
+   "area_km2": 11.14,
+   "population": 165830,
+   "share_65_plus": 0.184,
+   "share_under_15": 0.137,
+   "share_hdb": 0.783,
+   "share_condo": 0.177,
+   "share_landed": 0.033,
+   "commuters": 91800,
+   "pt_share": 0.657,
+   "car_share": 0.235,
+   "taxi_share": 0.025,
+   "households": 63500,
+   "share_hh_income_10k_plus": 0.49,
+   "share_hh_income_below_3k": 0.197,
+   "bus_stops": 166,
+   "stations": 3,
+   "subzones": 9,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3518,
+    "roads": 16482
+   }
+  },
+  {
+   "id": "bukit_merah",
+   "name": "Bukit Merah",
+   "code": "BM",
+   "region": "Central Region",
+   "centroid": [
+    103.82163,
+    1.27446
+   ],
+   "bbox": [
+    1.25481,
+    103.79921,
+    1.29437,
+    103.85207
+   ],
+   "area_km2": 14.46,
+   "population": 146200,
+   "share_65_plus": 0.252,
+   "share_under_15": 0.11,
+   "share_hdb": 0.849,
+   "share_condo": 0.135,
+   "share_landed": 0.003,
+   "commuters": 63500,
+   "pt_share": 0.732,
+   "car_share": 0.187,
+   "taxi_share": 0.046,
+   "households": 52700,
+   "share_hh_income_10k_plus": 0.4,
+   "share_hh_income_below_3k": 0.323,
+   "bus_stops": 176,
+   "stations": 9,
+   "subzones": 17,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2386,
+    "roads": 19254
+   }
+  },
+  {
+   "id": "bukit_panjang",
+   "name": "Bukit Panjang",
+   "code": "BP",
+   "region": "West Region",
+   "centroid": [
+    103.77304,
+    1.36622
+   ],
+   "bbox": [
+    1.34186,
+    103.75513,
+    1.39081,
+    103.79166
+   ],
+   "area_km2": 9.02,
+   "population": 136360,
+   "share_65_plus": 0.18,
+   "share_under_15": 0.132,
+   "share_hdb": 0.826,
+   "share_condo": 0.147,
+   "share_landed": 0.023,
+   "commuters": 73300,
+   "pt_share": 0.652,
+   "car_share": 0.228,
+   "taxi_share": 0.022,
+   "households": 47700,
+   "share_hh_income_10k_plus": 0.522,
+   "share_hh_income_below_3k": 0.203,
+   "bus_stops": 102,
+   "stations": 10,
+   "subzones": 7,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2290,
+    "roads": 10107
+   }
+  },
+  {
+   "id": "bukit_timah",
+   "name": "Bukit Timah",
+   "code": "BT",
+   "region": "Central Region",
+   "centroid": [
+    103.79336,
+    1.32812
+   ],
+   "bbox": [
+    1.30692,
+    103.76318,
+    1.34954,
+    103.81862
+   ],
+   "area_km2": 17.52,
+   "population": 85900,
+   "share_65_plus": 0.182,
+   "share_under_15": 0.172,
+   "share_hdb": 0.076,
+   "share_condo": 0.526,
+   "share_landed": 0.388,
+   "commuters": 35200,
+   "pt_share": 0.457,
+   "car_share": 0.486,
+   "taxi_share": 0.04,
+   "households": 27000,
+   "share_hh_income_10k_plus": 0.748,
+   "share_hh_income_below_3k": 0.152,
+   "bus_stops": 112,
+   "stations": 6,
+   "subzones": 8,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 10319,
+    "roads": 16732
+   }
+  },
+  {
+   "id": "central_water_catchment",
+   "name": "Central Water Catchment",
+   "code": "CC",
+   "region": "North Region",
+   "centroid": [
+    103.80166,
+    1.37608
+   ],
+   "bbox": [
+    1.33579,
+    103.77168,
+    1.41621,
+    103.83708
+   ],
+   "area_km2": 37.17,
+   "population": 0,
+   "share_65_plus": null,
+   "share_under_15": null,
+   "bus_stops": 20,
+   "stations": 0,
+   "subzones": 1,
+   "simulation": "pending"
+  },
+  {
+   "id": "changi",
+   "name": "Changi",
+   "code": "CH",
+   "region": "East Region",
+   "centroid": [
+    103.99722,
+    1.35175
+   ],
+   "bbox": [
+    1.30946,
+    103.96429,
+    1.39378,
+    104.03344
+   ],
+   "area_km2": 41.48,
+   "population": 1960,
+   "share_65_plus": 0.148,
+   "share_under_15": 0.224,
+   "share_hdb": 0.163,
+   "share_condo": 0.005,
+   "share_landed": 0.173,
+   "bus_stops": 90,
+   "stations": 1,
+   "subzones": 3,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 1473,
+    "roads": 8618
+   }
+  },
+  {
+   "id": "changi_bay",
+   "name": "Changi Bay",
+   "code": "CB",
+   "region": "East Region",
+   "centroid": [
+    104.07118,
+    1.29147
+   ],
+   "bbox": [
+    1.29087,
+    104.0148,
+    1.36053,
+    104.08439
+   ],
+   "area_km2": 1.97,
+   "population": 0,
+   "share_65_plus": null,
+   "share_under_15": null,
+   "bus_stops": 1,
+   "stations": 0,
+   "subzones": 1,
+   "simulation": "pending"
+  },
+  {
+   "id": "choa_chu_kang",
+   "name": "Choa Chu Kang",
+   "code": "CK",
+   "region": "West Region",
+   "centroid": [
+    103.74849,
+    1.38749
+   ],
+   "bbox": [
+    1.36905,
+    103.73267,
+    1.40549,
+    103.76124
+   ],
+   "area_km2": 6.12,
+   "population": 187550,
+   "share_65_plus": 0.151,
+   "share_under_15": 0.134,
+   "share_hdb": 0.857,
+   "share_condo": 0.127,
+   "share_landed": 0.012,
+   "commuters": 101100,
+   "pt_share": 0.675,
+   "car_share": 0.227,
+   "taxi_share": 0.017,
+   "households": 62900,
+   "share_hh_income_10k_plus": 0.545,
+   "share_hh_income_below_3k": 0.189,
+   "bus_stops": 116,
+   "stations": 6,
+   "subzones": 6,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2035,
+    "roads": 9420
+   }
+  },
+  {
+   "id": "clementi",
+   "name": "Clementi",
+   "code": "CL",
+   "region": "West Region",
+   "centroid": [
+    103.76044,
+    1.31651
+   ],
+   "bbox": [
+    1.29165,
+    103.74747,
+    1.34127,
+    103.77565
+   ],
+   "area_km2": 9.52,
+   "population": 104240,
+   "share_65_plus": 0.212,
+   "share_under_15": 0.139,
+   "share_hdb": 0.675,
+   "share_condo": 0.257,
+   "share_landed": 0.054,
+   "commuters": 52900,
+   "pt_share": 0.603,
+   "car_share": 0.319,
+   "taxi_share": 0.03,
+   "households": 39500,
+   "share_hh_income_10k_plus": 0.557,
+   "share_hh_income_below_3k": 0.246,
+   "bus_stops": 109,
+   "stations": 1,
+   "subzones": 9,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2918,
+    "roads": 13503
+   }
+  },
+  {
+   "id": "downtown_core",
+   "name": "Downtown Core",
+   "code": "DT",
+   "region": "Central Region",
+   "centroid": [
+    103.85609,
+    1.28659
+   ],
+   "bbox": [
+    1.26872,
+    103.84137,
+    1.30436,
+    103.86908
+   ],
+   "area_km2": 5.08,
+   "population": 5230,
+   "share_65_plus": 0.105,
+   "share_under_15": 0.088,
+   "share_hdb": 0.105,
+   "share_condo": 0.826,
+   "share_landed": 0.0,
+   "bus_stops": 79,
+   "stations": 13,
+   "subzones": 13,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2500,
+    "roads": 11753
+   }
+  },
+  {
+   "id": "geylang",
+   "name": "Geylang",
+   "code": "GL",
+   "region": "Central Region",
+   "centroid": [
+    103.88985,
+    1.32116
+   ],
+   "bbox": [
+    1.30454,
+    103.86874,
+    1.3378,
+    103.90671
+   ],
+   "area_km2": 9.65,
+   "population": 117640,
+   "share_65_plus": 0.222,
+   "share_under_15": 0.119,
+   "share_hdb": 0.712,
+   "share_condo": 0.216,
+   "share_landed": 0.052,
+   "commuters": 61900,
+   "pt_share": 0.724,
+   "car_share": 0.191,
+   "taxi_share": 0.031,
+   "households": 49000,
+   "share_hh_income_10k_plus": 0.433,
+   "share_hh_income_below_3k": 0.278,
+   "bus_stops": 154,
+   "stations": 9,
+   "subzones": 5,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 6107,
+    "roads": 16084
+   }
+  },
+  {
+   "id": "hougang",
+   "name": "Hougang",
+   "code": "HG",
+   "region": "North-East Region",
+   "centroid": [
+    103.8888,
+    1.36095
+   ],
+   "bbox": [
+    1.33356,
+    103.87311,
+    1.38869,
+    103.91005
+   ],
+   "area_km2": 13.94,
+   "population": 227220,
+   "share_65_plus": 0.211,
+   "share_under_15": 0.12,
+   "share_hdb": 0.718,
+   "share_condo": 0.169,
+   "share_landed": 0.096,
+   "commuters": 114500,
+   "pt_share": 0.656,
+   "car_share": 0.263,
+   "taxi_share": 0.021,
+   "households": 79400,
+   "share_hh_income_10k_plus": 0.504,
+   "share_hh_income_below_3k": 0.225,
+   "bus_stops": 209,
+   "stations": 2,
+   "subzones": 10,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 8296,
+    "roads": 19867
+   }
+  },
+  {
+   "id": "jurong_east",
+   "name": "Jurong East",
+   "code": "JE",
+   "region": "West Region",
+   "centroid": [
+    103.73844,
+    1.32512
+   ],
+   "bbox": [
+    1.2965,
+    103.70977,
+    1.35361,
+    103.75728
+   ],
+   "area_km2": 17.86,
+   "population": 72950,
+   "share_65_plus": 0.252,
+   "share_under_15": 0.097,
+   "share_hdb": 0.905,
+   "share_condo": 0.084,
+   "share_landed": 0.0,
+   "commuters": 38300,
+   "pt_share": 0.689,
+   "car_share": 0.188,
+   "taxi_share": 0.023,
+   "households": 26400,
+   "share_hh_income_10k_plus": 0.424,
+   "share_hh_income_below_3k": 0.273,
+   "bus_stops": 147,
+   "stations": 2,
+   "subzones": 11,
+   "simulation": "ready"
+  },
+  {
+   "id": "jurong_west",
+   "name": "Jurong West",
+   "code": "JW",
+   "region": "West Region",
+   "centroid": [
+    103.70482,
+    1.34396
+   ],
+   "bbox": [
+    1.32359,
+    103.67493,
+    1.36435,
+    103.72816
+   ],
+   "area_km2": 14.68,
+   "population": 253840,
+   "share_65_plus": 0.174,
+   "share_under_15": 0.126,
+   "share_hdb": 0.91,
+   "share_condo": 0.069,
+   "share_landed": 0.016,
+   "commuters": 139400,
+   "pt_share": 0.667,
+   "car_share": 0.192,
+   "taxi_share": 0.016,
+   "households": 88700,
+   "share_hh_income_10k_plus": 0.48,
+   "share_hh_income_below_3k": 0.187,
+   "bus_stops": 246,
+   "stations": 3,
+   "subzones": 9,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3730,
+    "roads": 16973
+   }
+  },
+  {
+   "id": "kallang",
+   "name": "Kallang",
+   "code": "KL",
+   "region": "Central Region",
+   "centroid": [
+    103.86511,
+    1.31233
+   ],
+   "bbox": [
+    1.29417,
+    103.84432,
+    1.33044,
+    103.88552
+   ],
+   "area_km2": 8.59,
+   "population": 101720,
+   "share_65_plus": 0.241,
+   "share_under_15": 0.11,
+   "share_hdb": 0.758,
+   "share_condo": 0.212,
+   "share_landed": 0.013,
+   "commuters": 49300,
+   "pt_share": 0.738,
+   "car_share": 0.176,
+   "taxi_share": 0.041,
+   "households": 39200,
+   "share_hh_income_10k_plus": 0.457,
+   "share_hh_income_below_3k": 0.306,
+   "bus_stops": 118,
+   "stations": 7,
+   "subzones": 9,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3681,
+    "roads": 20508
+   }
+  },
+  {
+   "id": "lim_chu_kang",
+   "name": "Lim Chu Kang",
+   "code": "LK",
+   "region": "North Region",
+   "centroid": [
+    103.71924,
+    1.431
+   ],
+   "bbox": [
+    1.41107,
+    103.69301,
+    1.45131,
+    103.7436
+   ],
+   "area_km2": 17.5,
+   "population": 30,
+   "share_65_plus": 0.0,
+   "share_under_15": 0.0,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.0,
+   "bus_stops": 29,
+   "stations": 0,
+   "subzones": 1,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 876,
+    "roads": 2764
+   }
+  },
+  {
+   "id": "mandai",
+   "name": "Mandai",
+   "code": "MD",
+   "region": "North Region",
+   "centroid": [
+    103.81281,
+    1.4271
+   ],
+   "bbox": [
+    1.40991,
+    103.77127,
+    1.44428,
+    103.82685
+   ],
+   "area_km2": 11.77,
+   "population": 2120,
+   "share_65_plus": 0.165,
+   "share_under_15": 0.118,
+   "share_hdb": 0.0,
+   "share_condo": 0.618,
+   "share_landed": 0.354,
+   "bus_stops": 15,
+   "stations": 0,
+   "subzones": 3,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 715,
+    "roads": 10479
+   }
+  },
+  {
+   "id": "marina_east",
+   "name": "Marina East",
+   "code": "ME",
+   "region": "Central Region",
+   "centroid": [
+    103.87171,
+    1.28824
+   ],
+   "bbox": [
+    1.28046,
+    103.86445,
+    1.29552,
+    103.88109
+   ],
+   "area_km2": 1.84,
+   "population": 0,
+   "share_65_plus": null,
+   "share_under_15": null,
+   "bus_stops": 0,
+   "stations": 0,
+   "subzones": 1,
+   "simulation": "pending"
+  },
+  {
+   "id": "marina_south",
+   "name": "Marina South",
+   "code": "MS",
+   "region": "Central Region",
+   "centroid": [
+    103.86602,
+    1.2808
+   ],
+   "bbox": [
+    1.27284,
+    103.85843,
+    1.28885,
+    103.87252
+   ],
+   "area_km2": 1.63,
+   "population": 0,
+   "share_65_plus": null,
+   "share_under_15": null,
+   "bus_stops": 6,
+   "stations": 1,
+   "subzones": 1,
+   "simulation": "pending"
+  },
+  {
+   "id": "marine_parade",
+   "name": "Marine Parade",
+   "code": "MP",
+   "region": "Central Region",
+   "centroid": [
+    103.89854,
+    1.2991
+   ],
+   "bbox": [
+    1.28484,
+    103.87542,
+    1.31332,
+    103.91951
+   ],
+   "area_km2": 6.13,
+   "population": 47480,
+   "share_65_plus": 0.217,
+   "share_under_15": 0.139,
+   "share_hdb": 0.381,
+   "share_condo": 0.42,
+   "share_landed": 0.19,
+   "commuters": 21900,
+   "pt_share": 0.607,
+   "car_share": 0.306,
+   "taxi_share": 0.064,
+   "households": 18400,
+   "share_hh_income_10k_plus": 0.5,
+   "share_hh_income_below_3k": 0.288,
+   "bus_stops": 61,
+   "stations": 4,
+   "subzones": 5,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 4420,
+    "roads": 8646
+   }
+  },
+  {
+   "id": "museum",
+   "name": "Museum",
+   "code": "MU",
+   "region": "Central Region",
+   "centroid": [
+    103.84751,
+    1.29597
+   ],
+   "bbox": [
+    1.29008,
+    103.84136,
+    1.30174,
+    103.85231
+   ],
+   "area_km2": 0.83,
+   "population": 820,
+   "share_65_plus": 0.11,
+   "share_under_15": 0.122,
+   "share_hdb": 0.0,
+   "share_condo": 0.976,
+   "share_landed": 0.0,
+   "bus_stops": 19,
+   "stations": 2,
+   "subzones": 3,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 441,
+    "roads": 4677
+   }
+  },
+  {
+   "id": "newton",
+   "name": "Newton",
+   "code": "NT",
+   "region": "Central Region",
+   "centroid": [
+    103.84099,
+    1.30851
+   ],
+   "bbox": [
+    1.29959,
+    103.82673,
+    1.31737,
+    103.84867
+   ],
+   "area_km2": 2.07,
+   "population": 10110,
+   "share_65_plus": 0.153,
+   "share_under_15": 0.172,
+   "share_hdb": 0.0,
+   "share_condo": 0.902,
+   "share_landed": 0.057,
+   "bus_stops": 11,
+   "stations": 1,
+   "subzones": 6,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 1250,
+    "roads": 7290
+   }
+  },
+  {
+   "id": "north_eastern_islands",
+   "name": "North-Eastern Islands",
+   "code": "NE",
+   "region": "North-East Region",
+   "centroid": [
+    104.05261,
+    1.38914
+   ],
+   "bbox": [
+    1.33751,
+    103.92637,
+    1.4407,
+    104.08848
+   ],
+   "area_km2": 67.27,
+   "population": 40,
+   "share_65_plus": 0.0,
+   "share_under_15": 0.0,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.0,
+   "bus_stops": 0,
+   "stations": 0,
+   "subzones": 1,
+   "simulation": "osm_only",
+   "osm": {
+    "buildings": 424,
+    "roads": 22619
+   }
+  },
+  {
+   "id": "novena",
+   "name": "Novena",
+   "code": "NV",
+   "region": "Central Region",
+   "centroid": [
+    103.83723,
+    1.32609
+   ],
+   "bbox": [
+    1.31056,
+    103.81336,
+    1.34168,
+    103.86235
+   ],
+   "area_km2": 8.97,
+   "population": 53160,
+   "share_65_plus": 0.188,
+   "share_under_15": 0.149,
+   "share_hdb": 0.386,
+   "share_condo": 0.449,
+   "share_landed": 0.15,
+   "commuters": 24900,
+   "pt_share": 0.55,
+   "car_share": 0.369,
+   "taxi_share": 0.044,
+   "households": 19300,
+   "share_hh_income_10k_plus": 0.585,
+   "share_hh_income_below_3k": 0.218,
+   "bus_stops": 75,
+   "stations": 1,
+   "subzones": 5,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 4446,
+    "roads": 16096
+   }
+  },
+  {
+   "id": "orchard",
+   "name": "Orchard",
+   "code": "OR",
+   "region": "Central Region",
+   "centroid": [
+    103.83406,
+    1.30401
+   ],
+   "bbox": [
+    1.29824,
+    103.82266,
+    1.30979,
+    103.84322
+   ],
+   "area_km2": 0.96,
+   "population": 1450,
+   "share_65_plus": 0.172,
+   "share_under_15": 0.11,
+   "share_hdb": 0.0,
+   "share_condo": 0.931,
+   "share_landed": 0.0,
+   "bus_stops": 18,
+   "stations": 3,
+   "subzones": 3,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 798,
+    "roads": 4793
+   }
+  },
+  {
+   "id": "outram",
+   "name": "Outram",
+   "code": "OT",
+   "region": "Central Region",
+   "centroid": [
+    103.8437,
+    1.28163
+   ],
+   "bbox": [
+    1.27415,
+    103.83476,
+    1.28919,
+    103.84966
+   ],
+   "area_km2": 1.37,
+   "population": 16940,
+   "share_65_plus": 0.29,
+   "share_under_15": 0.089,
+   "share_hdb": 0.889,
+   "share_condo": 0.086,
+   "share_landed": 0.0,
+   "commuters": 5000,
+   "pt_share": 0.88,
+   "car_share": 0.08,
+   "taxi_share": 0.02,
+   "households": 5100,
+   "share_hh_income_10k_plus": 0.294,
+   "share_hh_income_below_3k": 0.51,
+   "bus_stops": 27,
+   "stations": 3,
+   "subzones": 4,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 1854,
+    "roads": 5675
+   }
+  },
+  {
+   "id": "pasir_ris",
+   "name": "Pasir Ris",
+   "code": "PR",
+   "region": "East Region",
+   "centroid": [
+    103.95353,
+    1.37694
+   ],
+   "bbox": [
+    1.3527,
+    103.91433,
+    1.40118,
+    103.97999
+   ],
+   "area_km2": 15.81,
+   "population": 144260,
+   "share_65_plus": 0.161,
+   "share_under_15": 0.124,
+   "share_hdb": 0.67,
+   "share_condo": 0.276,
+   "share_landed": 0.047,
+   "commuters": 75800,
+   "pt_share": 0.588,
+   "car_share": 0.285,
+   "taxi_share": 0.037,
+   "households": 47200,
+   "share_hh_income_10k_plus": 0.633,
+   "share_hh_income_below_3k": 0.157,
+   "bus_stops": 169,
+   "stations": 1,
+   "subzones": 8,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3531,
+    "roads": 15866
+   }
+  },
+  {
+   "id": "paya_lebar",
+   "name": "Paya Lebar",
+   "code": "PL",
+   "region": "East Region",
+   "centroid": [
+    103.91738,
+    1.36055
+   ],
+   "bbox": [
+    1.3387,
+    103.8935,
+    1.38236,
+    103.93189
+   ],
+   "area_km2": 11.69,
+   "population": 20,
+   "share_65_plus": 0.0,
+   "share_under_15": 0.0,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.0,
+   "bus_stops": 40,
+   "stations": 0,
+   "subzones": 5,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 621,
+    "roads": 9558
+   }
+  },
+  {
+   "id": "pioneer",
+   "name": "Pioneer",
+   "code": "PN",
+   "region": "West Region",
+   "centroid": [
+    103.66935,
+    1.30988
+   ],
+   "bbox": [
+    1.28868,
+    103.64981,
+    1.33105,
+    103.69653
+   ],
+   "area_km2": 12.22,
+   "population": 50,
+   "share_65_plus": 0.0,
+   "share_under_15": 0.0,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.0,
+   "bus_stops": 130,
+   "stations": 1,
+   "subzones": 5,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 1399,
+    "roads": 7859
+   }
+  },
+  {
+   "id": "punggol",
+   "name": "Punggol",
+   "code": "PG",
+   "region": "North-East Region",
+   "centroid": [
+    103.90915,
+    1.40373
+   ],
+   "bbox": [
+    1.38593,
+    103.88681,
+    1.42151,
+    103.93117
+   ],
+   "area_km2": 9.38,
+   "population": 204150,
+   "share_65_plus": 0.1,
+   "share_under_15": 0.205,
+   "share_hdb": 0.873,
+   "share_condo": 0.123,
+   "share_landed": 0.002,
+   "commuters": 107500,
+   "pt_share": 0.671,
+   "car_share": 0.23,
+   "taxi_share": 0.026,
+   "households": 68800,
+   "share_hh_income_10k_plus": 0.548,
+   "share_hh_income_below_3k": 0.164,
+   "bus_stops": 118,
+   "stations": 16,
+   "subzones": 7,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 1371,
+    "roads": 9663
+   }
+  },
+  {
+   "id": "queenstown",
+   "name": "Queenstown",
+   "code": "QT",
+   "region": "Central Region",
+   "centroid": [
+    103.78514,
+    1.28693
+   ],
+   "bbox": [
+    1.25501,
+    103.75023,
+    1.31873,
+    103.8166
+   ],
+   "area_km2": 21.69,
+   "population": 101480,
+   "share_65_plus": 0.226,
+   "share_under_15": 0.118,
+   "share_hdb": 0.758,
+   "share_condo": 0.19,
+   "share_landed": 0.034,
+   "commuters": 52400,
+   "pt_share": 0.7,
+   "car_share": 0.21,
+   "taxi_share": 0.038,
+   "households": 40100,
+   "share_hh_income_10k_plus": 0.501,
+   "share_hh_income_below_3k": 0.299,
+   "bus_stops": 224,
+   "stations": 8,
+   "subzones": 15,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 4794,
+    "roads": 28265
+   }
+  },
+  {
+   "id": "river_valley",
+   "name": "River Valley",
+   "code": "RV",
+   "region": "Central Region",
+   "centroid": [
+    103.83637,
+    1.29788
+   ],
+   "bbox": [
+    1.29097,
+    103.82325,
+    1.30466,
+    103.8433
+   ],
+   "area_km2": 1.48,
+   "population": 12700,
+   "share_65_plus": 0.137,
+   "share_under_15": 0.154,
+   "share_hdb": 0.0,
+   "share_condo": 0.936,
+   "share_landed": 0.058,
+   "bus_stops": 14,
+   "stations": 0,
+   "subzones": 5,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 1015,
+    "roads": 5811
+   }
+  },
+  {
+   "id": "rochor",
+   "name": "Rochor",
+   "code": "RC",
+   "region": "Central Region",
+   "centroid": [
+    103.85428,
+    1.30499
+   ],
+   "bbox": [
+    1.29638,
+    103.84537,
+    1.31362,
+    103.86228
+   ],
+   "area_km2": 1.59,
+   "population": 12790,
+   "share_65_plus": 0.25,
+   "share_under_15": 0.094,
+   "share_hdb": 0.712,
+   "share_condo": 0.229,
+   "share_landed": 0.009,
+   "bus_stops": 30,
+   "stations": 5,
+   "subzones": 10,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2818,
+    "roads": 7243
+   }
+  },
+  {
+   "id": "seletar",
+   "name": "Seletar",
+   "code": "SL",
+   "region": "North-East Region",
+   "centroid": [
+    103.87929,
+    1.41629
+   ],
+   "bbox": [
+    1.40046,
+    103.85477,
+    1.43199,
+    103.89783
+   ],
+   "area_km2": 10.85,
+   "population": 290,
+   "share_65_plus": 0.103,
+   "share_under_15": 0.069,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.966,
+   "bus_stops": 27,
+   "stations": 0,
+   "subzones": 4,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 483,
+    "roads": 4318
+   }
+  },
+  {
+   "id": "sembawang",
+   "name": "Sembawang",
+   "code": "SB",
+   "region": "North Region",
+   "centroid": [
+    103.81868,
+    1.453
+   ],
+   "bbox": [
+    1.43505,
+    103.79179,
+    1.47077,
+    103.84781
+   ],
+   "area_km2": 12.64,
+   "population": 113350,
+   "share_65_plus": 0.119,
+   "share_under_15": 0.164,
+   "share_hdb": 0.824,
+   "share_condo": 0.132,
+   "share_landed": 0.036,
+   "commuters": 60600,
+   "pt_share": 0.705,
+   "car_share": 0.21,
+   "taxi_share": 0.018,
+   "households": 37500,
+   "share_hh_income_10k_plus": 0.555,
+   "share_hh_income_below_3k": 0.144,
+   "bus_stops": 145,
+   "stations": 2,
+   "subzones": 9,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2936,
+    "roads": 11183
+   }
+  },
+  {
+   "id": "sengkang",
+   "name": "Sengkang",
+   "code": "SE",
+   "region": "North-East Region",
+   "centroid": [
+    103.89555,
+    1.38864
+   ],
+   "bbox": [
+    1.37586,
+    103.85239,
+    1.40141,
+    103.9175
+   ],
+   "area_km2": 10.61,
+   "population": 267600,
+   "share_65_plus": 0.132,
+   "share_under_15": 0.169,
+   "share_hdb": 0.837,
+   "share_condo": 0.155,
+   "share_landed": 0.006,
+   "commuters": 151500,
+   "pt_share": 0.671,
+   "car_share": 0.243,
+   "taxi_share": 0.024,
+   "households": 95900,
+   "share_hh_income_10k_plus": 0.565,
+   "share_hh_income_below_3k": 0.157,
+   "bus_stops": 163,
+   "stations": 15,
+   "subzones": 7,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2733,
+    "roads": 15679
+   }
+  },
+  {
+   "id": "serangoon",
+   "name": "Serangoon",
+   "code": "SG",
+   "region": "North-East Region",
+   "centroid": [
+    103.86761,
+    1.36601
+   ],
+   "bbox": [
+    1.34086,
+    103.85686,
+    1.39111,
+    103.88506
+   ],
+   "area_km2": 10.1,
+   "population": 116630,
+   "share_65_plus": 0.239,
+   "share_under_15": 0.111,
+   "share_hdb": 0.503,
+   "share_condo": 0.182,
+   "share_landed": 0.308,
+   "commuters": 56700,
+   "pt_share": 0.596,
+   "car_share": 0.328,
+   "taxi_share": 0.026,
+   "households": 40200,
+   "share_hh_income_10k_plus": 0.55,
+   "share_hh_income_below_3k": 0.236,
+   "bus_stops": 144,
+   "stations": 2,
+   "subzones": 7,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 11556,
+    "roads": 15742
+   }
+  },
+  {
+   "id": "simpang",
+   "name": "Simpang",
+   "code": "SM",
+   "region": "North Region",
+   "centroid": [
+    103.84968,
+    1.44253
+   ],
+   "bbox": [
+    1.42448,
+    103.83306,
+    1.46052,
+    103.87265
+   ],
+   "area_km2": 8.29,
+   "population": 0,
+   "share_65_plus": null,
+   "share_under_15": null,
+   "bus_stops": 0,
+   "stations": 0,
+   "subzones": 4,
+   "simulation": "pending"
+  },
+  {
+   "id": "singapore_river",
+   "name": "Singapore River",
+   "code": "SR",
+   "region": "Central Region",
+   "centroid": [
+    103.8405,
+    1.29087
+   ],
+   "bbox": [
+    1.28543,
+    103.83034,
+    1.29631,
+    103.85082
+   ],
+   "area_km2": 0.96,
+   "population": 4630,
+   "share_65_plus": 0.091,
+   "share_under_15": 0.19,
+   "share_hdb": 0.0,
+   "share_condo": 0.972,
+   "share_landed": 0.0,
+   "bus_stops": 18,
+   "stations": 3,
+   "subzones": 3,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 848,
+    "roads": 6381
+   }
+  },
+  {
+   "id": "southern_islands",
+   "name": "Southern Islands",
+   "code": "SI",
+   "region": "Central Region",
+   "centroid": [
+    103.83432,
+    1.24892
+   ],
+   "bbox": [
+    1.21233,
+    103.8067,
+    1.2602,
+    103.86276
+   ],
+   "area_km2": 7.13,
+   "population": 2680,
+   "share_65_plus": 0.112,
+   "share_under_15": 0.179,
+   "share_hdb": 0.0,
+   "share_condo": 0.761,
+   "share_landed": 0.228,
+   "bus_stops": 4,
+   "stations": 0,
+   "subzones": 2,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 1218,
+    "roads": 2301
+   }
+  },
+  {
+   "id": "straits_view",
+   "name": "Straits View",
+   "code": "SV",
+   "region": "Central Region",
+   "centroid": [
+    103.8593,
+    1.27136
+   ],
+   "bbox": [
+    1.2647,
+    103.85156,
+    1.27804,
+    103.86643
+   ],
+   "area_km2": 1.13,
+   "population": 0,
+   "share_65_plus": null,
+   "share_under_15": null,
+   "bus_stops": 4,
+   "stations": 2,
+   "subzones": 1,
+   "simulation": "pending"
+  },
+  {
+   "id": "sungei_kadut",
+   "name": "Sungei Kadut",
+   "code": "SK",
+   "region": "North Region",
+   "centroid": [
+    103.7561,
+    1.41758
+   ],
+   "bbox": [
+    1.38886,
+    103.737,
+    1.44631,
+    103.77445
+   ],
+   "area_km2": 17.59,
+   "population": 730,
+   "share_65_plus": 0.233,
+   "share_under_15": 0.123,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.904,
+   "bus_stops": 91,
+   "stations": 1,
+   "subzones": 5,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 1540,
+    "roads": 8923
+   }
+  },
+  {
+   "id": "tampines",
+   "name": "Tampines",
+   "code": "TM",
+   "region": "East Region",
+   "centroid": [
+    103.94913,
+    1.34503
+   ],
+   "bbox": [
+    1.31411,
+    103.92497,
+    1.37578,
+    103.98481
+   ],
+   "area_km2": 20.8,
+   "population": 290090,
+   "share_65_plus": 0.186,
+   "share_under_15": 0.148,
+   "share_hdb": 0.851,
+   "share_condo": 0.128,
+   "share_landed": 0.015,
+   "commuters": 154300,
+   "pt_share": 0.664,
+   "car_share": 0.223,
+   "taxi_share": 0.03,
+   "households": 103500,
+   "share_hh_income_10k_plus": 0.53,
+   "share_hh_income_below_3k": 0.19,
+   "bus_stops": 276,
+   "stations": 6,
+   "subzones": 5,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3317,
+    "roads": 25780
+   }
+  },
+  {
+   "id": "tanglin",
+   "name": "Tanglin",
+   "code": "TN",
+   "region": "Central Region",
+   "centroid": [
+    103.81511,
+    1.30761
+   ],
+   "bbox": [
+    1.29193,
+    103.80228,
+    1.32329,
+    103.83534
+   ],
+   "area_km2": 7.55,
+   "population": 24630,
+   "share_65_plus": 0.163,
+   "share_under_15": 0.174,
+   "share_hdb": 0.017,
+   "share_condo": 0.801,
+   "share_landed": 0.173,
+   "commuters": 9500,
+   "pt_share": 0.453,
+   "car_share": 0.474,
+   "taxi_share": 0.084,
+   "households": 8300,
+   "share_hh_income_10k_plus": 0.675,
+   "share_hh_income_below_3k": 0.12,
+   "bus_stops": 49,
+   "stations": 3,
+   "subzones": 4,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3314,
+    "roads": 12299
+   }
+  },
+  {
+   "id": "tengah",
+   "name": "Tengah",
+   "code": "TH",
+   "region": "West Region",
+   "centroid": [
+    103.7252,
+    1.36211
+   ],
+   "bbox": [
+    1.346,
+    103.70625,
+    1.37893,
+    103.74849
+   ],
+   "area_km2": 7.37,
+   "population": 22960,
+   "share_65_plus": 0.074,
+   "share_under_15": 0.192,
+   "share_hdb": 0.993,
+   "share_condo": 0.007,
+   "share_landed": 0.0,
+   "commuters": 10900,
+   "pt_share": 0.587,
+   "car_share": 0.312,
+   "taxi_share": 0.037,
+   "households": 7300,
+   "share_hh_income_10k_plus": 0.479,
+   "share_hh_income_below_3k": 0.164,
+   "bus_stops": 38,
+   "stations": 0,
+   "subzones": 6,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 595,
+    "roads": 11669
+   }
+  },
+  {
+   "id": "toa_payoh",
+   "name": "Toa Payoh",
+   "code": "TP",
+   "region": "Central Region",
+   "centroid": [
+    103.86248,
+    1.33646
+   ],
+   "bbox": [
+    1.32782,
+    103.83599,
+    1.34508,
+    103.88887
+   ],
+   "area_km2": 8.18,
+   "population": 142220,
+   "share_65_plus": 0.223,
+   "share_under_15": 0.135,
+   "share_hdb": 0.811,
+   "share_condo": 0.139,
+   "share_landed": 0.037,
+   "commuters": 70200,
+   "pt_share": 0.709,
+   "car_share": 0.211,
+   "taxi_share": 0.033,
+   "households": 52800,
+   "share_hh_income_10k_plus": 0.477,
+   "share_hh_income_below_3k": 0.282,
+   "bus_stops": 144,
+   "stations": 7,
+   "subzones": 12,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3423,
+    "roads": 13047
+   }
+  },
+  {
+   "id": "tuas",
+   "name": "Tuas",
+   "code": "TS",
+   "region": "West Region",
+   "centroid": [
+    103.6342,
+    1.28174
+   ],
+   "bbox": [
+    1.21024,
+    103.6057,
+    1.3531,
+    103.66772
+   ],
+   "area_km2": 47.7,
+   "population": 80,
+   "share_65_plus": 0.0,
+   "share_under_15": 0.0,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.0,
+   "bus_stops": 181,
+   "stations": 4,
+   "subzones": 6,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2683,
+    "roads": 10937
+   }
+  },
+  {
+   "id": "western_islands",
+   "name": "Western Islands",
+   "code": "WI",
+   "region": "West Region",
+   "centroid": [
+    103.67022,
+    1.25999
+   ],
+   "bbox": [
+    1.1587,
+    103.65373,
+    1.29736,
+    103.80155
+   ],
+   "area_km2": 45.82,
+   "population": 10,
+   "share_65_plus": 0.0,
+   "share_under_15": 0.0,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.0,
+   "bus_stops": 0,
+   "stations": 0,
+   "subzones": 3,
+   "simulation": "osm_only",
+   "osm": {
+    "buildings": 1527,
+    "roads": 15580
+   }
+  },
+  {
+   "id": "western_water_catchment",
+   "name": "Western Water Catchment",
+   "code": "WC",
+   "region": "West Region",
+   "centroid": [
+    103.69556,
+    1.38081
+   ],
+   "bbox": [
+    1.32799,
+    103.63879,
+    1.43506,
+    103.74602
+   ],
+   "area_km2": 69.77,
+   "population": 580,
+   "share_65_plus": 0.052,
+   "share_under_15": 0.172,
+   "share_hdb": 0.0,
+   "share_condo": 0.0,
+   "share_landed": 0.0,
+   "bus_stops": 75,
+   "stations": 0,
+   "subzones": 3,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2266,
+    "roads": 34980
+   }
+  },
+  {
+   "id": "woodlands",
+   "name": "Woodlands",
+   "code": "WD",
+   "region": "North Region",
+   "centroid": [
+    103.78853,
+    1.44177
+   ],
+   "bbox": [
+    1.42151,
+    103.7644,
+    1.46204,
+    103.8117
+   ],
+   "area_km2": 13.62,
+   "population": 254440,
+   "share_65_plus": 0.14,
+   "share_under_15": 0.135,
+   "share_hdb": 0.923,
+   "share_condo": 0.068,
+   "share_landed": 0.004,
+   "commuters": 129200,
+   "pt_share": 0.695,
+   "car_share": 0.18,
+   "taxi_share": 0.016,
+   "households": 81900,
+   "share_hh_income_10k_plus": 0.471,
+   "share_hh_income_below_3k": 0.177,
+   "bus_stops": 214,
+   "stations": 5,
+   "subzones": 9,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 2309,
+    "roads": 10814
+   }
+  },
+  {
+   "id": "yishun",
+   "name": "Yishun",
+   "code": "YS",
+   "region": "North Region",
+   "centroid": [
+    103.8434,
+    1.41903
+   ],
+   "bbox": [
+    1.39291,
+    103.80578,
+    1.44562,
+    103.86742
+   ],
+   "area_km2": 21.02,
+   "population": 228730,
+   "share_65_plus": 0.174,
+   "share_under_15": 0.143,
+   "share_hdb": 0.88,
+   "share_condo": 0.092,
+   "share_landed": 0.024,
+   "commuters": 109200,
+   "pt_share": 0.701,
+   "car_share": 0.181,
+   "taxi_share": 0.025,
+   "households": 78100,
+   "share_hh_income_10k_plus": 0.42,
+   "share_hh_income_below_3k": 0.254,
+   "bus_stops": 179,
+   "stations": 3,
+   "subzones": 9,
+   "simulation": "ready",
+   "osm": {
+    "buildings": 3473,
+    "roads": 13011
+   }
+  }
+ ]
+}

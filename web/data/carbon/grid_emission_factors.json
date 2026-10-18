@@ -1,0 +1,41 @@
+{
+  "_note": "Singapore grid emission factor (average operating margin), kg CO2 per kWh. This is the location-based Scope 2 factor (GHG Protocol Scope 2 Guidance). Years 2005–2020 are EMA's published series on data.gov.sg; 2021–2024 come from EMA Singapore Energy Statistics as reported secondhand — check against SES Chapter 2 before relying on them.",
+  "unit": "kgCO2/kWh",
+  "method": "location_based",
+  "sources": {
+    "ema_datagov": {
+      "title": "Electricity Grid Emission Factors and Upstream Fugitive Methane Emission Factor (EMA)",
+      "url": "https://data.gov.sg/datasets/d_3de362b580b2dd2fd50cc1006d4edd4f/view",
+      "retrieved": "2026-10-16",
+      "confidence": "verified_primary"
+    },
+    "ema_ses": {
+      "title": "Singapore Energy Statistics, Chapter 2 (EMA) — values as reported secondhand",
+      "url": "https://www.ema.gov.sg/resources/singapore-energy-statistics/chapter2",
+      "retrieved": "2026-10-16",
+      "confidence": "secondary"
+    }
+  },
+  "factors": {
+    "2005": { "value": 0.5255, "source": "ema_datagov" },
+    "2006": { "value": 0.53, "source": "ema_datagov" },
+    "2007": { "value": 0.5046, "source": "ema_datagov" },
+    "2008": { "value": 0.4965, "source": "ema_datagov" },
+    "2009": { "value": 0.4973, "source": "ema_datagov" },
+    "2010": { "value": 0.5083, "source": "ema_datagov" },
+    "2011": { "value": 0.5085, "source": "ema_datagov" },
+    "2012": { "value": 0.4778, "source": "ema_datagov" },
+    "2013": { "value": 0.4388, "source": "ema_datagov" },
+    "2014": { "value": 0.4277, "source": "ema_datagov" },
+    "2015": { "value": 0.4224, "source": "ema_datagov" },
+    "2016": { "value": 0.4237, "source": "ema_datagov" },
+    "2017": { "value": 0.421, "source": "ema_datagov" },
+    "2018": { "value": 0.4206, "source": "ema_datagov" },
+    "2019": { "value": 0.4085, "source": "ema_datagov" },
+    "2020": { "value": 0.408, "source": "ema_datagov" },
+    "2021": { "value": 0.4057, "source": "ema_ses" },
+    "2022": { "value": 0.417, "source": "ema_ses" },
+    "2023": { "value": 0.412, "source": "ema_ses" },
+    "2024": { "value": 0.402, "source": "ema_ses" }
+  }
+}

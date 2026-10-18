@@ -1,0 +1,385 @@
+row_no,row,level,col,value,uom
+1,Total,1,Total,2177456.0,Number
+1,Total,1,Public Bus Only,325779.0,Number
+1,Total,1,Rail (MRT/LRT) Only,308717.0,Number
+1,Total,1,Rail (MRT/LRT) & Public Bus Only,574382.0,Number
+1,Total,1,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",48556.0,Number
+1,Total,1,Taxi/Private Hire Car Only,66681.0,Number
+1,Total,1,Car Only,459796.0,Number
+1,Total,1,Private Chartered Bus/Van Only,44883.0,Number
+1,Total,1,Lorry/Pickup Only,28894.0,Number
+1,Total,1,Motorcycle/Scooter Only,73487.0,Number
+1,Total,1,Others,33375.0,Number
+1,Total,1,No Transport Required,212907.0,Number
+1.1,Ang Mo Kio,2,Total,85489.0,Number
+1.1,Ang Mo Kio,2,Public Bus Only,14928.0,Number
+1.1,Ang Mo Kio,2,Rail (MRT/LRT) Only,10727.0,Number
+1.1,Ang Mo Kio,2,Rail (MRT/LRT) & Public Bus Only,24870.0,Number
+1.1,Ang Mo Kio,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1504.0,Number
+1.1,Ang Mo Kio,2,Taxi/Private Hire Car Only,2248.0,Number
+1.1,Ang Mo Kio,2,Car Only,16343.0,Number
+1.1,Ang Mo Kio,2,Private Chartered Bus/Van Only,1567.0,Number
+1.1,Ang Mo Kio,2,Lorry/Pickup Only,1454.0,Number
+1.1,Ang Mo Kio,2,Motorcycle/Scooter Only,2095.0,Number
+1.1,Ang Mo Kio,2,Others,932.0,Number
+1.1,Ang Mo Kio,2,No Transport Required,8822.0,Number
+1.2,Bedok,2,Total,143227.0,Number
+1.2,Bedok,2,Public Bus Only,25560.0,Number
+1.2,Bedok,2,Rail (MRT/LRT) Only,16435.0,Number
+1.2,Bedok,2,Rail (MRT/LRT) & Public Bus Only,32940.0,Number
+1.2,Bedok,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",3170.0,Number
+1.2,Bedok,2,Taxi/Private Hire Car Only,4880.0,Number
+1.2,Bedok,2,Car Only,34792.0,Number
+1.2,Bedok,2,Private Chartered Bus/Van Only,2096.0,Number
+1.2,Bedok,2,Lorry/Pickup Only,1611.0,Number
+1.2,Bedok,2,Motorcycle/Scooter Only,4152.0,Number
+1.2,Bedok,2,Others,2444.0,Number
+1.2,Bedok,2,No Transport Required,15146.0,Number
+1.3,Bishan,2,Total,46693.0,Number
+1.3,Bishan,2,Public Bus Only,5498.0,Number
+1.3,Bishan,2,Rail (MRT/LRT) Only,7756.0,Number
+1.3,Bishan,2,Rail (MRT/LRT) & Public Bus Only,12936.0,Number
+1.3,Bishan,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",827.0,Number
+1.3,Bishan,2,Taxi/Private Hire Car Only,1610.0,Number
+1.3,Bishan,2,Car Only,12651.0,Number
+1.3,Bishan,2,Private Chartered Bus/Van Only,475.0,Number
+1.3,Bishan,2,Lorry/Pickup Only,323.0,Number
+1.3,Bishan,2,Motorcycle/Scooter Only,620.0,Number
+1.3,Bishan,2,Others,313.0,Number
+1.3,Bishan,2,No Transport Required,3685.0,Number
+1.4,Bukit Batok,2,Total,89052.0,Number
+1.4,Bukit Batok,2,Public Bus Only,13706.0,Number
+1.4,Bukit Batok,2,Rail (MRT/LRT) Only,10726.0,Number
+1.4,Bukit Batok,2,Rail (MRT/LRT) & Public Bus Only,24943.0,Number
+1.4,Bukit Batok,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2376.0,Number
+1.4,Bukit Batok,2,Taxi/Private Hire Car Only,2160.0,Number
+1.4,Bukit Batok,2,Car Only,20004.0,Number
+1.4,Bukit Batok,2,Private Chartered Bus/Van Only,2307.0,Number
+1.4,Bukit Batok,2,Lorry/Pickup Only,1284.0,Number
+1.4,Bukit Batok,2,Motorcycle/Scooter Only,3224.0,Number
+1.4,Bukit Batok,2,Others,945.0,Number
+1.4,Bukit Batok,2,No Transport Required,7376.0,Number
+1.5,Bukit Merah,2,Total,77749.0,Number
+1.5,Bukit Merah,2,Public Bus Only,18461.0,Number
+1.5,Bukit Merah,2,Rail (MRT/LRT) Only,9809.0,Number
+1.5,Bukit Merah,2,Rail (MRT/LRT) & Public Bus Only,18941.0,Number
+1.5,Bukit Merah,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1446.0,Number
+1.5,Bukit Merah,2,Taxi/Private Hire Car Only,3223.0,Number
+1.5,Bukit Merah,2,Car Only,13312.0,Number
+1.5,Bukit Merah,2,Private Chartered Bus/Van Only,717.0,Number
+1.5,Bukit Merah,2,Lorry/Pickup Only,786.0,Number
+1.5,Bukit Merah,2,Motorcycle/Scooter Only,1553.0,Number
+1.5,Bukit Merah,2,Others,757.0,Number
+1.5,Bukit Merah,2,No Transport Required,8743.0,Number
+1.6,Bukit Panjang,2,Total,76315.0,Number
+1.6,Bukit Panjang,2,Public Bus Only,12968.0,Number
+1.6,Bukit Panjang,2,Rail (MRT/LRT) Only,9649.0,Number
+1.6,Bukit Panjang,2,Rail (MRT/LRT) & Public Bus Only,18823.0,Number
+1.6,Bukit Panjang,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1784.0,Number
+1.6,Bukit Panjang,2,Taxi/Private Hire Car Only,1755.0,Number
+1.6,Bukit Panjang,2,Car Only,17337.0,Number
+1.6,Bukit Panjang,2,Private Chartered Bus/Van Only,1818.0,Number
+1.6,Bukit Panjang,2,Lorry/Pickup Only,1563.0,Number
+1.6,Bukit Panjang,2,Motorcycle/Scooter Only,2855.0,Number
+1.6,Bukit Panjang,2,Others,830.0,Number
+1.6,Bukit Panjang,2,No Transport Required,6935.0,Number
+1.7,Bukit Timah,2,Total,36394.0,Number
+1.7,Bukit Timah,2,Public Bus Only,2639.0,Number
+1.7,Bukit Timah,2,Rail (MRT/LRT) Only,5035.0,Number
+1.7,Bukit Timah,2,Rail (MRT/LRT) & Public Bus Only,4939.0,Number
+1.7,Bukit Timah,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",512.0,Number
+1.7,Bukit Timah,2,Taxi/Private Hire Car Only,1524.0,Number
+1.7,Bukit Timah,2,Car Only,17909.0,Number
+1.7,Bukit Timah,2,Private Chartered Bus/Van Only,237.0,Number
+1.7,Bukit Timah,2,Lorry/Pickup Only,105.0,Number
+1.7,Bukit Timah,2,Motorcycle/Scooter Only,191.0,Number
+1.7,Bukit Timah,2,Others,221.0,Number
+1.7,Bukit Timah,2,No Transport Required,3082.0,Number
+1.8,Choa Chu Kang,2,Total,109435.0,Number
+1.8,Choa Chu Kang,2,Public Bus Only,8584.0,Number
+1.8,Choa Chu Kang,2,Rail (MRT/LRT) Only,15299.0,Number
+1.8,Choa Chu Kang,2,Rail (MRT/LRT) & Public Bus Only,36683.0,Number
+1.8,Choa Chu Kang,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",3170.0,Number
+1.8,Choa Chu Kang,2,Taxi/Private Hire Car Only,2429.0,Number
+1.8,Choa Chu Kang,2,Car Only,22300.0,Number
+1.8,Choa Chu Kang,2,Private Chartered Bus/Van Only,3382.0,Number
+1.8,Choa Chu Kang,2,Lorry/Pickup Only,1898.0,Number
+1.8,Choa Chu Kang,2,Motorcycle/Scooter Only,5163.0,Number
+1.8,Choa Chu Kang,2,Others,1368.0,Number
+1.8,Choa Chu Kang,2,No Transport Required,9159.0,Number
+1.9,Clementi,2,Total,46971.0,Number
+1.9,Clementi,2,Public Bus Only,8641.0,Number
+1.9,Clementi,2,Rail (MRT/LRT) Only,5251.0,Number
+1.9,Clementi,2,Rail (MRT/LRT) & Public Bus Only,12122.0,Number
+1.9,Clementi,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1166.0,Number
+1.9,Clementi,2,Taxi/Private Hire Car Only,1573.0,Number
+1.9,Clementi,2,Car Only,11355.0,Number
+1.9,Clementi,2,Private Chartered Bus/Van Only,774.0,Number
+1.9,Clementi,2,Lorry/Pickup Only,375.0,Number
+1.9,Clementi,2,Motorcycle/Scooter Only,1037.0,Number
+1.9,Clementi,2,Others,614.0,Number
+1.9,Clementi,2,No Transport Required,4064.0,Number
+1.10,Downtown Core,2,Total,1914.0,Number
+1.10,Downtown Core,2,Public Bus Only,206.0,Number
+1.10,Downtown Core,2,Rail (MRT/LRT) Only,323.0,Number
+1.10,Downtown Core,2,Rail (MRT/LRT) & Public Bus Only,176.0,Number
+1.10,Downtown Core,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",27.0,Number
+1.10,Downtown Core,2,Taxi/Private Hire Car Only,134.0,Number
+1.10,Downtown Core,2,Car Only,254.0,Number
+1.10,Downtown Core,2,Private Chartered Bus/Van Only,0.0,Number
+1.10,Downtown Core,2,Lorry/Pickup Only,0.0,Number
+1.10,Downtown Core,2,Motorcycle/Scooter Only,5.0,Number
+1.10,Downtown Core,2,Others,13.0,Number
+1.10,Downtown Core,2,No Transport Required,777.0,Number
+1.11,Geylang,2,Total,60342.0,Number
+1.11,Geylang,2,Public Bus Only,9896.0,Number
+1.11,Geylang,2,Rail (MRT/LRT) Only,11455.0,Number
+1.11,Geylang,2,Rail (MRT/LRT) & Public Bus Only,14559.0,Number
+1.11,Geylang,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1024.0,Number
+1.11,Geylang,2,Taxi/Private Hire Car Only,1673.0,Number
+1.11,Geylang,2,Car Only,10315.0,Number
+1.11,Geylang,2,Private Chartered Bus/Van Only,723.0,Number
+1.11,Geylang,2,Lorry/Pickup Only,759.0,Number
+1.11,Geylang,2,Motorcycle/Scooter Only,1630.0,Number
+1.11,Geylang,2,Others,1278.0,Number
+1.11,Geylang,2,No Transport Required,7031.0,Number
+1.12,Hougang,2,Total,125735.0,Number
+1.12,Hougang,2,Public Bus Only,22743.0,Number
+1.12,Hougang,2,Rail (MRT/LRT) Only,13045.0,Number
+1.12,Hougang,2,Rail (MRT/LRT) & Public Bus Only,35677.0,Number
+1.12,Hougang,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2267.0,Number
+1.12,Hougang,2,Taxi/Private Hire Car Only,3397.0,Number
+1.12,Hougang,2,Car Only,26845.0,Number
+1.12,Hougang,2,Private Chartered Bus/Van Only,2116.0,Number
+1.12,Hougang,2,Lorry/Pickup Only,2200.0,Number
+1.12,Hougang,2,Motorcycle/Scooter Only,3457.0,Number
+1.12,Hougang,2,Others,1763.0,Number
+1.12,Hougang,2,No Transport Required,12224.0,Number
+1.13,Jurong East,2,Total,41272.0,Number
+1.13,Jurong East,2,Public Bus Only,8472.0,Number
+1.13,Jurong East,2,Rail (MRT/LRT) Only,3718.0,Number
+1.13,Jurong East,2,Rail (MRT/LRT) & Public Bus Only,11450.0,Number
+1.13,Jurong East,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1016.0,Number
+1.13,Jurong East,2,Taxi/Private Hire Car Only,1350.0,Number
+1.13,Jurong East,2,Car Only,6494.0,Number
+1.13,Jurong East,2,Private Chartered Bus/Van Only,1709.0,Number
+1.13,Jurong East,2,Lorry/Pickup Only,708.0,Number
+1.13,Jurong East,2,Motorcycle/Scooter Only,1586.0,Number
+1.13,Jurong East,2,Others,763.0,Number
+1.13,Jurong East,2,No Transport Required,4006.0,Number
+1.14,Jurong West,2,Total,146395.0,Number
+1.14,Jurong West,2,Public Bus Only,22048.0,Number
+1.14,Jurong West,2,Rail (MRT/LRT) Only,15336.0,Number
+1.14,Jurong West,2,Rail (MRT/LRT) & Public Bus Only,41768.0,Number
+1.14,Jurong West,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",4794.0,Number
+1.14,Jurong West,2,Taxi/Private Hire Car Only,3380.0,Number
+1.14,Jurong West,2,Car Only,25615.0,Number
+1.14,Jurong West,2,Private Chartered Bus/Van Only,6448.0,Number
+1.14,Jurong West,2,Lorry/Pickup Only,3056.0,Number
+1.14,Jurong West,2,Motorcycle/Scooter Only,7140.0,Number
+1.14,Jurong West,2,Others,3139.0,Number
+1.14,Jurong West,2,No Transport Required,13670.0,Number
+1.15,Kallang,2,Total,54249.0,Number
+1.15,Kallang,2,Public Bus Only,8428.0,Number
+1.15,Kallang,2,Rail (MRT/LRT) Only,10972.0,Number
+1.15,Kallang,2,Rail (MRT/LRT) & Public Bus Only,12384.0,Number
+1.15,Kallang,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",961.0,Number
+1.15,Kallang,2,Taxi/Private Hire Car Only,2139.0,Number
+1.15,Kallang,2,Car Only,9496.0,Number
+1.15,Kallang,2,Private Chartered Bus/Van Only,580.0,Number
+1.15,Kallang,2,Lorry/Pickup Only,569.0,Number
+1.15,Kallang,2,Motorcycle/Scooter Only,1234.0,Number
+1.15,Kallang,2,Others,957.0,Number
+1.15,Kallang,2,No Transport Required,6529.0,Number
+1.16,Marine Parade,2,Total,21845.0,Number
+1.16,Marine Parade,2,Public Bus Only,5710.0,Number
+1.16,Marine Parade,2,Rail (MRT/LRT) Only,433.0,Number
+1.16,Marine Parade,2,Rail (MRT/LRT) & Public Bus Only,2981.0,Number
+1.16,Marine Parade,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",274.0,Number
+1.16,Marine Parade,2,Taxi/Private Hire Car Only,1391.0,Number
+1.16,Marine Parade,2,Car Only,8006.0,Number
+1.16,Marine Parade,2,Private Chartered Bus/Van Only,208.0,Number
+1.16,Marine Parade,2,Lorry/Pickup Only,79.0,Number
+1.16,Marine Parade,2,Motorcycle/Scooter Only,262.0,Number
+1.16,Marine Parade,2,Others,340.0,Number
+1.16,Marine Parade,2,No Transport Required,2161.0,Number
+1.17,Novena,2,Total,24850.0,Number
+1.17,Novena,2,Public Bus Only,4250.0,Number
+1.17,Novena,2,Rail (MRT/LRT) Only,2040.0,Number
+1.17,Novena,2,Rail (MRT/LRT) & Public Bus Only,5335.0,Number
+1.17,Novena,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",252.0,Number
+1.17,Novena,2,Taxi/Private Hire Car Only,1418.0,Number
+1.17,Novena,2,Car Only,7696.0,Number
+1.17,Novena,2,Private Chartered Bus/Van Only,243.0,Number
+1.17,Novena,2,Lorry/Pickup Only,138.0,Number
+1.17,Novena,2,Motorcycle/Scooter Only,504.0,Number
+1.17,Novena,2,Others,295.0,Number
+1.17,Novena,2,No Transport Required,2681.0,Number
+1.18,Outram,2,Total,9182.0,Number
+1.18,Outram,2,Public Bus Only,1527.0,Number
+1.18,Outram,2,Rail (MRT/LRT) Only,1878.0,Number
+1.18,Outram,2,Rail (MRT/LRT) & Public Bus Only,1722.0,Number
+1.18,Outram,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",146.0,Number
+1.18,Outram,2,Taxi/Private Hire Car Only,257.0,Number
+1.18,Outram,2,Car Only,1005.0,Number
+1.18,Outram,2,Private Chartered Bus/Van Only,71.0,Number
+1.18,Outram,2,Lorry/Pickup Only,50.0,Number
+1.18,Outram,2,Motorcycle/Scooter Only,110.0,Number
+1.18,Outram,2,Others,91.0,Number
+1.18,Outram,2,No Transport Required,2326.0,Number
+1.19,Pasir Ris,2,Total,83362.0,Number
+1.19,Pasir Ris,2,Public Bus Only,12420.0,Number
+1.19,Pasir Ris,2,Rail (MRT/LRT) Only,8069.0,Number
+1.19,Pasir Ris,2,Rail (MRT/LRT) & Public Bus Only,24037.0,Number
+1.19,Pasir Ris,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1636.0,Number
+1.19,Pasir Ris,2,Taxi/Private Hire Car Only,3308.0,Number
+1.19,Pasir Ris,2,Car Only,20933.0,Number
+1.19,Pasir Ris,2,Private Chartered Bus/Van Only,1235.0,Number
+1.19,Pasir Ris,2,Lorry/Pickup Only,644.0,Number
+1.19,Pasir Ris,2,Motorcycle/Scooter Only,3442.0,Number
+1.19,Pasir Ris,2,Others,1171.0,Number
+1.19,Pasir Ris,2,No Transport Required,6466.0,Number
+1.20,Punggol,2,Total,94531.0,Number
+1.20,Punggol,2,Public Bus Only,8975.0,Number
+1.20,Punggol,2,Rail (MRT/LRT) Only,20216.0,Number
+1.20,Punggol,2,Rail (MRT/LRT) & Public Bus Only,23070.0,Number
+1.20,Punggol,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2140.0,Number
+1.20,Punggol,2,Taxi/Private Hire Car Only,2597.0,Number
+1.20,Punggol,2,Car Only,21884.0,Number
+1.20,Punggol,2,Private Chartered Bus/Van Only,1676.0,Number
+1.20,Punggol,2,Lorry/Pickup Only,999.0,Number
+1.20,Punggol,2,Motorcycle/Scooter Only,3619.0,Number
+1.20,Punggol,2,Others,1529.0,Number
+1.20,Punggol,2,No Transport Required,7826.0,Number
+1.21,Queenstown,2,Total,47625.0,Number
+1.21,Queenstown,2,Public Bus Only,8856.0,Number
+1.21,Queenstown,2,Rail (MRT/LRT) Only,8578.0,Number
+1.21,Queenstown,2,Rail (MRT/LRT) & Public Bus Only,11050.0,Number
+1.21,Queenstown,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",880.0,Number
+1.21,Queenstown,2,Taxi/Private Hire Car Only,1795.0,Number
+1.21,Queenstown,2,Car Only,9251.0,Number
+1.21,Queenstown,2,Private Chartered Bus/Van Only,606.0,Number
+1.21,Queenstown,2,Lorry/Pickup Only,353.0,Number
+1.21,Queenstown,2,Motorcycle/Scooter Only,841.0,Number
+1.21,Queenstown,2,Others,400.0,Number
+1.21,Queenstown,2,No Transport Required,5015.0,Number
+1.22,River Valley,2,Total,5245.0,Number
+1.22,River Valley,2,Public Bus Only,490.0,Number
+1.22,River Valley,2,Rail (MRT/LRT) Only,692.0,Number
+1.22,River Valley,2,Rail (MRT/LRT) & Public Bus Only,620.0,Number
+1.22,River Valley,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",84.0,Number
+1.22,River Valley,2,Taxi/Private Hire Car Only,663.0,Number
+1.22,River Valley,2,Car Only,1854.0,Number
+1.22,River Valley,2,Private Chartered Bus/Van Only,31.0,Number
+1.22,River Valley,2,Lorry/Pickup Only,0.0,Number
+1.22,River Valley,2,Motorcycle/Scooter Only,16.0,Number
+1.22,River Valley,2,Others,53.0,Number
+1.22,River Valley,2,No Transport Required,742.0,Number
+1.23,Sembawang,2,Total,58654.0,Number
+1.23,Sembawang,2,Public Bus Only,5648.0,Number
+1.23,Sembawang,2,Rail (MRT/LRT) Only,13058.0,Number
+1.23,Sembawang,2,Rail (MRT/LRT) & Public Bus Only,16859.0,Number
+1.23,Sembawang,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1378.0,Number
+1.23,Sembawang,2,Taxi/Private Hire Car Only,1105.0,Number
+1.23,Sembawang,2,Car Only,9981.0,Number
+1.23,Sembawang,2,Private Chartered Bus/Van Only,1244.0,Number
+1.23,Sembawang,2,Lorry/Pickup Only,891.0,Number
+1.23,Sembawang,2,Motorcycle/Scooter Only,2286.0,Number
+1.23,Sembawang,2,Others,1280.0,Number
+1.23,Sembawang,2,No Transport Required,4925.0,Number
+1.24,Sengkang,2,Total,139407.0,Number
+1.24,Sengkang,2,Public Bus Only,18315.0,Number
+1.24,Sengkang,2,Rail (MRT/LRT) Only,27632.0,Number
+1.24,Sengkang,2,Rail (MRT/LRT) & Public Bus Only,34057.0,Number
+1.24,Sengkang,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",3143.0,Number
+1.24,Sengkang,2,Taxi/Private Hire Car Only,3829.0,Number
+1.24,Sengkang,2,Car Only,28363.0,Number
+1.24,Sengkang,2,Private Chartered Bus/Van Only,2498.0,Number
+1.24,Sengkang,2,Lorry/Pickup Only,1615.0,Number
+1.24,Sengkang,2,Motorcycle/Scooter Only,4711.0,Number
+1.24,Sengkang,2,Others,2088.0,Number
+1.24,Sengkang,2,No Transport Required,13155.0,Number
+1.25,Serangoon,2,Total,62567.0,Number
+1.25,Serangoon,2,Public Bus Only,7671.0,Number
+1.25,Serangoon,2,Rail (MRT/LRT) Only,9118.0,Number
+1.25,Serangoon,2,Rail (MRT/LRT) & Public Bus Only,15791.0,Number
+1.25,Serangoon,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1046.0,Number
+1.25,Serangoon,2,Taxi/Private Hire Car Only,1984.0,Number
+1.25,Serangoon,2,Car Only,18497.0,Number
+1.25,Serangoon,2,Private Chartered Bus/Van Only,784.0,Number
+1.25,Serangoon,2,Lorry/Pickup Only,696.0,Number
+1.25,Serangoon,2,Motorcycle/Scooter Only,895.0,Number
+1.25,Serangoon,2,Others,393.0,Number
+1.25,Serangoon,2,No Transport Required,5690.0,Number
+1.26,Tampines,2,Total,142881.0,Number
+1.26,Tampines,2,Public Bus Only,25058.0,Number
+1.26,Tampines,2,Rail (MRT/LRT) Only,20879.0,Number
+1.26,Tampines,2,Rail (MRT/LRT) & Public Bus Only,34803.0,Number
+1.26,Tampines,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",3460.0,Number
+1.26,Tampines,2,Taxi/Private Hire Car Only,4573.0,Number
+1.26,Tampines,2,Car Only,26251.0,Number
+1.26,Tampines,2,Private Chartered Bus/Van Only,2972.0,Number
+1.26,Tampines,2,Lorry/Pickup Only,1351.0,Number
+1.26,Tampines,2,Motorcycle/Scooter Only,6762.0,Number
+1.26,Tampines,2,Others,2835.0,Number
+1.26,Tampines,2,No Transport Required,13937.0,Number
+1.27,Tanglin,2,Total,10062.0,Number
+1.27,Tanglin,2,Public Bus Only,930.0,Number
+1.27,Tanglin,2,Rail (MRT/LRT) Only,841.0,Number
+1.27,Tanglin,2,Rail (MRT/LRT) & Public Bus Only,1077.0,Number
+1.27,Tanglin,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",59.0,Number
+1.27,Tanglin,2,Taxi/Private Hire Car Only,1001.0,Number
+1.27,Tanglin,2,Car Only,5065.0,Number
+1.27,Tanglin,2,Private Chartered Bus/Van Only,47.0,Number
+1.27,Tanglin,2,Lorry/Pickup Only,3.0,Number
+1.27,Tanglin,2,Motorcycle/Scooter Only,55.0,Number
+1.27,Tanglin,2,Others,88.0,Number
+1.27,Tanglin,2,No Transport Required,897.0,Number
+1.28,Toa Payoh,2,Total,62767.0,Number
+1.28,Toa Payoh,2,Public Bus Only,9540.0,Number
+1.28,Toa Payoh,2,Rail (MRT/LRT) Only,12105.0,Number
+1.28,Toa Payoh,2,Rail (MRT/LRT) & Public Bus Only,16901.0,Number
+1.28,Toa Payoh,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",1032.0,Number
+1.28,Toa Payoh,2,Taxi/Private Hire Car Only,2217.0,Number
+1.28,Toa Payoh,2,Car Only,11207.0,Number
+1.28,Toa Payoh,2,Private Chartered Bus/Van Only,843.0,Number
+1.28,Toa Payoh,2,Lorry/Pickup Only,577.0,Number
+1.28,Toa Payoh,2,Motorcycle/Scooter Only,1163.0,Number
+1.28,Toa Payoh,2,Others,686.0,Number
+1.28,Toa Payoh,2,No Transport Required,6496.0,Number
+1.29,Woodlands,2,Total,136267.0,Number
+1.29,Woodlands,2,Public Bus Only,15314.0,Number
+1.29,Woodlands,2,Rail (MRT/LRT) Only,18231.0,Number
+1.29,Woodlands,2,Rail (MRT/LRT) & Public Bus Only,43994.0,Number
+1.29,Woodlands,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",3863.0,Number
+1.29,Woodlands,2,Taxi/Private Hire Car Only,3171.0,Number
+1.29,Woodlands,2,Car Only,20453.0,Number
+1.29,Woodlands,2,Private Chartered Bus/Van Only,4260.0,Number
+1.29,Woodlands,2,Lorry/Pickup Only,2460.0,Number
+1.29,Woodlands,2,Motorcycle/Scooter Only,8076.0,Number
+1.29,Woodlands,2,Others,2741.0,Number
+1.29,Woodlands,2,No Transport Required,13705.0,Number
+1.30,Yishun,2,Total,120588.0,Number
+1.30,Yishun,2,Public Bus Only,16601.0,Number
+1.30,Yishun,2,Rail (MRT/LRT) Only,16938.0,Number
+1.30,Yishun,2,Rail (MRT/LRT) & Public Bus Only,36301.0,Number
+1.30,Yishun,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",2906.0,Number
+1.30,Yishun,2,Taxi/Private Hire Car Only,2756.0,Number
+1.30,Yishun,2,Car Only,19404.0,Number
+1.30,Yishun,2,Private Chartered Bus/Van Only,3059.0,Number
+1.30,Yishun,2,Lorry/Pickup Only,2192.0,Number
+1.30,Yishun,2,Motorcycle/Scooter Only,4610.0,Number
+1.30,Yishun,2,Others,2750.0,Number
+1.30,Yishun,2,No Transport Required,13071.0,Number
+1.31,Others,2,Total,16392.0,Number
+1.31,Others,2,Public Bus Only,1697.0,Number
+1.31,Others,2,Rail (MRT/LRT) Only,2472.0,Number
+1.31,Others,2,Rail (MRT/LRT) & Public Bus Only,2575.0,Number
+1.31,Others,2,"Combination of Rail (MRT/LRT) and/or Public Bus, with Other Modes",214.0,Number
+1.31,Others,2,Taxi/Private Hire Car Only,1143.0,Number
+1.31,Others,2,Car Only,4922.0,Number
+1.31,Others,2,Private Chartered Bus/Van Only,158.0,Number
+1.31,Others,2,Lorry/Pickup Only,153.0,Number
+1.31,Others,2,Motorcycle/Scooter Only,195.0,Number
+1.31,Others,2,Others,297.0,Number
+1.31,Others,2,No Transport Required,2565.0,Number

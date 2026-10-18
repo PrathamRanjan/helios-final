@@ -1,0 +1,197 @@
+{
+  "_note": "Compliance profiles for the 8 Helios Jurong East buildings. EUI and GFA are MEASURED, from BCA's Building Energy Performance Data 2020 listing (published per building; 2020 is the latest year published, and COVID-affected, so 2019 is kept alongside). Certificates are from BCA's Green Mark Buildings dataset (data.gov.sg, latest certificate per building). Rooftop solar potential is from the Helios world baseline (Google Solar API). Cooling system: BCA lists JEM/Westgate as 'Others', so in-house cooling is ASSUMED (no district cooling network serves Jurong Gateway).",
+  "sources": {
+    "eui": "bca_building_energy_2020",
+    "certificates": "bca_green_mark_buildings",
+    "solar": "Helios world baseline — Google Solar API (measured potential)"
+  },
+  "buildings": [
+    {
+      "id": "jem",
+      "name": "JEM",
+      "building_type": "retail_mall",
+      "cooling_system": "in_house",
+      "gfa_m2": 108169,
+      "eui": {
+        "2019": 328.78,
+        "2020": 312.17
+      },
+      "provenance": {
+        "eui_kwh_m2_yr": "measured",
+        "gfa_m2": "measured",
+        "cooling_system": "assumed"
+      },
+      "certificate": {
+        "rating": "Platinum",
+        "scheme": "Existing Non-Residential Buildings (RECERT 2017)",
+        "issued": "2022-04-21",
+        "expires": "2027-04-21"
+      },
+      "rooftop_solar": {
+        "kwp": 1052.8,
+        "annual_kwh": 1477588
+      }
+    },
+    {
+      "id": "westgate",
+      "name": "Westgate",
+      "building_type": "mixed",
+      "cooling_system": "in_house",
+      "gfa_m2": 94046,
+      "eui": {
+        "2019": 337.82,
+        "2020": 289.33
+      },
+      "provenance": {
+        "eui_kwh_m2_yr": "measured",
+        "gfa_m2": "measured",
+        "cooling_system": "assumed"
+      },
+      "certificate": {
+        "rating": "Platinum",
+        "scheme": "Westgate Tower — Existing Non-Residential Re-Cert (GM:2021 In Operation)",
+        "issued": "2025-04-01",
+        "expires": "2028-04-01"
+      },
+      "note": "BCA lists it as a Mixed Development (mall + office tower). GM2021 rates mixed developments by GFA mix, so the whole-building EUI can't be checked against one benchmark.",
+      "rooftop_solar": {
+        "kwp": 1154.0,
+        "annual_kwh": 1633342
+      }
+    },
+    {
+      "id": "imm",
+      "name": "IMM Building",
+      "building_type": "mixed",
+      "cooling_system": "in_house",
+      "gfa_m2": 132527,
+      "eui": {},
+      "provenance": {
+        "gfa_m2": "measured"
+      },
+      "certificate": {
+        "rating": "GoldPLUS",
+        "scheme": "Existing Non-Residential Buildings (RECERT 2017)",
+        "issued": "2022-11-15",
+        "expires": "2027-11-15"
+      },
+      "note": "Outlet mall + warehouse/office. Not in BCA's published EUI listing.",
+      "rooftop_solar": {
+        "kwp": 4391.6,
+        "annual_kwh": 6690554
+      }
+    },
+    {
+      "id": "ntfgh",
+      "name": "Ng Teng Fong General Hospital",
+      "building_type": "hospital",
+      "cooling_system": "in_house",
+      "gfa_m2": 182356,
+      "eui": {},
+      "provenance": {
+        "gfa_m2": "measured",
+        "cooling_system": "assumed"
+      },
+      "certificate": {
+        "rating": "Platinum",
+        "scheme": "Existing Non-Residential Buildings (RECERT 2017)",
+        "issued": "2020-09-14",
+        "expires": "2023-09-14"
+      },
+      "note": "Hospitals are not in BCA's published EUI listing.",
+      "rooftop_solar": {
+        "kwp": 431.6,
+        "annual_kwh": 602185
+      }
+    },
+    {
+      "id": "genting",
+      "name": "Genting Hotel Jurong",
+      "building_type": "hotel_large",
+      "cooling_system": "in_house",
+      "gfa_m2": 19147,
+      "eui": {
+        "2019": 239.26,
+        "2020": 202.58
+      },
+      "provenance": {
+        "eui_kwh_m2_yr": "measured",
+        "gfa_m2": "measured",
+        "cooling_system": "measured"
+      },
+      "certificate": {
+        "rating": "Platinum",
+        "scheme": "Existing Non-Residential Buildings (RECERT 2017)",
+        "issued": "2020-03-05",
+        "expires": "2026-06-30"
+      },
+      "note": "BCA lists a water-cooled chilled-water plant. 2020 occupancy was COVID-depressed; 2019 is the pre-COVID reference.",
+      "rooftop_solar": {
+        "kwp": 1127.2,
+        "annual_kwh": 1674966
+      }
+    },
+    {
+      "id": "jrl",
+      "name": "Jurong Regional Library",
+      "building_type": "civic",
+      "cooling_system": "in_house",
+      "eui": {},
+      "provenance": {
+        "cooling_system": "assumed",
+        "building_type": "assumed"
+      },
+      "certificate": null,
+      "note": "No Green Mark certificate or EUI in the public listings.",
+      "rooftop_solar": {
+        "kwp": 129.2,
+        "annual_kwh": 198630
+      }
+    },
+    {
+      "id": "devan_nair",
+      "name": "Devan Nair Institute",
+      "building_type": "civic",
+      "cooling_system": "in_house",
+      "gfa_m2": 30000,
+      "eui": {},
+      "provenance": {
+        "gfa_m2": "measured",
+        "building_type": "assumed",
+        "cooling_system": "assumed"
+      },
+      "certificate": {
+        "rating": "Platinum",
+        "scheme": "Existing Non-Residential Buildings (RECERT 2017)",
+        "issued": "2022-11-14",
+        "expires": "2025-11-14"
+      },
+      "rooftop_solar": {
+        "kwp": 665.6,
+        "annual_kwh": 986074
+      }
+    },
+    {
+      "id": "jden",
+      "name": "J'den (ex-JCube)",
+      "building_type": "residential",
+      "cooling_system": "in_house",
+      "gfa_m2": 33846,
+      "eui": {},
+      "provenance": {
+        "gfa_m2": "measured"
+      },
+      "certificate": {
+        "rating": "Platinum",
+        "scheme": "New Residential Buildings (GM:2021)",
+        "issued": "2024-05-28",
+        "expires": "2030-06-20"
+      },
+      "note": "Redeveloped from JCube mall into residential. Residential buildings use Pathway 2 (fixed metrics), not EUI.",
+      "rooftop_solar": {
+        "kwp": 648.8,
+        "annual_kwh": 984923
+      }
+    }
+  ]
+}

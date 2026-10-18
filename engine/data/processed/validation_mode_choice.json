@@ -1,0 +1,88 @@
+{
+  "generated": "2026-10-14T00:55:28",
+  "model": "nested logit (PT nest \u03bb=0.6, active nest \u03bb=0.75) with planning-area constants",
+  "temporal_holdout_2020_to_2025": {
+    "calibrated_persistence": {
+      "n_areas": 28,
+      "weighted_mae_pp": 2.0218815922963076,
+      "by_mode_mae_pp": {
+        "car": 2.0469543328796016,
+        "bus": 2.8371053281568264,
+        "mrt": 4.842436517140366,
+        "walk": 0.2442767365780602,
+        "cycle": 0.13863504672668464
+      },
+      "car_rank_corr": 0.9140667761357416,
+      "mrt_rank_corr": 0.922824302134647,
+      "bus_rank_corr": 0.8352490421455938
+    },
+    "calibrated_persistence_plus_national_trend": {
+      "n_areas": 28,
+      "weighted_mae_pp": 1.0499949889223803,
+      "by_mode_mae_pp": {
+        "car": 1.6084611640626238,
+        "bus": 1.381344537775381,
+        "mrt": 2.0008776857071293,
+        "walk": 0.1521531746581325,
+        "cycle": 0.10713838240863562
+      },
+      "car_rank_corr": 0.9195402298850575,
+      "mrt_rank_corr": 0.9310344827586207,
+      "bus_rank_corr": 0.8368910782703886
+    },
+    "baseline_national_share": {
+      "n_areas": 29,
+      "weighted_mae_pp": 2.220568111820709,
+      "by_mode_mae_pp": {
+        "car": 3.627182650802637,
+        "bus": 2.6826386101900983,
+        "mrt": 4.444798048166658,
+        "walk": 0.22578708511051382,
+        "cycle": 0.12243416483363556
+      },
+      "car_rank_corr": null,
+      "mrt_rank_corr": null,
+      "bus_rank_corr": null
+    }
+  },
+  "spatial_5fold_from_covariates": {
+    "calibrated": {
+      "n_areas": 29,
+      "weighted_mae_pp": 1.5202572898106648,
+      "by_mode_mae_pp": {
+        "car": 1.9943491936240547,
+        "bus": 2.2773702518895425,
+        "mrt": 2.9470130064293776,
+        "walk": 0.24884638138516646,
+        "cycle": 0.13370761572518278
+      },
+      "car_rank_corr": 0.8477832512315269,
+      "mrt_rank_corr": 0.5935960591133004,
+      "bus_rank_corr": 0.34827586206896544
+    },
+    "baseline_national_share": {
+      "n_areas": 29,
+      "weighted_mae_pp": 2.220568111820709,
+      "by_mode_mae_pp": {
+        "car": 3.627182650802637,
+        "bus": 2.6826386101900983,
+        "mrt": 4.444798048166658,
+        "walk": 0.22578708511051382,
+        "cycle": 0.12243416483363556
+      },
+      "car_rank_corr": null,
+      "mrt_rank_corr": null,
+      "bus_rank_corr": null
+    },
+    "covariates": [
+      "ln_income",
+      "hdb_share",
+      "condo_share",
+      "landed_share",
+      "senior_share",
+      "commute_min",
+      "rail_access"
+    ]
+  },
+  "in_sample_reproduction_max_error": 5.088984789125561e-13
+}

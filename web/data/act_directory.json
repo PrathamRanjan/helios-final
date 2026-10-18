@@ -1,0 +1,93 @@
+{
+  "_note": "Frozen 'act on this' directory: real SG grants, an illustrative directory of real SG providers (circular credentials indicative), SDG mappings, and procurement-readiness templates. Turns a funded decision into next-step actions. Labels per COMPASS_DATA_LEDGER; grant figures are official, supplier credentials are indicative.",
+  "grants": {
+    "ev_charging": {
+      "name": "EV Common Charger Grant (ECCG)",
+      "co_fund_pct": 0.5,
+      "cap_usd_per_port": 3000,
+      "label": "measured",
+      "source": "LTA ECCG: 50% co-fund, cap S$4,000/charger (first 2,000), until 31 Dec 2026 — S$→USD 1.35"
+    },
+    "solar": {
+      "name": "SolarNova public-sector programme",
+      "co_fund_pct": 0,
+      "label": "measured",
+      "source": "EDB/HDB SolarNova: aggregated public-sector solar procurement (drives down $/kWp rather than a direct rebate)"
+    },
+    "cycling": {
+      "name": "Islandwide Cycling Network (LTA co-funded)",
+      "co_fund_pct": 0,
+      "label": "measured",
+      "source": "LTA ICN: S$1B national programme co-funding town cycling paths to 1,320 km by 2030"
+    },
+    "walkway": {
+      "name": "Walk2Ride / covered linkway programme",
+      "co_fund_pct": 0,
+      "label": "measured",
+      "source": "LTA Walk2Ride: national sheltered-walkway programme (S$300M / 200 km)"
+    },
+    "greenery": {
+      "name": "Skyrise Greenery Incentive Scheme (SGIS)",
+      "co_fund_pct": 0.5,
+      "label": "measured",
+      "source": "NParks SGIS: reimburses 50% of installation, cap S$200/m² rooftop (S$500/m² vertical); active first-come-first-served [VERIFIED 2024]"
+    },
+    "battery": {
+      "name": "Energy Efficiency Grant (EEG) / GMIS-EB carbon grant",
+      "co_fund_pct": 0.5,
+      "label": "measured",
+      "source": "NEA EEG (up to 70% SME / 30% large, cap S$30k) + BCA GMIS-EB pays S$25-45/tCO₂ reduced — carbon-linked support [VERIFIED 2022-26]"
+    }
+  },
+  "suppliers": {
+    "ev_charging": [
+      { "name": "SP Mobility", "type": "Public charging network operator", "circular": ["managed maintenance / uptime SLA"] },
+      { "name": "Charge+", "type": "Charger deployment + operation", "circular": ["modular hardware"] },
+      { "name": "Shell Recharge", "type": "Charging operator", "circular": [] }
+    ],
+    "battery": [
+      { "name": "Durapower", "type": "SG battery systems", "circular": ["second-life cell programmes"] },
+      { "name": "VFlowTech", "type": "Long-duration flow storage", "circular": ["non-degrading, recyclable vanadium electrolyte"] }
+    ],
+    "solar": [
+      { "name": "Sembcorp Solar", "type": "Rooftop PV EPC", "circular": ["end-of-life panel take-back"] },
+      { "name": "EDPR Sunseap", "type": "Solar developer/EPC", "circular": ["recycled-content modules"] }
+    ],
+    "cycling": [
+      { "name": "ISOTeam", "type": "Civil / active-mobility works", "circular": ["low-carbon asphalt options"] },
+      { "name": "Or Kim Peow Contractors", "type": "Roadworks / path construction", "circular": [] }
+    ],
+    "walkway": [
+      { "name": "Woh Hup", "type": "Structural / canopy works", "circular": ["modular steel, reusable"] },
+      { "name": "ISOTeam", "type": "Linkway construction", "circular": ["recycled steel content"] }
+    ],
+    "greenery": [
+      { "name": "NParks-registered landscapers", "type": "Tree planting / green corridors", "circular": ["native species, soil regeneration"] }
+    ]
+  },
+  "sdg": {
+    "ev_charging": [7, 11, 13],
+    "solar": [7, 13, 9],
+    "cycling": [11, 3, 13],
+    "walkway": [11, 3, 13],
+    "greenery": [11, 13, 15],
+    "battery": [7, 9, 12]
+  },
+  "sdg_labels": {
+    "3": "Good Health & Well-being",
+    "7": "Affordable & Clean Energy",
+    "9": "Industry, Innovation & Infrastructure",
+    "11": "Sustainable Cities & Communities",
+    "12": "Responsible Consumption & Production",
+    "13": "Climate Action",
+    "15": "Life on Land"
+  },
+  "procurement": {
+    "ev_charging": { "land": "carpark / kerbside lot — confirm ownership", "grid": "grid headroom check (not modelled)", "permit": "LTA + power utility connection" },
+    "solar": { "land": "existing rooftop — retrofit, no land", "grid": "SP export approval", "permit": "BCA + SCDF rooftop works" },
+    "cycling": { "land": "existing road/verge — reallocation", "grid": "n/a", "permit": "LTA active-mobility works" },
+    "walkway": { "land": "existing footpath — retrofit, no land", "grid": "n/a", "permit": "LTA + URA works clearance" },
+    "greenery": { "land": "verge / setback — confirm", "grid": "n/a", "permit": "NParks planting approval" },
+    "battery": { "land": "co-located with hub", "grid": "grid connection", "permit": "SCDF energy-storage safety" }
+  }
+}

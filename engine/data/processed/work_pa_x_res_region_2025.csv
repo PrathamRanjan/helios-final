@@ -1,0 +1,1441 @@
+row_no,row,level,col,value,uom
+1,Total,1,Total|Total,2356000.0,Number
+1,Total,1,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1416600.0,Number
+1,Total,1,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,558000.0,Number
+1,Total,1,Total|Mode of Transport|Other Modes,152200.0,Number
+1,Total,1,Total|Mode of Transport|No Transport Required,229200.0,Number
+1,Total,1,Central Region|Total,508800.0,Number
+1,Total,1,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,301400.0,Number
+1,Total,1,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,132100.0,Number
+1,Total,1,Central Region|Mode of Transport|Other Modes,17400.0,Number
+1,Total,1,Central Region|Mode of Transport|No Transport Required,57900.0,Number
+1,Total,1,East Region|Total,396800.0,Number
+1,Total,1,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,230900.0,Number
+1,Total,1,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100700.0,Number
+1,Total,1,East Region|Mode of Transport|Other Modes,27700.0,Number
+1,Total,1,East Region|Mode of Transport|No Transport Required,37400.0,Number
+1,Total,1,North Region|Total,335100.0,Number
+1,Total,1,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,210100.0,Number
+1,Total,1,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,62200.0,Number
+1,Total,1,North Region|Mode of Transport|Other Modes,28500.0,Number
+1,Total,1,North Region|Mode of Transport|No Transport Required,34300.0,Number
+1,Total,1,North-East Region|Total,562500.0,Number
+1,Total,1,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,340200.0,Number
+1,Total,1,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,136700.0,Number
+1,Total,1,North-East Region|Mode of Transport|Other Modes,31000.0,Number
+1,Total,1,North-East Region|Mode of Transport|No Transport Required,54600.0,Number
+1,Total,1,West Region|Total,552800.0,Number
+1,Total,1,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,333900.0,Number
+1,Total,1,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,126400.0,Number
+1,Total,1,West Region|Mode of Transport|Other Modes,47600.0,Number
+1,Total,1,West Region|Mode of Transport|No Transport Required,45000.0,Number
+1.1,Ang Mo Kio,2,Total|Total,49800.0,Number
+1.1,Ang Mo Kio,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,29400.0,Number
+1.1,Ang Mo Kio,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,14400.0,Number
+1.1,Ang Mo Kio,2,Total|Mode of Transport|Other Modes,3500.0,Number
+1.1,Ang Mo Kio,2,Total|Mode of Transport|No Transport Required,2400.0,Number
+1.1,Ang Mo Kio,2,Central Region|Total,7700.0,Number
+1.1,Ang Mo Kio,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4700.0,Number
+1.1,Ang Mo Kio,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2500.0,Number
+1.1,Ang Mo Kio,2,Central Region|Mode of Transport|Other Modes,400.0,Number
+1.1,Ang Mo Kio,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.1,Ang Mo Kio,2,East Region|Total,5200.0,Number
+1.1,Ang Mo Kio,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3200.0,Number
+1.1,Ang Mo Kio,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1700.0,Number
+1.1,Ang Mo Kio,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.1,Ang Mo Kio,2,East Region|Mode of Transport|No Transport Required,100.0,Number
+1.1,Ang Mo Kio,2,North Region|Total,11300.0,Number
+1.1,Ang Mo Kio,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7700.0,Number
+1.1,Ang Mo Kio,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2800.0,Number
+1.1,Ang Mo Kio,2,North Region|Mode of Transport|Other Modes,500.0,Number
+1.1,Ang Mo Kio,2,North Region|Mode of Transport|No Transport Required,200.0,Number
+1.1,Ang Mo Kio,2,North-East Region|Total,18800.0,Number
+1.1,Ang Mo Kio,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,9800.0,Number
+1.1,Ang Mo Kio,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5400.0,Number
+1.1,Ang Mo Kio,2,North-East Region|Mode of Transport|Other Modes,1400.0,Number
+1.1,Ang Mo Kio,2,North-East Region|Mode of Transport|No Transport Required,2100.0,Number
+1.1,Ang Mo Kio,2,West Region|Total,6800.0,Number
+1.1,Ang Mo Kio,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4000.0,Number
+1.1,Ang Mo Kio,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1900.0,Number
+1.1,Ang Mo Kio,2,West Region|Mode of Transport|Other Modes,900.0,Number
+1.1,Ang Mo Kio,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.2,Bedok,2,Total|Total,61100.0,Number
+1.2,Bedok,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,35500.0,Number
+1.2,Bedok,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,15900.0,Number
+1.2,Bedok,2,Total|Mode of Transport|Other Modes,6000.0,Number
+1.2,Bedok,2,Total|Mode of Transport|No Transport Required,3700.0,Number
+1.2,Bedok,2,Central Region|Total,10100.0,Number
+1.2,Bedok,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7000.0,Number
+1.2,Bedok,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2100.0,Number
+1.2,Bedok,2,Central Region|Mode of Transport|Other Modes,600.0,Number
+1.2,Bedok,2,Central Region|Mode of Transport|No Transport Required,300.0,Number
+1.2,Bedok,2,East Region|Total,27200.0,Number
+1.2,Bedok,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,14500.0,Number
+1.2,Bedok,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,6400.0,Number
+1.2,Bedok,2,East Region|Mode of Transport|Other Modes,2900.0,Number
+1.2,Bedok,2,East Region|Mode of Transport|No Transport Required,3300.0,Number
+1.2,Bedok,2,North Region|Total,5600.0,Number
+1.2,Bedok,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3200.0,Number
+1.2,Bedok,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1800.0,Number
+1.2,Bedok,2,North Region|Mode of Transport|Other Modes,600.0,Number
+1.2,Bedok,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.2,Bedok,2,North-East Region|Total,12600.0,Number
+1.2,Bedok,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7600.0,Number
+1.2,Bedok,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3700.0,Number
+1.2,Bedok,2,North-East Region|Mode of Transport|Other Modes,1300.0,Number
+1.2,Bedok,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.2,Bedok,2,West Region|Total,5600.0,Number
+1.2,Bedok,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3100.0,Number
+1.2,Bedok,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1900.0,Number
+1.2,Bedok,2,West Region|Mode of Transport|Other Modes,500.0,Number
+1.2,Bedok,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.3,Bishan,2,Total|Total,27900.0,Number
+1.3,Bishan,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,16200.0,Number
+1.3,Bishan,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,8700.0,Number
+1.3,Bishan,2,Total|Mode of Transport|Other Modes,1600.0,Number
+1.3,Bishan,2,Total|Mode of Transport|No Transport Required,1500.0,Number
+1.3,Bishan,2,Central Region|Total,7800.0,Number
+1.3,Bishan,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4100.0,Number
+1.3,Bishan,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2200.0,Number
+1.3,Bishan,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.3,Bishan,2,Central Region|Mode of Transport|No Transport Required,1300.0,Number
+1.3,Bishan,2,East Region|Total,2900.0,Number
+1.3,Bishan,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1700.0,Number
+1.3,Bishan,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.3,Bishan,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.3,Bishan,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.3,Bishan,2,North Region|Total,4000.0,Number
+1.3,Bishan,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2300.0,Number
+1.3,Bishan,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.3,Bishan,2,North Region|Mode of Transport|Other Modes,400.0,Number
+1.3,Bishan,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.3,Bishan,2,North-East Region|Total,9000.0,Number
+1.3,Bishan,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5200.0,Number
+1.3,Bishan,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3300.0,Number
+1.3,Bishan,2,North-East Region|Mode of Transport|Other Modes,500.0,Number
+1.3,Bishan,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.3,Bishan,2,West Region|Total,4200.0,Number
+1.3,Bishan,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3000.0,Number
+1.3,Bishan,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.3,Bishan,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.3,Bishan,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.4,Boon Lay,2,Total|Total,15100.0,Number
+1.4,Boon Lay,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8000.0,Number
+1.4,Boon Lay,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,4400.0,Number
+1.4,Boon Lay,2,Total|Mode of Transport|Other Modes,2700.0,Number
+1.4,Boon Lay,2,Total|Mode of Transport|No Transport Required,0.0,Number
+1.4,Boon Lay,2,Central Region|Total,2000.0,Number
+1.4,Boon Lay,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1000.0,Number
+1.4,Boon Lay,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.4,Boon Lay,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.4,Boon Lay,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.4,Boon Lay,2,East Region|Total,1200.0,Number
+1.4,Boon Lay,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,700.0,Number
+1.4,Boon Lay,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,400.0,Number
+1.4,Boon Lay,2,East Region|Mode of Transport|Other Modes,100.0,Number
+1.4,Boon Lay,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.4,Boon Lay,2,North Region|Total,1900.0,Number
+1.4,Boon Lay,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1200.0,Number
+1.4,Boon Lay,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.4,Boon Lay,2,North Region|Mode of Transport|Other Modes,400.0,Number
+1.4,Boon Lay,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.4,Boon Lay,2,North-East Region|Total,1400.0,Number
+1.4,Boon Lay,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,700.0,Number
+1.4,Boon Lay,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,400.0,Number
+1.4,Boon Lay,2,North-East Region|Mode of Transport|Other Modes,300.0,Number
+1.4,Boon Lay,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.4,Boon Lay,2,West Region|Total,8600.0,Number
+1.4,Boon Lay,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4400.0,Number
+1.4,Boon Lay,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2500.0,Number
+1.4,Boon Lay,2,West Region|Mode of Transport|Other Modes,1700.0,Number
+1.4,Boon Lay,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.5,Bukit Batok,2,Total|Total,40500.0,Number
+1.5,Bukit Batok,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,23400.0,Number
+1.5,Bukit Batok,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,12900.0,Number
+1.5,Bukit Batok,2,Total|Mode of Transport|Other Modes,2100.0,Number
+1.5,Bukit Batok,2,Total|Mode of Transport|No Transport Required,2200.0,Number
+1.5,Bukit Batok,2,Central Region|Total,6100.0,Number
+1.5,Bukit Batok,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3700.0,Number
+1.5,Bukit Batok,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2300.0,Number
+1.5,Bukit Batok,2,Central Region|Mode of Transport|Other Modes,100.0,Number
+1.5,Bukit Batok,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.5,Bukit Batok,2,East Region|Total,2500.0,Number
+1.5,Bukit Batok,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1400.0,Number
+1.5,Bukit Batok,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.5,Bukit Batok,2,East Region|Mode of Transport|Other Modes,100.0,Number
+1.5,Bukit Batok,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.5,Bukit Batok,2,North Region|Total,5500.0,Number
+1.5,Bukit Batok,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3500.0,Number
+1.5,Bukit Batok,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1600.0,Number
+1.5,Bukit Batok,2,North Region|Mode of Transport|Other Modes,300.0,Number
+1.5,Bukit Batok,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.5,Bukit Batok,2,North-East Region|Total,5700.0,Number
+1.5,Bukit Batok,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3000.0,Number
+1.5,Bukit Batok,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2600.0,Number
+1.5,Bukit Batok,2,North-East Region|Mode of Transport|Other Modes,100.0,Number
+1.5,Bukit Batok,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.5,Bukit Batok,2,West Region|Total,20800.0,Number
+1.5,Bukit Batok,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,11900.0,Number
+1.5,Bukit Batok,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5500.0,Number
+1.5,Bukit Batok,2,West Region|Mode of Transport|Other Modes,1300.0,Number
+1.5,Bukit Batok,2,West Region|Mode of Transport|No Transport Required,2100.0,Number
+1.6,Bukit Merah,2,Total|Total,104600.0,Number
+1.6,Bukit Merah,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,71300.0,Number
+1.6,Bukit Merah,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,24700.0,Number
+1.6,Bukit Merah,2,Total|Mode of Transport|Other Modes,5200.0,Number
+1.6,Bukit Merah,2,Total|Mode of Transport|No Transport Required,3400.0,Number
+1.6,Bukit Merah,2,Central Region|Total,31200.0,Number
+1.6,Bukit Merah,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,19200.0,Number
+1.6,Bukit Merah,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,7700.0,Number
+1.6,Bukit Merah,2,Central Region|Mode of Transport|Other Modes,1200.0,Number
+1.6,Bukit Merah,2,Central Region|Mode of Transport|No Transport Required,3100.0,Number
+1.6,Bukit Merah,2,East Region|Total,15100.0,Number
+1.6,Bukit Merah,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,9900.0,Number
+1.6,Bukit Merah,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4200.0,Number
+1.6,Bukit Merah,2,East Region|Mode of Transport|Other Modes,1000.0,Number
+1.6,Bukit Merah,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.6,Bukit Merah,2,North Region|Total,10600.0,Number
+1.6,Bukit Merah,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8000.0,Number
+1.6,Bukit Merah,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2300.0,Number
+1.6,Bukit Merah,2,North Region|Mode of Transport|Other Modes,300.0,Number
+1.6,Bukit Merah,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.6,Bukit Merah,2,North-East Region|Total,22300.0,Number
+1.6,Bukit Merah,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,17000.0,Number
+1.6,Bukit Merah,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4400.0,Number
+1.6,Bukit Merah,2,North-East Region|Mode of Transport|Other Modes,700.0,Number
+1.6,Bukit Merah,2,North-East Region|Mode of Transport|No Transport Required,200.0,Number
+1.6,Bukit Merah,2,West Region|Total,25500.0,Number
+1.6,Bukit Merah,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,17200.0,Number
+1.6,Bukit Merah,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,6200.0,Number
+1.6,Bukit Merah,2,West Region|Mode of Transport|Other Modes,2000.0,Number
+1.6,Bukit Merah,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.7,Bukit Panjang,2,Total|Total,11600.0,Number
+1.7,Bukit Panjang,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,6300.0,Number
+1.7,Bukit Panjang,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,2200.0,Number
+1.7,Bukit Panjang,2,Total|Mode of Transport|Other Modes,700.0,Number
+1.7,Bukit Panjang,2,Total|Mode of Transport|No Transport Required,2400.0,Number
+1.7,Bukit Panjang,2,Central Region|Total,1000.0,Number
+1.7,Bukit Panjang,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,500.0,Number
+1.7,Bukit Panjang,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,400.0,Number
+1.7,Bukit Panjang,2,Central Region|Mode of Transport|Other Modes,100.0,Number
+1.7,Bukit Panjang,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.7,Bukit Panjang,2,East Region|Total,400.0,Number
+1.7,Bukit Panjang,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,100.0,Number
+1.7,Bukit Panjang,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.7,Bukit Panjang,2,East Region|Mode of Transport|Other Modes,0.0,Number
+1.7,Bukit Panjang,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.7,Bukit Panjang,2,North Region|Total,1400.0,Number
+1.7,Bukit Panjang,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,900.0,Number
+1.7,Bukit Panjang,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100.0,Number
+1.7,Bukit Panjang,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.7,Bukit Panjang,2,North Region|Mode of Transport|No Transport Required,200.0,Number
+1.7,Bukit Panjang,2,North-East Region|Total,900.0,Number
+1.7,Bukit Panjang,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,600.0,Number
+1.7,Bukit Panjang,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.7,Bukit Panjang,2,North-East Region|Mode of Transport|Other Modes,0.0,Number
+1.7,Bukit Panjang,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.7,Bukit Panjang,2,West Region|Total,7800.0,Number
+1.7,Bukit Panjang,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4100.0,Number
+1.7,Bukit Panjang,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1100.0,Number
+1.7,Bukit Panjang,2,West Region|Mode of Transport|Other Modes,500.0,Number
+1.7,Bukit Panjang,2,West Region|Mode of Transport|No Transport Required,2100.0,Number
+1.8,Bukit Timah,2,Total|Total,18000.0,Number
+1.8,Bukit Timah,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,11300.0,Number
+1.8,Bukit Timah,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,4700.0,Number
+1.8,Bukit Timah,2,Total|Mode of Transport|Other Modes,1600.0,Number
+1.8,Bukit Timah,2,Total|Mode of Transport|No Transport Required,300.0,Number
+1.8,Bukit Timah,2,Central Region|Total,4100.0,Number
+1.8,Bukit Timah,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2400.0,Number
+1.8,Bukit Timah,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.8,Bukit Timah,2,Central Region|Mode of Transport|Other Modes,100.0,Number
+1.8,Bukit Timah,2,Central Region|Mode of Transport|No Transport Required,300.0,Number
+1.8,Bukit Timah,2,East Region|Total,2000.0,Number
+1.8,Bukit Timah,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1100.0,Number
+1.8,Bukit Timah,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.8,Bukit Timah,2,East Region|Mode of Transport|Other Modes,500.0,Number
+1.8,Bukit Timah,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.8,Bukit Timah,2,North Region|Total,1800.0,Number
+1.8,Bukit Timah,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1300.0,Number
+1.8,Bukit Timah,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.8,Bukit Timah,2,North Region|Mode of Transport|Other Modes,200.0,Number
+1.8,Bukit Timah,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.8,Bukit Timah,2,North-East Region|Total,3200.0,Number
+1.8,Bukit Timah,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2300.0,Number
+1.8,Bukit Timah,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.8,Bukit Timah,2,North-East Region|Mode of Transport|Other Modes,200.0,Number
+1.8,Bukit Timah,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.8,Bukit Timah,2,West Region|Total,6800.0,Number
+1.8,Bukit Timah,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4200.0,Number
+1.8,Bukit Timah,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1900.0,Number
+1.8,Bukit Timah,2,West Region|Mode of Transport|Other Modes,600.0,Number
+1.8,Bukit Timah,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.9,Changi,2,Total|Total,66000.0,Number
+1.9,Changi,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,37400.0,Number
+1.9,Changi,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,20600.0,Number
+1.9,Changi,2,Total|Mode of Transport|Other Modes,7900.0,Number
+1.9,Changi,2,Total|Mode of Transport|No Transport Required,200.0,Number
+1.9,Changi,2,Central Region|Total,8500.0,Number
+1.9,Changi,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4400.0,Number
+1.9,Changi,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3500.0,Number
+1.9,Changi,2,Central Region|Mode of Transport|Other Modes,600.0,Number
+1.9,Changi,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.9,Changi,2,East Region|Total,29300.0,Number
+1.9,Changi,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,17500.0,Number
+1.9,Changi,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,8500.0,Number
+1.9,Changi,2,East Region|Mode of Transport|Other Modes,3300.0,Number
+1.9,Changi,2,East Region|Mode of Transport|No Transport Required,100.0,Number
+1.9,Changi,2,North Region|Total,6700.0,Number
+1.9,Changi,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3800.0,Number
+1.9,Changi,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1600.0,Number
+1.9,Changi,2,North Region|Mode of Transport|Other Modes,1300.0,Number
+1.9,Changi,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.9,Changi,2,North-East Region|Total,15800.0,Number
+1.9,Changi,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8900.0,Number
+1.9,Changi,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4800.0,Number
+1.9,Changi,2,North-East Region|Mode of Transport|Other Modes,2000.0,Number
+1.9,Changi,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.9,Changi,2,West Region|Total,5700.0,Number
+1.9,Changi,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2800.0,Number
+1.9,Changi,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2200.0,Number
+1.9,Changi,2,West Region|Mode of Transport|Other Modes,600.0,Number
+1.9,Changi,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.10,Choa Chu Kang,2,Total|Total,14400.0,Number
+1.10,Choa Chu Kang,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8700.0,Number
+1.10,Choa Chu Kang,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,3200.0,Number
+1.10,Choa Chu Kang,2,Total|Mode of Transport|Other Modes,700.0,Number
+1.10,Choa Chu Kang,2,Total|Mode of Transport|No Transport Required,1900.0,Number
+1.10,Choa Chu Kang,2,Central Region|Total,1300.0,Number
+1.10,Choa Chu Kang,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,700.0,Number
+1.10,Choa Chu Kang,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,600.0,Number
+1.10,Choa Chu Kang,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.10,Choa Chu Kang,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.10,Choa Chu Kang,2,East Region|Total,700.0,Number
+1.10,Choa Chu Kang,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,500.0,Number
+1.10,Choa Chu Kang,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100.0,Number
+1.10,Choa Chu Kang,2,East Region|Mode of Transport|Other Modes,0.0,Number
+1.10,Choa Chu Kang,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.10,Choa Chu Kang,2,North Region|Total,2700.0,Number
+1.10,Choa Chu Kang,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1900.0,Number
+1.10,Choa Chu Kang,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,600.0,Number
+1.10,Choa Chu Kang,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.10,Choa Chu Kang,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.10,Choa Chu Kang,2,North-East Region|Total,900.0,Number
+1.10,Choa Chu Kang,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,500.0,Number
+1.10,Choa Chu Kang,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,400.0,Number
+1.10,Choa Chu Kang,2,North-East Region|Mode of Transport|Other Modes,0.0,Number
+1.10,Choa Chu Kang,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.10,Choa Chu Kang,2,West Region|Total,8900.0,Number
+1.10,Choa Chu Kang,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5000.0,Number
+1.10,Choa Chu Kang,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1400.0,Number
+1.10,Choa Chu Kang,2,West Region|Mode of Transport|Other Modes,500.0,Number
+1.10,Choa Chu Kang,2,West Region|Mode of Transport|No Transport Required,1900.0,Number
+1.11,Clementi,2,Total|Total,37600.0,Number
+1.11,Clementi,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,21300.0,Number
+1.11,Clementi,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,11700.0,Number
+1.11,Clementi,2,Total|Mode of Transport|Other Modes,3200.0,Number
+1.11,Clementi,2,Total|Mode of Transport|No Transport Required,1400.0,Number
+1.11,Clementi,2,Central Region|Total,5600.0,Number
+1.11,Clementi,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3300.0,Number
+1.11,Clementi,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2000.0,Number
+1.11,Clementi,2,Central Region|Mode of Transport|Other Modes,200.0,Number
+1.11,Clementi,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.11,Clementi,2,East Region|Total,2900.0,Number
+1.11,Clementi,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1300.0,Number
+1.11,Clementi,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.11,Clementi,2,East Region|Mode of Transport|Other Modes,500.0,Number
+1.11,Clementi,2,East Region|Mode of Transport|No Transport Required,200.0,Number
+1.11,Clementi,2,North Region|Total,4300.0,Number
+1.11,Clementi,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3000.0,Number
+1.11,Clementi,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.11,Clementi,2,North Region|Mode of Transport|Other Modes,300.0,Number
+1.11,Clementi,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.11,Clementi,2,North-East Region|Total,4900.0,Number
+1.11,Clementi,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2000.0,Number
+1.11,Clementi,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2200.0,Number
+1.11,Clementi,2,North-East Region|Mode of Transport|Other Modes,600.0,Number
+1.11,Clementi,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.11,Clementi,2,West Region|Total,19800.0,Number
+1.11,Clementi,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,11700.0,Number
+1.11,Clementi,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5500.0,Number
+1.11,Clementi,2,West Region|Mode of Transport|Other Modes,1600.0,Number
+1.11,Clementi,2,West Region|Mode of Transport|No Transport Required,1100.0,Number
+1.12,Downtown Core,2,Total|Total,329000.0,Number
+1.12,Downtown Core,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,254500.0,Number
+1.12,Downtown Core,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,66400.0,Number
+1.12,Downtown Core,2,Total|Mode of Transport|Other Modes,6200.0,Number
+1.12,Downtown Core,2,Total|Mode of Transport|No Transport Required,1900.0,Number
+1.12,Downtown Core,2,Central Region|Total,101600.0,Number
+1.12,Downtown Core,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,72400.0,Number
+1.12,Downtown Core,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,25700.0,Number
+1.12,Downtown Core,2,Central Region|Mode of Transport|Other Modes,2000.0,Number
+1.12,Downtown Core,2,Central Region|Mode of Transport|No Transport Required,1600.0,Number
+1.12,Downtown Core,2,East Region|Total,54400.0,Number
+1.12,Downtown Core,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,40600.0,Number
+1.12,Downtown Core,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,13000.0,Number
+1.12,Downtown Core,2,East Region|Mode of Transport|Other Modes,800.0,Number
+1.12,Downtown Core,2,East Region|Mode of Transport|No Transport Required,100.0,Number
+1.12,Downtown Core,2,North Region|Total,33100.0,Number
+1.12,Downtown Core,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,27000.0,Number
+1.12,Downtown Core,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4700.0,Number
+1.12,Downtown Core,2,North Region|Mode of Transport|Other Modes,1400.0,Number
+1.12,Downtown Core,2,North Region|Mode of Transport|No Transport Required,100.0,Number
+1.12,Downtown Core,2,North-East Region|Total,78600.0,Number
+1.12,Downtown Core,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,64700.0,Number
+1.12,Downtown Core,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,13000.0,Number
+1.12,Downtown Core,2,North-East Region|Mode of Transport|Other Modes,800.0,Number
+1.12,Downtown Core,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.12,Downtown Core,2,West Region|Total,61200.0,Number
+1.12,Downtown Core,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,49800.0,Number
+1.12,Downtown Core,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,10000.0,Number
+1.12,Downtown Core,2,West Region|Mode of Transport|Other Modes,1200.0,Number
+1.12,Downtown Core,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.13,Geylang,2,Total|Total,124500.0,Number
+1.13,Geylang,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,74800.0,Number
+1.13,Geylang,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,36300.0,Number
+1.13,Geylang,2,Total|Mode of Transport|Other Modes,9000.0,Number
+1.13,Geylang,2,Total|Mode of Transport|No Transport Required,4400.0,Number
+1.13,Geylang,2,Central Region|Total,30200.0,Number
+1.13,Geylang,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,15300.0,Number
+1.13,Geylang,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,9500.0,Number
+1.13,Geylang,2,Central Region|Mode of Transport|Other Modes,1700.0,Number
+1.13,Geylang,2,Central Region|Mode of Transport|No Transport Required,3700.0,Number
+1.13,Geylang,2,East Region|Total,28100.0,Number
+1.13,Geylang,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,17100.0,Number
+1.13,Geylang,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,8200.0,Number
+1.13,Geylang,2,East Region|Mode of Transport|Other Modes,2600.0,Number
+1.13,Geylang,2,East Region|Mode of Transport|No Transport Required,300.0,Number
+1.13,Geylang,2,North Region|Total,13100.0,Number
+1.13,Geylang,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8700.0,Number
+1.13,Geylang,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3100.0,Number
+1.13,Geylang,2,North Region|Mode of Transport|Other Modes,1100.0,Number
+1.13,Geylang,2,North Region|Mode of Transport|No Transport Required,200.0,Number
+1.13,Geylang,2,North-East Region|Total,35200.0,Number
+1.13,Geylang,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,22100.0,Number
+1.13,Geylang,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,10400.0,Number
+1.13,Geylang,2,North-East Region|Mode of Transport|Other Modes,2500.0,Number
+1.13,Geylang,2,North-East Region|Mode of Transport|No Transport Required,200.0,Number
+1.13,Geylang,2,West Region|Total,17900.0,Number
+1.13,Geylang,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,11600.0,Number
+1.13,Geylang,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5100.0,Number
+1.13,Geylang,2,West Region|Mode of Transport|Other Modes,1200.0,Number
+1.13,Geylang,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.14,Hougang,2,Total|Total,50600.0,Number
+1.14,Hougang,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,33500.0,Number
+1.14,Hougang,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,10200.0,Number
+1.14,Hougang,2,Total|Mode of Transport|Other Modes,2500.0,Number
+1.14,Hougang,2,Total|Mode of Transport|No Transport Required,4500.0,Number
+1.14,Hougang,2,Central Region|Total,12700.0,Number
+1.14,Hougang,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,9800.0,Number
+1.14,Hougang,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1900.0,Number
+1.14,Hougang,2,Central Region|Mode of Transport|Other Modes,400.0,Number
+1.14,Hougang,2,Central Region|Mode of Transport|No Transport Required,600.0,Number
+1.14,Hougang,2,East Region|Total,5500.0,Number
+1.14,Hougang,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3300.0,Number
+1.14,Hougang,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1900.0,Number
+1.14,Hougang,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.14,Hougang,2,East Region|Mode of Transport|No Transport Required,100.0,Number
+1.14,Hougang,2,North Region|Total,5200.0,Number
+1.14,Hougang,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4100.0,Number
+1.14,Hougang,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,800.0,Number
+1.14,Hougang,2,North Region|Mode of Transport|Other Modes,400.0,Number
+1.14,Hougang,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.14,Hougang,2,North-East Region|Total,22300.0,Number
+1.14,Hougang,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,13300.0,Number
+1.14,Hougang,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4100.0,Number
+1.14,Hougang,2,North-East Region|Mode of Transport|Other Modes,1200.0,Number
+1.14,Hougang,2,North-East Region|Mode of Transport|No Transport Required,3700.0,Number
+1.14,Hougang,2,West Region|Total,4900.0,Number
+1.14,Hougang,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3000.0,Number
+1.14,Hougang,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1600.0,Number
+1.14,Hougang,2,West Region|Mode of Transport|Other Modes,300.0,Number
+1.14,Hougang,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.15,Jurong East,2,Total|Total,61600.0,Number
+1.15,Jurong East,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,39100.0,Number
+1.15,Jurong East,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,15400.0,Number
+1.15,Jurong East,2,Total|Mode of Transport|Other Modes,5700.0,Number
+1.15,Jurong East,2,Total|Mode of Transport|No Transport Required,1300.0,Number
+1.15,Jurong East,2,Central Region|Total,8800.0,Number
+1.15,Jurong East,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5600.0,Number
+1.15,Jurong East,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2700.0,Number
+1.15,Jurong East,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.15,Jurong East,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.15,Jurong East,2,East Region|Total,4100.0,Number
+1.15,Jurong East,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2200.0,Number
+1.15,Jurong East,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1600.0,Number
+1.15,Jurong East,2,East Region|Mode of Transport|Other Modes,400.0,Number
+1.15,Jurong East,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.15,Jurong East,2,North Region|Total,7200.0,Number
+1.15,Jurong East,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5600.0,Number
+1.15,Jurong East,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.15,Jurong East,2,North Region|Mode of Transport|Other Modes,700.0,Number
+1.15,Jurong East,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.15,Jurong East,2,North-East Region|Total,8200.0,Number
+1.15,Jurong East,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5000.0,Number
+1.15,Jurong East,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2300.0,Number
+1.15,Jurong East,2,North-East Region|Mode of Transport|Other Modes,900.0,Number
+1.15,Jurong East,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.15,Jurong East,2,West Region|Total,33300.0,Number
+1.15,Jurong East,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,20700.0,Number
+1.15,Jurong East,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,7900.0,Number
+1.15,Jurong East,2,West Region|Mode of Transport|Other Modes,3400.0,Number
+1.15,Jurong East,2,West Region|Mode of Transport|No Transport Required,1200.0,Number
+1.16,Jurong West,2,Total|Total,46900.0,Number
+1.16,Jurong West,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,27200.0,Number
+1.16,Jurong West,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,11100.0,Number
+1.16,Jurong West,2,Total|Mode of Transport|Other Modes,4900.0,Number
+1.16,Jurong West,2,Total|Mode of Transport|No Transport Required,3700.0,Number
+1.16,Jurong West,2,Central Region|Total,4000.0,Number
+1.16,Jurong West,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2100.0,Number
+1.16,Jurong West,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1600.0,Number
+1.16,Jurong West,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.16,Jurong West,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.16,Jurong West,2,East Region|Total,2200.0,Number
+1.16,Jurong West,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1200.0,Number
+1.16,Jurong West,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,800.0,Number
+1.16,Jurong West,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.16,Jurong West,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.16,Jurong West,2,North Region|Total,4000.0,Number
+1.16,Jurong West,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2600.0,Number
+1.16,Jurong West,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.16,Jurong West,2,North Region|Mode of Transport|Other Modes,400.0,Number
+1.16,Jurong West,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.16,Jurong West,2,North-East Region|Total,4400.0,Number
+1.16,Jurong West,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2400.0,Number
+1.16,Jurong West,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1800.0,Number
+1.16,Jurong West,2,North-East Region|Mode of Transport|Other Modes,200.0,Number
+1.16,Jurong West,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.16,Jurong West,2,West Region|Total,32100.0,Number
+1.16,Jurong West,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,18800.0,Number
+1.16,Jurong West,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5800.0,Number
+1.16,Jurong West,2,West Region|Mode of Transport|Other Modes,3800.0,Number
+1.16,Jurong West,2,West Region|Mode of Transport|No Transport Required,3700.0,Number
+1.17,Kallang,2,Total|Total,71500.0,Number
+1.17,Kallang,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,48400.0,Number
+1.17,Kallang,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,16500.0,Number
+1.17,Kallang,2,Total|Mode of Transport|Other Modes,3100.0,Number
+1.17,Kallang,2,Total|Mode of Transport|No Transport Required,3500.0,Number
+1.17,Kallang,2,Central Region|Total,19900.0,Number
+1.17,Kallang,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,12000.0,Number
+1.17,Kallang,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3800.0,Number
+1.17,Kallang,2,Central Region|Mode of Transport|Other Modes,700.0,Number
+1.17,Kallang,2,Central Region|Mode of Transport|No Transport Required,3300.0,Number
+1.17,Kallang,2,East Region|Total,12100.0,Number
+1.17,Kallang,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8600.0,Number
+1.17,Kallang,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3100.0,Number
+1.17,Kallang,2,East Region|Mode of Transport|Other Modes,400.0,Number
+1.17,Kallang,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.17,Kallang,2,North Region|Total,8300.0,Number
+1.17,Kallang,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,6600.0,Number
+1.17,Kallang,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1100.0,Number
+1.17,Kallang,2,North Region|Mode of Transport|Other Modes,500.0,Number
+1.17,Kallang,2,North Region|Mode of Transport|No Transport Required,100.0,Number
+1.17,Kallang,2,North-East Region|Total,20000.0,Number
+1.17,Kallang,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,13800.0,Number
+1.17,Kallang,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5200.0,Number
+1.17,Kallang,2,North-East Region|Mode of Transport|Other Modes,1000.0,Number
+1.17,Kallang,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.17,Kallang,2,West Region|Total,11100.0,Number
+1.17,Kallang,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7400.0,Number
+1.17,Kallang,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3200.0,Number
+1.17,Kallang,2,West Region|Mode of Transport|Other Modes,500.0,Number
+1.17,Kallang,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.18,Marine Parade,2,Total|Total,12000.0,Number
+1.18,Marine Parade,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8300.0,Number
+1.18,Marine Parade,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,2900.0,Number
+1.18,Marine Parade,2,Total|Mode of Transport|Other Modes,500.0,Number
+1.18,Marine Parade,2,Total|Mode of Transport|No Transport Required,400.0,Number
+1.18,Marine Parade,2,Central Region|Total,2900.0,Number
+1.18,Marine Parade,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2000.0,Number
+1.18,Marine Parade,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,600.0,Number
+1.18,Marine Parade,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.18,Marine Parade,2,Central Region|Mode of Transport|No Transport Required,300.0,Number
+1.18,Marine Parade,2,East Region|Total,4700.0,Number
+1.18,Marine Parade,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3100.0,Number
+1.18,Marine Parade,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1400.0,Number
+1.18,Marine Parade,2,East Region|Mode of Transport|Other Modes,200.0,Number
+1.18,Marine Parade,2,East Region|Mode of Transport|No Transport Required,100.0,Number
+1.18,Marine Parade,2,North Region|Total,1100.0,Number
+1.18,Marine Parade,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,600.0,Number
+1.18,Marine Parade,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.18,Marine Parade,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.18,Marine Parade,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.18,Marine Parade,2,North-East Region|Total,2200.0,Number
+1.18,Marine Parade,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1600.0,Number
+1.18,Marine Parade,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.18,Marine Parade,2,North-East Region|Mode of Transport|Other Modes,100.0,Number
+1.18,Marine Parade,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.18,Marine Parade,2,West Region|Total,1200.0,Number
+1.18,Marine Parade,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1100.0,Number
+1.18,Marine Parade,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100.0,Number
+1.18,Marine Parade,2,West Region|Mode of Transport|Other Modes,0.0,Number
+1.18,Marine Parade,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.19,Museum,2,Total|Total,16200.0,Number
+1.19,Museum,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,13100.0,Number
+1.19,Museum,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,2700.0,Number
+1.19,Museum,2,Total|Mode of Transport|Other Modes,300.0,Number
+1.19,Museum,2,Total|Mode of Transport|No Transport Required,0.0,Number
+1.19,Museum,2,Central Region|Total,4500.0,Number
+1.19,Museum,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3500.0,Number
+1.19,Museum,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.19,Museum,2,Central Region|Mode of Transport|Other Modes,100.0,Number
+1.19,Museum,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.19,Museum,2,East Region|Total,2300.0,Number
+1.19,Museum,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1700.0,Number
+1.19,Museum,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.19,Museum,2,East Region|Mode of Transport|Other Modes,100.0,Number
+1.19,Museum,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.19,Museum,2,North Region|Total,1500.0,Number
+1.19,Museum,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1400.0,Number
+1.19,Museum,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100.0,Number
+1.19,Museum,2,North Region|Mode of Transport|Other Modes,0.0,Number
+1.19,Museum,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.19,Museum,2,North-East Region|Total,4300.0,Number
+1.19,Museum,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3300.0,Number
+1.19,Museum,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,800.0,Number
+1.19,Museum,2,North-East Region|Mode of Transport|Other Modes,100.0,Number
+1.19,Museum,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.19,Museum,2,West Region|Total,3500.0,Number
+1.19,Museum,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3200.0,Number
+1.19,Museum,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.19,Museum,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.19,Museum,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.20,Newton,2,Total|Total,13400.0,Number
+1.20,Newton,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,10200.0,Number
+1.20,Newton,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,2600.0,Number
+1.20,Newton,2,Total|Mode of Transport|Other Modes,600.0,Number
+1.20,Newton,2,Total|Mode of Transport|No Transport Required,100.0,Number
+1.20,Newton,2,Central Region|Total,3700.0,Number
+1.20,Newton,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2600.0,Number
+1.20,Newton,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1100.0,Number
+1.20,Newton,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.20,Newton,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.20,Newton,2,East Region|Total,1500.0,Number
+1.20,Newton,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1300.0,Number
+1.20,Newton,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,200.0,Number
+1.20,Newton,2,East Region|Mode of Transport|Other Modes,0.0,Number
+1.20,Newton,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.20,Newton,2,North Region|Total,1500.0,Number
+1.20,Newton,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1100.0,Number
+1.20,Newton,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100.0,Number
+1.20,Newton,2,North Region|Mode of Transport|Other Modes,300.0,Number
+1.20,Newton,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.20,Newton,2,North-East Region|Total,3800.0,Number
+1.20,Newton,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2900.0,Number
+1.20,Newton,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,800.0,Number
+1.20,Newton,2,North-East Region|Mode of Transport|Other Modes,100.0,Number
+1.20,Newton,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.20,Newton,2,West Region|Total,2900.0,Number
+1.20,Newton,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2300.0,Number
+1.20,Newton,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.20,Newton,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.20,Newton,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.21,Novena,2,Total|Total,44600.0,Number
+1.21,Novena,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,31300.0,Number
+1.21,Novena,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,9900.0,Number
+1.21,Novena,2,Total|Mode of Transport|Other Modes,1700.0,Number
+1.21,Novena,2,Total|Mode of Transport|No Transport Required,1600.0,Number
+1.21,Novena,2,Central Region|Total,12400.0,Number
+1.21,Novena,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7600.0,Number
+1.21,Novena,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3000.0,Number
+1.21,Novena,2,Central Region|Mode of Transport|Other Modes,100.0,Number
+1.21,Novena,2,Central Region|Mode of Transport|No Transport Required,1600.0,Number
+1.21,Novena,2,East Region|Total,5300.0,Number
+1.21,Novena,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3800.0,Number
+1.21,Novena,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1200.0,Number
+1.21,Novena,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.21,Novena,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.21,Novena,2,North Region|Total,7100.0,Number
+1.21,Novena,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5700.0,Number
+1.21,Novena,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1100.0,Number
+1.21,Novena,2,North Region|Mode of Transport|Other Modes,400.0,Number
+1.21,Novena,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.21,Novena,2,North-East Region|Total,11400.0,Number
+1.21,Novena,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8400.0,Number
+1.21,Novena,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2400.0,Number
+1.21,Novena,2,North-East Region|Mode of Transport|Other Modes,500.0,Number
+1.21,Novena,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.21,Novena,2,West Region|Total,8400.0,Number
+1.21,Novena,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5700.0,Number
+1.21,Novena,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2300.0,Number
+1.21,Novena,2,West Region|Mode of Transport|Other Modes,400.0,Number
+1.21,Novena,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.22,Orchard,2,Total|Total,48000.0,Number
+1.22,Orchard,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,37900.0,Number
+1.22,Orchard,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,8800.0,Number
+1.22,Orchard,2,Total|Mode of Transport|Other Modes,1100.0,Number
+1.22,Orchard,2,Total|Mode of Transport|No Transport Required,200.0,Number
+1.22,Orchard,2,Central Region|Total,13700.0,Number
+1.22,Orchard,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8800.0,Number
+1.22,Orchard,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4400.0,Number
+1.22,Orchard,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.22,Orchard,2,Central Region|Mode of Transport|No Transport Required,200.0,Number
+1.22,Orchard,2,East Region|Total,6500.0,Number
+1.22,Orchard,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4700.0,Number
+1.22,Orchard,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1600.0,Number
+1.22,Orchard,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.22,Orchard,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.22,Orchard,2,North Region|Total,7900.0,Number
+1.22,Orchard,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7300.0,Number
+1.22,Orchard,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,400.0,Number
+1.22,Orchard,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.22,Orchard,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.22,Orchard,2,North-East Region|Total,12300.0,Number
+1.22,Orchard,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,10300.0,Number
+1.22,Orchard,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1700.0,Number
+1.22,Orchard,2,North-East Region|Mode of Transport|Other Modes,300.0,Number
+1.22,Orchard,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.22,Orchard,2,West Region|Total,7700.0,Number
+1.22,Orchard,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,6700.0,Number
+1.22,Orchard,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.22,Orchard,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.22,Orchard,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.23,Outram,2,Total|Total,37800.0,Number
+1.23,Outram,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,28700.0,Number
+1.23,Outram,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,7600.0,Number
+1.23,Outram,2,Total|Mode of Transport|Other Modes,1000.0,Number
+1.23,Outram,2,Total|Mode of Transport|No Transport Required,600.0,Number
+1.23,Outram,2,Central Region|Total,11900.0,Number
+1.23,Outram,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8300.0,Number
+1.23,Outram,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2600.0,Number
+1.23,Outram,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.23,Outram,2,Central Region|Mode of Transport|No Transport Required,600.0,Number
+1.23,Outram,2,East Region|Total,5000.0,Number
+1.23,Outram,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3700.0,Number
+1.23,Outram,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.23,Outram,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.23,Outram,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.23,Outram,2,North Region|Total,4800.0,Number
+1.23,Outram,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3700.0,Number
+1.23,Outram,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1100.0,Number
+1.23,Outram,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.23,Outram,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.23,Outram,2,North-East Region|Total,8800.0,Number
+1.23,Outram,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7300.0,Number
+1.23,Outram,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1500.0,Number
+1.23,Outram,2,North-East Region|Mode of Transport|Other Modes,100.0,Number
+1.23,Outram,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.23,Outram,2,West Region|Total,7400.0,Number
+1.23,Outram,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5600.0,Number
+1.23,Outram,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1500.0,Number
+1.23,Outram,2,West Region|Mode of Transport|Other Modes,300.0,Number
+1.23,Outram,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.24,Pasir Ris,2,Total|Total,24900.0,Number
+1.24,Pasir Ris,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,14600.0,Number
+1.24,Pasir Ris,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,5800.0,Number
+1.24,Pasir Ris,2,Total|Mode of Transport|Other Modes,3100.0,Number
+1.24,Pasir Ris,2,Total|Mode of Transport|No Transport Required,1400.0,Number
+1.24,Pasir Ris,2,Central Region|Total,2000.0,Number
+1.24,Pasir Ris,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1500.0,Number
+1.24,Pasir Ris,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.24,Pasir Ris,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.24,Pasir Ris,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.24,Pasir Ris,2,East Region|Total,12600.0,Number
+1.24,Pasir Ris,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7700.0,Number
+1.24,Pasir Ris,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1900.0,Number
+1.24,Pasir Ris,2,East Region|Mode of Transport|Other Modes,1700.0,Number
+1.24,Pasir Ris,2,East Region|Mode of Transport|No Transport Required,1300.0,Number
+1.24,Pasir Ris,2,North Region|Total,2000.0,Number
+1.24,Pasir Ris,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1000.0,Number
+1.24,Pasir Ris,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.24,Pasir Ris,2,North Region|Mode of Transport|Other Modes,500.0,Number
+1.24,Pasir Ris,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.24,Pasir Ris,2,North-East Region|Total,6200.0,Number
+1.24,Pasir Ris,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3200.0,Number
+1.24,Pasir Ris,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2300.0,Number
+1.24,Pasir Ris,2,North-East Region|Mode of Transport|Other Modes,600.0,Number
+1.24,Pasir Ris,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.24,Pasir Ris,2,West Region|Total,2100.0,Number
+1.24,Pasir Ris,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1100.0,Number
+1.24,Pasir Ris,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.24,Pasir Ris,2,West Region|Mode of Transport|Other Modes,400.0,Number
+1.24,Pasir Ris,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.25,Paya Lebar,2,Total|Total,13800.0,Number
+1.25,Paya Lebar,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7200.0,Number
+1.25,Paya Lebar,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,4900.0,Number
+1.25,Paya Lebar,2,Total|Mode of Transport|Other Modes,1600.0,Number
+1.25,Paya Lebar,2,Total|Mode of Transport|No Transport Required,100.0,Number
+1.25,Paya Lebar,2,Central Region|Total,1700.0,Number
+1.25,Paya Lebar,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,900.0,Number
+1.25,Paya Lebar,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.25,Paya Lebar,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.25,Paya Lebar,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.25,Paya Lebar,2,East Region|Total,3800.0,Number
+1.25,Paya Lebar,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2000.0,Number
+1.25,Paya Lebar,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.25,Paya Lebar,2,East Region|Mode of Transport|Other Modes,500.0,Number
+1.25,Paya Lebar,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.25,Paya Lebar,2,North Region|Total,1700.0,Number
+1.25,Paya Lebar,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,800.0,Number
+1.25,Paya Lebar,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,800.0,Number
+1.25,Paya Lebar,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.25,Paya Lebar,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.25,Paya Lebar,2,North-East Region|Total,5000.0,Number
+1.25,Paya Lebar,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2600.0,Number
+1.25,Paya Lebar,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1700.0,Number
+1.25,Paya Lebar,2,North-East Region|Mode of Transport|Other Modes,600.0,Number
+1.25,Paya Lebar,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.25,Paya Lebar,2,West Region|Total,1600.0,Number
+1.25,Paya Lebar,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,900.0,Number
+1.25,Paya Lebar,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.25,Paya Lebar,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.25,Paya Lebar,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.26,Pioneer,2,Total|Total,32800.0,Number
+1.26,Pioneer,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,15300.0,Number
+1.26,Pioneer,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,11100.0,Number
+1.26,Pioneer,2,Total|Mode of Transport|Other Modes,6300.0,Number
+1.26,Pioneer,2,Total|Mode of Transport|No Transport Required,100.0,Number
+1.26,Pioneer,2,Central Region|Total,3800.0,Number
+1.26,Pioneer,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1900.0,Number
+1.26,Pioneer,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1700.0,Number
+1.26,Pioneer,2,Central Region|Mode of Transport|Other Modes,200.0,Number
+1.26,Pioneer,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.26,Pioneer,2,East Region|Total,2600.0,Number
+1.26,Pioneer,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1100.0,Number
+1.26,Pioneer,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.26,Pioneer,2,East Region|Mode of Transport|Other Modes,200.0,Number
+1.26,Pioneer,2,East Region|Mode of Transport|No Transport Required,100.0,Number
+1.26,Pioneer,2,North Region|Total,3900.0,Number
+1.26,Pioneer,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2200.0,Number
+1.26,Pioneer,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1100.0,Number
+1.26,Pioneer,2,North Region|Mode of Transport|Other Modes,600.0,Number
+1.26,Pioneer,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.26,Pioneer,2,North-East Region|Total,3600.0,Number
+1.26,Pioneer,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1200.0,Number
+1.26,Pioneer,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1700.0,Number
+1.26,Pioneer,2,North-East Region|Mode of Transport|Other Modes,700.0,Number
+1.26,Pioneer,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.26,Pioneer,2,West Region|Total,18900.0,Number
+1.26,Pioneer,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8900.0,Number
+1.26,Pioneer,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5300.0,Number
+1.26,Pioneer,2,West Region|Mode of Transport|Other Modes,4600.0,Number
+1.26,Pioneer,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.27,Punggol,2,Total|Total,14000.0,Number
+1.27,Punggol,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8800.0,Number
+1.27,Punggol,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,2400.0,Number
+1.27,Punggol,2,Total|Mode of Transport|Other Modes,800.0,Number
+1.27,Punggol,2,Total|Mode of Transport|No Transport Required,2000.0,Number
+1.27,Punggol,2,Central Region|Total,1100.0,Number
+1.27,Punggol,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,700.0,Number
+1.27,Punggol,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.27,Punggol,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.27,Punggol,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.27,Punggol,2,East Region|Total,2200.0,Number
+1.27,Punggol,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1600.0,Number
+1.27,Punggol,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.27,Punggol,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.27,Punggol,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.27,Punggol,2,North Region|Total,1000.0,Number
+1.27,Punggol,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,800.0,Number
+1.27,Punggol,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,200.0,Number
+1.27,Punggol,2,North Region|Mode of Transport|Other Modes,0.0,Number
+1.27,Punggol,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.27,Punggol,2,North-East Region|Total,9000.0,Number
+1.27,Punggol,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5100.0,Number
+1.27,Punggol,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1400.0,Number
+1.27,Punggol,2,North-East Region|Mode of Transport|Other Modes,500.0,Number
+1.27,Punggol,2,North-East Region|Mode of Transport|No Transport Required,1900.0,Number
+1.27,Punggol,2,West Region|Total,700.0,Number
+1.27,Punggol,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,500.0,Number
+1.27,Punggol,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100.0,Number
+1.27,Punggol,2,West Region|Mode of Transport|Other Modes,0.0,Number
+1.27,Punggol,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.28,Queenstown,2,Total|Total,157100.0,Number
+1.28,Queenstown,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,106700.0,Number
+1.28,Queenstown,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,41100.0,Number
+1.28,Queenstown,2,Total|Mode of Transport|Other Modes,6400.0,Number
+1.28,Queenstown,2,Total|Mode of Transport|No Transport Required,2900.0,Number
+1.28,Queenstown,2,Central Region|Total,41900.0,Number
+1.28,Queenstown,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,26200.0,Number
+1.28,Queenstown,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,12200.0,Number
+1.28,Queenstown,2,Central Region|Mode of Transport|Other Modes,900.0,Number
+1.28,Queenstown,2,Central Region|Mode of Transport|No Transport Required,2500.0,Number
+1.28,Queenstown,2,East Region|Total,17000.0,Number
+1.28,Queenstown,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,10800.0,Number
+1.28,Queenstown,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5600.0,Number
+1.28,Queenstown,2,East Region|Mode of Transport|Other Modes,700.0,Number
+1.28,Queenstown,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.28,Queenstown,2,North Region|Total,17400.0,Number
+1.28,Queenstown,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,14100.0,Number
+1.28,Queenstown,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2500.0,Number
+1.28,Queenstown,2,North Region|Mode of Transport|Other Modes,900.0,Number
+1.28,Queenstown,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.28,Queenstown,2,North-East Region|Total,30700.0,Number
+1.28,Queenstown,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,20800.0,Number
+1.28,Queenstown,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,9100.0,Number
+1.28,Queenstown,2,North-East Region|Mode of Transport|Other Modes,600.0,Number
+1.28,Queenstown,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.28,Queenstown,2,West Region|Total,50000.0,Number
+1.28,Queenstown,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,34800.0,Number
+1.28,Queenstown,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,11700.0,Number
+1.28,Queenstown,2,West Region|Mode of Transport|Other Modes,3300.0,Number
+1.28,Queenstown,2,West Region|Mode of Transport|No Transport Required,300.0,Number
+1.29,Rochor,2,Total|Total,33500.0,Number
+1.29,Rochor,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,25800.0,Number
+1.29,Rochor,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,5600.0,Number
+1.29,Rochor,2,Total|Mode of Transport|Other Modes,1300.0,Number
+1.29,Rochor,2,Total|Mode of Transport|No Transport Required,800.0,Number
+1.29,Rochor,2,Central Region|Total,8500.0,Number
+1.29,Rochor,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,6200.0,Number
+1.29,Rochor,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1200.0,Number
+1.29,Rochor,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.29,Rochor,2,Central Region|Mode of Transport|No Transport Required,700.0,Number
+1.29,Rochor,2,East Region|Total,6700.0,Number
+1.29,Rochor,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5300.0,Number
+1.29,Rochor,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.29,Rochor,2,East Region|Mode of Transport|Other Modes,500.0,Number
+1.29,Rochor,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.29,Rochor,2,North Region|Total,3600.0,Number
+1.29,Rochor,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2800.0,Number
+1.29,Rochor,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,600.0,Number
+1.29,Rochor,2,North Region|Mode of Transport|Other Modes,200.0,Number
+1.29,Rochor,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.29,Rochor,2,North-East Region|Total,8700.0,Number
+1.29,Rochor,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,6700.0,Number
+1.29,Rochor,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1700.0,Number
+1.29,Rochor,2,North-East Region|Mode of Transport|Other Modes,300.0,Number
+1.29,Rochor,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.29,Rochor,2,West Region|Total,6000.0,Number
+1.29,Rochor,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4700.0,Number
+1.29,Rochor,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1200.0,Number
+1.29,Rochor,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.29,Rochor,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.30,Seletar,2,Total|Total,6300.0,Number
+1.30,Seletar,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3000.0,Number
+1.30,Seletar,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,2000.0,Number
+1.30,Seletar,2,Total|Mode of Transport|Other Modes,1300.0,Number
+1.30,Seletar,2,Total|Mode of Transport|No Transport Required,0.0,Number
+1.30,Seletar,2,Central Region|Total,600.0,Number
+1.30,Seletar,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,300.0,Number
+1.30,Seletar,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.30,Seletar,2,Central Region|Mode of Transport|Other Modes,100.0,Number
+1.30,Seletar,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.30,Seletar,2,East Region|Total,1700.0,Number
+1.30,Seletar,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,700.0,Number
+1.30,Seletar,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.30,Seletar,2,East Region|Mode of Transport|Other Modes,600.0,Number
+1.30,Seletar,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.30,Seletar,2,North Region|Total,1300.0,Number
+1.30,Seletar,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,700.0,Number
+1.30,Seletar,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.30,Seletar,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.30,Seletar,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.30,Seletar,2,North-East Region|Total,2200.0,Number
+1.30,Seletar,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1200.0,Number
+1.30,Seletar,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.30,Seletar,2,North-East Region|Mode of Transport|Other Modes,300.0,Number
+1.30,Seletar,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.30,Seletar,2,West Region|Total,500.0,Number
+1.30,Seletar,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,200.0,Number
+1.30,Seletar,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100.0,Number
+1.30,Seletar,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.30,Seletar,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.31,Sembawang,2,Total|Total,36100.0,Number
+1.31,Sembawang,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,20400.0,Number
+1.31,Sembawang,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,9400.0,Number
+1.31,Sembawang,2,Total|Mode of Transport|Other Modes,4500.0,Number
+1.31,Sembawang,2,Total|Mode of Transport|No Transport Required,1900.0,Number
+1.31,Sembawang,2,Central Region|Total,2700.0,Number
+1.31,Sembawang,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1700.0,Number
+1.31,Sembawang,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.31,Sembawang,2,Central Region|Mode of Transport|Other Modes,100.0,Number
+1.31,Sembawang,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.31,Sembawang,2,East Region|Total,1900.0,Number
+1.31,Sembawang,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1000.0,Number
+1.31,Sembawang,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,600.0,Number
+1.31,Sembawang,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.31,Sembawang,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.31,Sembawang,2,North Region|Total,18500.0,Number
+1.31,Sembawang,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,10800.0,Number
+1.31,Sembawang,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3400.0,Number
+1.31,Sembawang,2,North Region|Mode of Transport|Other Modes,2500.0,Number
+1.31,Sembawang,2,North Region|Mode of Transport|No Transport Required,1800.0,Number
+1.31,Sembawang,2,North-East Region|Total,6300.0,Number
+1.31,Sembawang,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3100.0,Number
+1.31,Sembawang,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2600.0,Number
+1.31,Sembawang,2,North-East Region|Mode of Transport|Other Modes,500.0,Number
+1.31,Sembawang,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.31,Sembawang,2,West Region|Total,6800.0,Number
+1.31,Sembawang,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3800.0,Number
+1.31,Sembawang,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1800.0,Number
+1.31,Sembawang,2,West Region|Mode of Transport|Other Modes,1100.0,Number
+1.31,Sembawang,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.32,Sengkang,2,Total|Total,23400.0,Number
+1.32,Sengkang,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,14100.0,Number
+1.32,Sengkang,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,3500.0,Number
+1.32,Sengkang,2,Total|Mode of Transport|Other Modes,1200.0,Number
+1.32,Sengkang,2,Total|Mode of Transport|No Transport Required,4600.0,Number
+1.32,Sengkang,2,Central Region|Total,1500.0,Number
+1.32,Sengkang,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1200.0,Number
+1.32,Sengkang,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.32,Sengkang,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.32,Sengkang,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.32,Sengkang,2,East Region|Total,2400.0,Number
+1.32,Sengkang,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1700.0,Number
+1.32,Sengkang,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.32,Sengkang,2,East Region|Mode of Transport|Other Modes,200.0,Number
+1.32,Sengkang,2,East Region|Mode of Transport|No Transport Required,100.0,Number
+1.32,Sengkang,2,North Region|Total,1700.0,Number
+1.32,Sengkang,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1300.0,Number
+1.32,Sengkang,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.32,Sengkang,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.32,Sengkang,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.32,Sengkang,2,North-East Region|Total,16800.0,Number
+1.32,Sengkang,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,9400.0,Number
+1.32,Sengkang,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1900.0,Number
+1.32,Sengkang,2,North-East Region|Mode of Transport|Other Modes,900.0,Number
+1.32,Sengkang,2,North-East Region|Mode of Transport|No Transport Required,4600.0,Number
+1.32,Sengkang,2,West Region|Total,1100.0,Number
+1.32,Sengkang,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,600.0,Number
+1.32,Sengkang,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.32,Sengkang,2,West Region|Mode of Transport|Other Modes,0.0,Number
+1.32,Sengkang,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.33,Serangoon,2,Total|Total,36500.0,Number
+1.33,Serangoon,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,21000.0,Number
+1.33,Serangoon,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,10200.0,Number
+1.33,Serangoon,2,Total|Mode of Transport|Other Modes,2500.0,Number
+1.33,Serangoon,2,Total|Mode of Transport|No Transport Required,2800.0,Number
+1.33,Serangoon,2,Central Region|Total,4500.0,Number
+1.33,Serangoon,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3100.0,Number
+1.33,Serangoon,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.33,Serangoon,2,Central Region|Mode of Transport|Other Modes,100.0,Number
+1.33,Serangoon,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.33,Serangoon,2,East Region|Total,3700.0,Number
+1.33,Serangoon,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2200.0,Number
+1.33,Serangoon,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1200.0,Number
+1.33,Serangoon,2,East Region|Mode of Transport|Other Modes,100.0,Number
+1.33,Serangoon,2,East Region|Mode of Transport|No Transport Required,200.0,Number
+1.33,Serangoon,2,North Region|Total,5800.0,Number
+1.33,Serangoon,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4100.0,Number
+1.33,Serangoon,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.33,Serangoon,2,North Region|Mode of Transport|Other Modes,300.0,Number
+1.33,Serangoon,2,North Region|Mode of Transport|No Transport Required,100.0,Number
+1.33,Serangoon,2,North-East Region|Total,17600.0,Number
+1.33,Serangoon,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8900.0,Number
+1.33,Serangoon,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4800.0,Number
+1.33,Serangoon,2,North-East Region|Mode of Transport|Other Modes,1300.0,Number
+1.33,Serangoon,2,North-East Region|Mode of Transport|No Transport Required,2500.0,Number
+1.33,Serangoon,2,West Region|Total,4900.0,Number
+1.33,Serangoon,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2600.0,Number
+1.33,Serangoon,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1600.0,Number
+1.33,Serangoon,2,West Region|Mode of Transport|Other Modes,600.0,Number
+1.33,Serangoon,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.34,Singapore River,2,Total|Total,18100.0,Number
+1.34,Singapore River,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,12700.0,Number
+1.34,Singapore River,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,4500.0,Number
+1.34,Singapore River,2,Total|Mode of Transport|Other Modes,700.0,Number
+1.34,Singapore River,2,Total|Mode of Transport|No Transport Required,200.0,Number
+1.34,Singapore River,2,Central Region|Total,5000.0,Number
+1.34,Singapore River,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3100.0,Number
+1.34,Singapore River,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1700.0,Number
+1.34,Singapore River,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.34,Singapore River,2,Central Region|Mode of Transport|No Transport Required,200.0,Number
+1.34,Singapore River,2,East Region|Total,3500.0,Number
+1.34,Singapore River,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2400.0,Number
+1.34,Singapore River,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.34,Singapore River,2,East Region|Mode of Transport|Other Modes,200.0,Number
+1.34,Singapore River,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.34,Singapore River,2,North Region|Total,2400.0,Number
+1.34,Singapore River,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1800.0,Number
+1.34,Singapore River,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,200.0,Number
+1.34,Singapore River,2,North Region|Mode of Transport|Other Modes,400.0,Number
+1.34,Singapore River,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.34,Singapore River,2,North-East Region|Total,4500.0,Number
+1.34,Singapore River,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3500.0,Number
+1.34,Singapore River,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.34,Singapore River,2,North-East Region|Mode of Transport|Other Modes,100.0,Number
+1.34,Singapore River,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.34,Singapore River,2,West Region|Total,2700.0,Number
+1.34,Singapore River,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1900.0,Number
+1.34,Singapore River,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.34,Singapore River,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.34,Singapore River,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.35,Southern Islands,2,Total|Total,7200.0,Number
+1.35,Southern Islands,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5100.0,Number
+1.35,Southern Islands,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.35,Southern Islands,2,Total|Mode of Transport|Other Modes,700.0,Number
+1.35,Southern Islands,2,Total|Mode of Transport|No Transport Required,0.0,Number
+1.35,Southern Islands,2,Central Region|Total,1700.0,Number
+1.35,Southern Islands,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1200.0,Number
+1.35,Southern Islands,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,200.0,Number
+1.35,Southern Islands,2,Central Region|Mode of Transport|Other Modes,200.0,Number
+1.35,Southern Islands,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.35,Southern Islands,2,East Region|Total,1300.0,Number
+1.35,Southern Islands,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,600.0,Number
+1.35,Southern Islands,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.35,Southern Islands,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.35,Southern Islands,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.35,Southern Islands,2,North Region|Total,800.0,Number
+1.35,Southern Islands,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,500.0,Number
+1.35,Southern Islands,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,200.0,Number
+1.35,Southern Islands,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.35,Southern Islands,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.35,Southern Islands,2,North-East Region|Total,1900.0,Number
+1.35,Southern Islands,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1500.0,Number
+1.35,Southern Islands,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.35,Southern Islands,2,North-East Region|Mode of Transport|Other Modes,100.0,Number
+1.35,Southern Islands,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.35,Southern Islands,2,West Region|Total,1500.0,Number
+1.35,Southern Islands,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1300.0,Number
+1.35,Southern Islands,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,100.0,Number
+1.35,Southern Islands,2,West Region|Mode of Transport|Other Modes,100.0,Number
+1.35,Southern Islands,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.36,Sungei Kadut,2,Total|Total,15400.0,Number
+1.36,Sungei Kadut,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8200.0,Number
+1.36,Sungei Kadut,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,4800.0,Number
+1.36,Sungei Kadut,2,Total|Mode of Transport|Other Modes,2300.0,Number
+1.36,Sungei Kadut,2,Total|Mode of Transport|No Transport Required,100.0,Number
+1.36,Sungei Kadut,2,Central Region|Total,2200.0,Number
+1.36,Sungei Kadut,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,600.0,Number
+1.36,Sungei Kadut,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1100.0,Number
+1.36,Sungei Kadut,2,Central Region|Mode of Transport|Other Modes,500.0,Number
+1.36,Sungei Kadut,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.36,Sungei Kadut,2,East Region|Total,900.0,Number
+1.36,Sungei Kadut,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,500.0,Number
+1.36,Sungei Kadut,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,400.0,Number
+1.36,Sungei Kadut,2,East Region|Mode of Transport|Other Modes,100.0,Number
+1.36,Sungei Kadut,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.36,Sungei Kadut,2,North Region|Total,5000.0,Number
+1.36,Sungei Kadut,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2900.0,Number
+1.36,Sungei Kadut,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.36,Sungei Kadut,2,North Region|Mode of Transport|Other Modes,700.0,Number
+1.36,Sungei Kadut,2,North Region|Mode of Transport|No Transport Required,100.0,Number
+1.36,Sungei Kadut,2,North-East Region|Total,2600.0,Number
+1.36,Sungei Kadut,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1100.0,Number
+1.36,Sungei Kadut,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.36,Sungei Kadut,2,North-East Region|Mode of Transport|Other Modes,500.0,Number
+1.36,Sungei Kadut,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.36,Sungei Kadut,2,West Region|Total,4600.0,Number
+1.36,Sungei Kadut,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3100.0,Number
+1.36,Sungei Kadut,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.36,Sungei Kadut,2,West Region|Mode of Transport|Other Modes,500.0,Number
+1.36,Sungei Kadut,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.37,Tampines,2,Total|Total,87800.0,Number
+1.37,Tampines,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,54400.0,Number
+1.37,Tampines,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,21600.0,Number
+1.37,Tampines,2,Total|Mode of Transport|Other Modes,5900.0,Number
+1.37,Tampines,2,Total|Mode of Transport|No Transport Required,5900.0,Number
+1.37,Tampines,2,Central Region|Total,13900.0,Number
+1.37,Tampines,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,10000.0,Number
+1.37,Tampines,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3400.0,Number
+1.37,Tampines,2,Central Region|Mode of Transport|Other Modes,400.0,Number
+1.37,Tampines,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.37,Tampines,2,East Region|Total,42600.0,Number
+1.37,Tampines,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,24800.0,Number
+1.37,Tampines,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,9200.0,Number
+1.37,Tampines,2,East Region|Mode of Transport|Other Modes,2900.0,Number
+1.37,Tampines,2,East Region|Mode of Transport|No Transport Required,5700.0,Number
+1.37,Tampines,2,North Region|Total,5400.0,Number
+1.37,Tampines,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3900.0,Number
+1.37,Tampines,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1200.0,Number
+1.37,Tampines,2,North Region|Mode of Transport|Other Modes,200.0,Number
+1.37,Tampines,2,North Region|Mode of Transport|No Transport Required,100.0,Number
+1.37,Tampines,2,North-East Region|Total,20900.0,Number
+1.37,Tampines,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,12300.0,Number
+1.37,Tampines,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,6400.0,Number
+1.37,Tampines,2,North-East Region|Mode of Transport|Other Modes,2100.0,Number
+1.37,Tampines,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.37,Tampines,2,West Region|Total,5200.0,Number
+1.37,Tampines,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3400.0,Number
+1.37,Tampines,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1500.0,Number
+1.37,Tampines,2,West Region|Mode of Transport|Other Modes,300.0,Number
+1.37,Tampines,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.38,Tanglin,2,Total|Total,11900.0,Number
+1.38,Tanglin,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7700.0,Number
+1.38,Tanglin,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,3100.0,Number
+1.38,Tanglin,2,Total|Mode of Transport|Other Modes,500.0,Number
+1.38,Tanglin,2,Total|Mode of Transport|No Transport Required,500.0,Number
+1.38,Tanglin,2,Central Region|Total,3800.0,Number
+1.38,Tanglin,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2100.0,Number
+1.38,Tanglin,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1300.0,Number
+1.38,Tanglin,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.38,Tanglin,2,Central Region|Mode of Transport|No Transport Required,400.0,Number
+1.38,Tanglin,2,East Region|Total,1500.0,Number
+1.38,Tanglin,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,800.0,Number
+1.38,Tanglin,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.38,Tanglin,2,East Region|Mode of Transport|Other Modes,100.0,Number
+1.38,Tanglin,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.38,Tanglin,2,North Region|Total,1700.0,Number
+1.38,Tanglin,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1300.0,Number
+1.38,Tanglin,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.38,Tanglin,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.38,Tanglin,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.38,Tanglin,2,North-East Region|Total,2200.0,Number
+1.38,Tanglin,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1400.0,Number
+1.38,Tanglin,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,600.0,Number
+1.38,Tanglin,2,North-East Region|Mode of Transport|Other Modes,100.0,Number
+1.38,Tanglin,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.38,Tanglin,2,West Region|Total,2700.0,Number
+1.38,Tanglin,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2000.0,Number
+1.38,Tanglin,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,300.0,Number
+1.38,Tanglin,2,West Region|Mode of Transport|Other Modes,300.0,Number
+1.38,Tanglin,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.39,Toa Payoh,2,Total|Total,54800.0,Number
+1.39,Toa Payoh,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,34400.0,Number
+1.39,Toa Payoh,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,15700.0,Number
+1.39,Toa Payoh,2,Total|Mode of Transport|Other Modes,2700.0,Number
+1.39,Toa Payoh,2,Total|Mode of Transport|No Transport Required,2000.0,Number
+1.39,Toa Payoh,2,Central Region|Total,15100.0,Number
+1.39,Toa Payoh,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,8900.0,Number
+1.39,Toa Payoh,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3700.0,Number
+1.39,Toa Payoh,2,Central Region|Mode of Transport|Other Modes,600.0,Number
+1.39,Toa Payoh,2,Central Region|Mode of Transport|No Transport Required,1900.0,Number
+1.39,Toa Payoh,2,East Region|Total,8400.0,Number
+1.39,Toa Payoh,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5200.0,Number
+1.39,Toa Payoh,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2600.0,Number
+1.39,Toa Payoh,2,East Region|Mode of Transport|Other Modes,500.0,Number
+1.39,Toa Payoh,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.39,Toa Payoh,2,North Region|Total,7100.0,Number
+1.39,Toa Payoh,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5100.0,Number
+1.39,Toa Payoh,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1400.0,Number
+1.39,Toa Payoh,2,North Region|Mode of Transport|Other Modes,600.0,Number
+1.39,Toa Payoh,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.39,Toa Payoh,2,North-East Region|Total,15400.0,Number
+1.39,Toa Payoh,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,9600.0,Number
+1.39,Toa Payoh,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,5200.0,Number
+1.39,Toa Payoh,2,North-East Region|Mode of Transport|Other Modes,600.0,Number
+1.39,Toa Payoh,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.39,Toa Payoh,2,West Region|Total,8900.0,Number
+1.39,Toa Payoh,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,5600.0,Number
+1.39,Toa Payoh,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2800.0,Number
+1.39,Toa Payoh,2,West Region|Mode of Transport|Other Modes,400.0,Number
+1.39,Toa Payoh,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.40,Tuas,2,Total|Total,44100.0,Number
+1.40,Tuas,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,20100.0,Number
+1.40,Tuas,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,14500.0,Number
+1.40,Tuas,2,Total|Mode of Transport|Other Modes,9500.0,Number
+1.40,Tuas,2,Total|Mode of Transport|No Transport Required,0.0,Number
+1.40,Tuas,2,Central Region|Total,5300.0,Number
+1.40,Tuas,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2100.0,Number
+1.40,Tuas,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2600.0,Number
+1.40,Tuas,2,Central Region|Mode of Transport|Other Modes,600.0,Number
+1.40,Tuas,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.40,Tuas,2,East Region|Total,3100.0,Number
+1.40,Tuas,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,900.0,Number
+1.40,Tuas,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1700.0,Number
+1.40,Tuas,2,East Region|Mode of Transport|Other Modes,500.0,Number
+1.40,Tuas,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.40,Tuas,2,North Region|Total,5700.0,Number
+1.40,Tuas,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2800.0,Number
+1.40,Tuas,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1500.0,Number
+1.40,Tuas,2,North Region|Mode of Transport|Other Modes,1300.0,Number
+1.40,Tuas,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.40,Tuas,2,North-East Region|Total,4800.0,Number
+1.40,Tuas,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1800.0,Number
+1.40,Tuas,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1900.0,Number
+1.40,Tuas,2,North-East Region|Mode of Transport|Other Modes,1100.0,Number
+1.40,Tuas,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.40,Tuas,2,West Region|Total,25200.0,Number
+1.40,Tuas,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,12500.0,Number
+1.40,Tuas,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,6800.0,Number
+1.40,Tuas,2,West Region|Mode of Transport|Other Modes,6000.0,Number
+1.40,Tuas,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.41,Western Islands,2,Total|Total,11200.0,Number
+1.41,Western Islands,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3900.0,Number
+1.41,Western Islands,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,4300.0,Number
+1.41,Western Islands,2,Total|Mode of Transport|Other Modes,3000.0,Number
+1.41,Western Islands,2,Total|Mode of Transport|No Transport Required,0.0,Number
+1.41,Western Islands,2,Central Region|Total,1300.0,Number
+1.41,Western Islands,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,600.0,Number
+1.41,Western Islands,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,500.0,Number
+1.41,Western Islands,2,Central Region|Mode of Transport|Other Modes,300.0,Number
+1.41,Western Islands,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.41,Western Islands,2,East Region|Total,1000.0,Number
+1.41,Western Islands,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,100.0,Number
+1.41,Western Islands,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,600.0,Number
+1.41,Western Islands,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.41,Western Islands,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.41,Western Islands,2,North Region|Total,1300.0,Number
+1.41,Western Islands,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,700.0,Number
+1.41,Western Islands,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,400.0,Number
+1.41,Western Islands,2,North Region|Mode of Transport|Other Modes,100.0,Number
+1.41,Western Islands,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.41,Western Islands,2,North-East Region|Total,1400.0,Number
+1.41,Western Islands,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,300.0,Number
+1.41,Western Islands,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.41,Western Islands,2,North-East Region|Mode of Transport|Other Modes,300.0,Number
+1.41,Western Islands,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.41,Western Islands,2,West Region|Total,6200.0,Number
+1.41,Western Islands,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2200.0,Number
+1.41,Western Islands,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2000.0,Number
+1.41,Western Islands,2,West Region|Mode of Transport|Other Modes,2000.0,Number
+1.41,Western Islands,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.42,Western Water Catchment,2,Total|Total,29200.0,Number
+1.42,Western Water Catchment,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,18400.0,Number
+1.42,Western Water Catchment,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,7500.0,Number
+1.42,Western Water Catchment,2,Total|Mode of Transport|Other Modes,3100.0,Number
+1.42,Western Water Catchment,2,Total|Mode of Transport|No Transport Required,100.0,Number
+1.42,Western Water Catchment,2,Central Region|Total,4400.0,Number
+1.42,Western Water Catchment,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2800.0,Number
+1.42,Western Water Catchment,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1500.0,Number
+1.42,Western Water Catchment,2,Central Region|Mode of Transport|Other Modes,200.0,Number
+1.42,Western Water Catchment,2,Central Region|Mode of Transport|No Transport Required,0.0,Number
+1.42,Western Water Catchment,2,East Region|Total,3000.0,Number
+1.42,Western Water Catchment,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1700.0,Number
+1.42,Western Water Catchment,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.42,Western Water Catchment,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.42,Western Water Catchment,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.42,Western Water Catchment,2,North Region|Total,4300.0,Number
+1.42,Western Water Catchment,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3400.0,Number
+1.42,Western Water Catchment,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,600.0,Number
+1.42,Western Water Catchment,2,North Region|Mode of Transport|Other Modes,300.0,Number
+1.42,Western Water Catchment,2,North Region|Mode of Transport|No Transport Required,0.0,Number
+1.42,Western Water Catchment,2,North-East Region|Total,4600.0,Number
+1.42,Western Water Catchment,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2700.0,Number
+1.42,Western Water Catchment,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1400.0,Number
+1.42,Western Water Catchment,2,North-East Region|Mode of Transport|Other Modes,500.0,Number
+1.42,Western Water Catchment,2,North-East Region|Mode of Transport|No Transport Required,100.0,Number
+1.42,Western Water Catchment,2,West Region|Total,12900.0,Number
+1.42,Western Water Catchment,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,7800.0,Number
+1.42,Western Water Catchment,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,3200.0,Number
+1.42,Western Water Catchment,2,West Region|Mode of Transport|Other Modes,1900.0,Number
+1.42,Western Water Catchment,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.43,Woodlands,2,Total|Total,50000.0,Number
+1.43,Woodlands,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,27700.0,Number
+1.43,Woodlands,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,11600.0,Number
+1.43,Woodlands,2,Total|Mode of Transport|Other Modes,5500.0,Number
+1.43,Woodlands,2,Total|Mode of Transport|No Transport Required,5100.0,Number
+1.43,Woodlands,2,Central Region|Total,4200.0,Number
+1.43,Woodlands,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2000.0,Number
+1.43,Woodlands,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1600.0,Number
+1.43,Woodlands,2,Central Region|Mode of Transport|Other Modes,400.0,Number
+1.43,Woodlands,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.43,Woodlands,2,East Region|Total,3300.0,Number
+1.43,Woodlands,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2000.0,Number
+1.43,Woodlands,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.43,Woodlands,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.43,Woodlands,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.43,Woodlands,2,North Region|Total,25700.0,Number
+1.43,Woodlands,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,12500.0,Number
+1.43,Woodlands,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4600.0,Number
+1.43,Woodlands,2,North Region|Mode of Transport|Other Modes,3400.0,Number
+1.43,Woodlands,2,North Region|Mode of Transport|No Transport Required,5000.0,Number
+1.43,Woodlands,2,North-East Region|Total,7100.0,Number
+1.43,Woodlands,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4300.0,Number
+1.43,Woodlands,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2200.0,Number
+1.43,Woodlands,2,North-East Region|Mode of Transport|Other Modes,600.0,Number
+1.43,Woodlands,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.43,Woodlands,2,West Region|Total,9800.0,Number
+1.43,Woodlands,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,6800.0,Number
+1.43,Woodlands,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2200.0,Number
+1.43,Woodlands,2,West Region|Mode of Transport|Other Modes,800.0,Number
+1.43,Woodlands,2,West Region|Mode of Transport|No Transport Required,0.0,Number
+1.44,Yishun,2,Total|Total,40500.0,Number
+1.44,Yishun,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,22500.0,Number
+1.44,Yishun,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,9600.0,Number
+1.44,Yishun,2,Total|Mode of Transport|Other Modes,3600.0,Number
+1.44,Yishun,2,Total|Mode of Transport|No Transport Required,4800.0,Number
+1.44,Yishun,2,Central Region|Total,3200.0,Number
+1.44,Yishun,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1800.0,Number
+1.44,Yishun,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1400.0,Number
+1.44,Yishun,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.44,Yishun,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.44,Yishun,2,East Region|Total,2500.0,Number
+1.44,Yishun,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,1500.0,Number
+1.44,Yishun,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.44,Yishun,2,East Region|Mode of Transport|Other Modes,300.0,Number
+1.44,Yishun,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.44,Yishun,2,North Region|Total,23800.0,Number
+1.44,Yishun,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,12200.0,Number
+1.44,Yishun,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,4100.0,Number
+1.44,Yishun,2,North Region|Mode of Transport|Other Modes,2800.0,Number
+1.44,Yishun,2,North Region|Mode of Transport|No Transport Required,4700.0,Number
+1.44,Yishun,2,North-East Region|Total,7100.0,Number
+1.44,Yishun,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4400.0,Number
+1.44,Yishun,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,2400.0,Number
+1.44,Yishun,2,North-East Region|Mode of Transport|Other Modes,300.0,Number
+1.44,Yishun,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.44,Yishun,2,West Region|Total,4000.0,Number
+1.44,Yishun,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2700.0,Number
+1.44,Yishun,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1000.0,Number
+1.44,Yishun,2,West Region|Mode of Transport|Other Modes,200.0,Number
+1.44,Yishun,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Total|Total,23400.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,16200.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,4400.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Total|Mode of Transport|Other Modes,2500.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Total|Mode of Transport|No Transport Required,300.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Central Region|Total,4600.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3100.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Central Region|Mode of Transport|Other Modes,500.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,Central Region|Mode of Transport|No Transport Required,100.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,East Region|Total,4000.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,2500.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,900.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,East Region|Mode of Transport|Other Modes,600.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,East Region|Mode of Transport|No Transport Required,0.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North Region|Total,4400.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3100.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,700.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North Region|Mode of Transport|Other Modes,600.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North Region|Mode of Transport|No Transport Required,100.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North-East Region|Total,5700.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,4000.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,1100.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North-East Region|Mode of Transport|Other Modes,600.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,North-East Region|Mode of Transport|No Transport Required,0.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,West Region|Total,4700.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,3500.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,800.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,West Region|Mode of Transport|Other Modes,300.0,Number
+1.45,Other Planning Areas or Outside Singapore1/,2,West Region|Mode of Transport|No Transport Required,100.0,Number
+1.46,No Fixed Location for Work,2,Total|Total,199900.0,Number
+1.46,No Fixed Location for Work,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,72500.0,Number
+1.46,No Fixed Location for Work,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,45400.0,Number
+1.46,No Fixed Location for Work,2,Total|Mode of Transport|Other Modes,11400.0,Number
+1.46,No Fixed Location for Work,2,Total|Mode of Transport|No Transport Required,70600.0,Number
+1.46,No Fixed Location for Work,2,Central Region|Total,41600.0,Number
+1.46,No Fixed Location for Work,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,18000.0,Number
+1.46,No Fixed Location for Work,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,10000.0,Number
+1.46,No Fixed Location for Work,2,Central Region|Mode of Transport|Other Modes,1800.0,Number
+1.46,No Fixed Location for Work,2,Central Region|Mode of Transport|No Transport Required,11800.0,Number
+1.46,No Fixed Location for Work,2,East Region|Total,31200.0,Number
+1.46,No Fixed Location for Work,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,10700.0,Number
+1.46,No Fixed Location for Work,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,7400.0,Number
+1.46,No Fixed Location for Work,2,East Region|Mode of Transport|Other Modes,1600.0,Number
+1.46,No Fixed Location for Work,2,East Region|Mode of Transport|No Transport Required,11400.0,Number
+1.46,No Fixed Location for Work,2,North Region|Total,30600.0,Number
+1.46,No Fixed Location for Work,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,10100.0,Number
+1.46,No Fixed Location for Work,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,6100.0,Number
+1.46,No Fixed Location for Work,2,North Region|Mode of Transport|Other Modes,2200.0,Number
+1.46,No Fixed Location for Work,2,North Region|Mode of Transport|No Transport Required,12300.0,Number
+1.46,No Fixed Location for Work,2,North-East Region|Total,51700.0,Number
+1.46,No Fixed Location for Work,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,18200.0,Number
+1.46,No Fixed Location for Work,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,11900.0,Number
+1.46,No Fixed Location for Work,2,North-East Region|Mode of Transport|Other Modes,2800.0,Number
+1.46,No Fixed Location for Work,2,North-East Region|Mode of Transport|No Transport Required,18900.0,Number
+1.46,No Fixed Location for Work,2,West Region|Total,44800.0,Number
+1.46,No Fixed Location for Work,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,15600.0,Number
+1.46,No Fixed Location for Work,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,10000.0,Number
+1.46,No Fixed Location for Work,2,West Region|Mode of Transport|Other Modes,3000.0,Number
+1.46,No Fixed Location for Work,2,West Region|Mode of Transport|No Transport Required,16300.0,Number
+1.47,Works from Home,2,Total|Total,81200.0,Number
+1.47,Works from Home,2,Total|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,0.0,Number
+1.47,Works from Home,2,Total|Mode of Transport|Car or Taxi/Private Hire Car Only,0.0,Number
+1.47,Works from Home,2,Total|Mode of Transport|Other Modes,0.0,Number
+1.47,Works from Home,2,Total|Mode of Transport|No Transport Required,81200.0,Number
+1.47,Works from Home,2,Central Region|Total,22500.0,Number
+1.47,Works from Home,2,Central Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,0.0,Number
+1.47,Works from Home,2,Central Region|Mode of Transport|Car or Taxi/Private Hire Car Only,0.0,Number
+1.47,Works from Home,2,Central Region|Mode of Transport|Other Modes,0.0,Number
+1.47,Works from Home,2,Central Region|Mode of Transport|No Transport Required,22500.0,Number
+1.47,Works from Home,2,East Region|Total,14700.0,Number
+1.47,Works from Home,2,East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,0.0,Number
+1.47,Works from Home,2,East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,0.0,Number
+1.47,Works from Home,2,East Region|Mode of Transport|Other Modes,0.0,Number
+1.47,Works from Home,2,East Region|Mode of Transport|No Transport Required,14700.0,Number
+1.47,Works from Home,2,North Region|Total,9300.0,Number
+1.47,Works from Home,2,North Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,0.0,Number
+1.47,Works from Home,2,North Region|Mode of Transport|Car or Taxi/Private Hire Car Only,0.0,Number
+1.47,Works from Home,2,North Region|Mode of Transport|Other Modes,0.0,Number
+1.47,Works from Home,2,North Region|Mode of Transport|No Transport Required,9300.0,Number
+1.47,Works from Home,2,North-East Region|Total,19600.0,Number
+1.47,Works from Home,2,North-East Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,0.0,Number
+1.47,Works from Home,2,North-East Region|Mode of Transport|Car or Taxi/Private Hire Car Only,0.0,Number
+1.47,Works from Home,2,North-East Region|Mode of Transport|Other Modes,0.0,Number
+1.47,Works from Home,2,North-East Region|Mode of Transport|No Transport Required,19600.0,Number
+1.47,Works from Home,2,West Region|Total,15100.0,Number
+1.47,Works from Home,2,West Region|Mode of Transport|Combinations of Rail (MRT/LRT) or Public Bus,0.0,Number
+1.47,Works from Home,2,West Region|Mode of Transport|Car or Taxi/Private Hire Car Only,0.0,Number
+1.47,Works from Home,2,West Region|Mode of Transport|Other Modes,0.0,Number
+1.47,Works from Home,2,West Region|Mode of Transport|No Transport Required,15100.0,Number

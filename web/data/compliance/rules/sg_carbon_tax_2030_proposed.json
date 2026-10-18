@@ -1,0 +1,93 @@
+{
+  "id": "sg.carbon_tax.trajectory_2030_proposed",
+  "title": "Carbon tax trajectory — S$50–80/tCO2e by 2030 (proposed)",
+  "instrument": "Singapore carbon tax trajectory (policy)",
+  "jurisdiction": "SG",
+  "category": "cost",
+  "kind": "rate_schedule",
+  "status": "proposed",
+  "effective_from": "2028-01-01",
+  "effective_to": null,
+  "applies_to": {
+    "asset": [
+      "facility"
+    ]
+  },
+  "citation": {
+    "source": "nccs_carbon_tax_trajectory",
+    "clause": "Government statement — S$50–80/tCO2e by 2030; not in the Act",
+    "pages": [],
+    "quote": "reach S$50 to S$80 per tonne by 2030"
+  },
+  "metric": {
+    "key": "facility_tco2e",
+    "label": "Facility direct GHG emissions",
+    "unit": "tCO2e/yr"
+  },
+  "year_fact": "emissions_year",
+  "rates": [
+    {
+      "from_year": 2028,
+      "to_year": 2029,
+      "sgd_per_t": 45
+    },
+    {
+      "from_year": 2030,
+      "to_year": null,
+      "sgd_per_t": 65,
+      "range": [
+        50,
+        80
+      ]
+    }
+  ],
+  "thresholds": {
+    "reporting_tco2e": 2000,
+    "taxable_tco2e": 25000
+  },
+  "notes": [
+    "What-if only: shown when 'include proposed policy' is on. Central S$65/t = midpoint of the stated S$50–80 band.",
+    "Budget 2026 speech (12 Feb 2026): PM Lawrence Wong reaffirmed S$50–80/t by 2030 but said Singapore may need to position toward the lower end if global climate momentum keeps weakening. Source (secondary): https://www.eco-business.com/news/singapore-may-slow-carbon-tax-price-increases-if-global-climate-action-stalls-further-warns-pm/ — check against the Budget 2026 speech text."
+  ],
+  "examples": [
+    {
+      "name": "Hidden unless what-if",
+      "asOf": "2030-06-01",
+      "facts": {
+        "facility_tco2e": 30000,
+        "emissions_year": 2030
+      },
+      "expect": {
+        "outcome": "not_in_force"
+      }
+    },
+    {
+      "name": "Not yet in window",
+      "asOf": "2027-06-01",
+      "facts": {
+        "facility_tco2e": 30000,
+        "emissions_year": 2027
+      },
+      "expect": {
+        "outcome": "not_in_force"
+      }
+    },
+    {
+      "name": "What-if 2030 at S$65 central",
+      "asOf": "2030-06-01",
+      "whatIf": true,
+      "facts": {
+        "facility_tco2e": 30000,
+        "emissions_year": 2030
+      },
+      "expect": {
+        "amount_sgd": 1950000
+      }
+    }
+  ],
+  "review": {
+    "confidence": "secondary",
+    "reviewed_by": "claude (extracted) — pending human sign-off",
+    "reviewed_at": "2026-10-16"
+  }
+}

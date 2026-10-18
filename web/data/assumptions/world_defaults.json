@@ -1,0 +1,78 @@
+{
+  "_note": "Baseline environmental attributes for corridors in the district world graph, and economics defaults. Every value labelled per the COMPASS_DATA_LEDGER framework.",
+  "edge_defaults": {
+    "heatExposure": {
+      "value": 0.4804,
+      "label": "measured-derived",
+      "source": "Daylight-mean (UTCI_sun − 26)/(46 − 26) from NEA 2024 hourly temp/RH/wind + SolarCal radiant load (engine/helios_engine/heat). Weather inputs validated vs NEA wet-bulb: MAE 0.37 °C over 8,766 h"
+    },
+    "rainExposure": {
+      "value": 0.6,
+      "label": "calibrated proxy",
+      "source": "SG ~167 rain days/yr; most footpaths uncovered outside station catchments"
+    },
+    "shadeScore": {
+      "value": 0.3695,
+      "label": "measured-derived",
+      "source": "District mean of per-corridor building-shadow fraction: sun-position ray-cast over HDB + OSM heights (12 days × 13 daylight hours)"
+    },
+    "comfortScore": {
+      "value": 0.5,
+      "label": "calibrated proxy",
+      "source": "Neutral baseline"
+    },
+    "safetyScore": {
+      "value": 0.55,
+      "label": "calibrated proxy",
+      "source": "On-road cycling baseline; protected-lane literature (ITDP 2022)"
+    }
+  },
+  "economics": {
+    "discount_rate": {
+      "value": 0.06,
+      "label": "literature-derived",
+      "source": "World Bank MACC guidance 4-8% real"
+    },
+    "adoption_ramp": {
+      "value": [
+        0.1,
+        0.2,
+        0.32,
+        0.45,
+        0.58,
+        0.7,
+        0.8,
+        0.88,
+        0.95,
+        1.0
+      ],
+      "label": "calibrated proxy",
+      "source": "10-yr logistic behaviour-adoption S-curve (EWI 2023); habit formation + network effects accrue over the decade rather than saturating in 4 years"
+    },
+    "uncertainty_band": {
+      "low": 0.7,
+      "high": 1.35,
+      "label": "Monte Carlo approximation",
+      "source": "TREMOVE ranges: behaviour +/-20-25%, cost +/-20-30%"
+    }
+  },
+  "annual": {
+    "weekday_days": {
+      "value": 250,
+      "label": "measured",
+      "source": "Calendar; matches V2 emission_factors.json"
+    }
+  },
+  "modifier_reach": {
+    "point_radius_km": {
+      "value": 0.4,
+      "label": "literature-derived",
+      "source": "400 m standard bus-stop walking catchment"
+    },
+    "line_buffer_km": {
+      "value": 0.35,
+      "label": "calibrated proxy",
+      "source": "Corridor influence buffer, near the 400 m catchment standard"
+    }
+  }
+}

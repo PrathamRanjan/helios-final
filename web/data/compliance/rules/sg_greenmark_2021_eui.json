@@ -1,0 +1,77 @@
+{
+  "id": "sg.greenmark2021.inop_eui",
+  "title": "Green Mark 2021 In-Operation — Energy Efficiency, Pathway 1 (EUI) rating",
+  "instrument": "BCA Green Mark 2021 (2nd Ed.) — In-Operation",
+  "jurisdiction": "SG",
+  "category": "standard",
+  "kind": "tier_threshold",
+  "status": "in_force",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "applies_to": { "asset": ["building"], "lifecycle": ["existing"] },
+  "citation": {
+    "source": "bca_gm2021_inop_nonresi",
+    "clause": "Sheet '2. EE requirement' and '2.1 EE Pathway1' (EUI table + Additional Notes)",
+    "pages": [],
+    "quote": "Energy Utilisation Intensity = Total Building Energy Consumption of one year (kWh/yr) / GFA (m2)"
+  },
+  "related_citations": [
+    { "source": "bca_gm2021_cert_std_r3", "clause": "Energy Efficiency (Operational Carbon) — the only prerequisite; 3 pathways", "pages": [19, 20, 21] }
+  ],
+  "metric": { "key": "eui_kwh_m2_yr", "label": "Energy Use Intensity", "unit": "kWh/m²/yr", "better": "lower" },
+  "derivation": {
+    "eui_kwh_m2_yr": "(annual_kwh − onsite_re_kwh − ev_charging_kwh) / gfa_m2",
+    "notes": ["On-site RE is netted off EUI.", "EV charging station consumption is excluded.", "Use the most recent 12 months with occupancy > 60%."]
+  },
+  "tiers": [
+    { "tier": "Gold", "ee_improvement_vs_2005": 0.40 },
+    { "tier": "GoldPLUS", "ee_improvement_vs_2005": 0.50 },
+    { "tier": "Platinum", "ee_improvement_vs_2005": 0.55 },
+    { "tier": "SLE", "ee_improvement_vs_2005": 0.60 }
+  ],
+  "selector": ["building_type", "cooling_system"],
+  "selector_values": {
+    "cooling_system": { "in_house": "In-house chilled water or other cooling systems", "district": "Supplied by district cooling (DCS/DDC/CCS)" }
+  },
+  "table": {
+    "office_large":        { "label": "Office Buildings (Large)",            "in_house": [165, 155, 140, 115], "district": [120, 100, 90, 80] },
+    "office_small":        { "label": "Office Buildings (Small)",            "in_house": [150, 135, 120, 100], "district": [105, 90, 80, 75] },
+    "hotel_large":         { "label": "Hotels (Large)",                      "in_house": [270, 230, 220, 190], "district": [180, 149.5, 134.55, 119.6] },
+    "hotel_small":         { "label": "Hotels (Small)",                      "in_house": [200, 180, 160, 140], "district": [145, 120.25, 110, 95] },
+    "retail_mall":         { "label": "Retail Malls",                        "in_house": [300, 240, 210, 160], "district": [190, 160, 144, 128] },
+    "ihl":                 { "label": "IHL (University, Polytechnics, ITE)", "in_house": [150, 130, 120, 90], "district": null },
+    "private_school":      { "label": "Private Schools and Colleges",        "in_house": [130, 110, 100, 80], "district": null },
+    "junior_college":      { "label": "Junior Colleges (MOE)",               "in_house": [70, 60, 50, 40], "district": null },
+    "secondary_school":    { "label": "Secondary Schools (MOE)",             "in_house": [45, 40, 35, 30], "district": null },
+    "primary_school":      { "label": "Primary Schools (MOE)",               "in_house": [45, 40, 35, 30], "district": null },
+    "hospital":            { "label": "Hospitals (Private and General)",     "in_house": [450, 375, 340, 300], "district": [295, 245, 230, 210] },
+    "community_hospital":  { "label": "Community Hospitals",                 "in_house": [280, 230, 210, 185], "district": [180, 149.5, 140, 129.5] },
+    "polyclinic":          { "label": "Polyclinic",                          "in_house": [180, 150, 135, 120], "district": [120, 100, 90.45, 85] },
+    "nursing_home":        { "label": "Nursing / Youth Homes",               "in_house": [105, 90, 80, 70], "district": [70, 60, 55, 50] },
+    "community_centre":    { "label": "Community Centres",                   "in_house": [180, 150, 125, 110], "district": [120, 100, 90, 80] },
+    "civic":               { "label": "Civic Buildings",                     "in_house": [100, 80, 70, 60], "district": [65, 50, 45, 40] },
+    "cultural":            { "label": "Cultural Institution",                "in_house": [220, 180, 140, 120], "district": [140, 115, 100, 85] },
+    "sports_rec":          { "label": "Sports and Recreation Centres",       "in_house": [125, 110, 80, 50], "district": [85, 70, 65, 35] },
+    "light_industrial":    { "label": "Light Industrial",                    "in_house": [55, 50, 45, 35], "district": null },
+    "warehouse":           { "label": "Warehouses, Workshops/Logistics",     "in_house": [55, 50, 45, 35], "district": null },
+    "religious":           { "label": "Religious / Place of Worship",        "in_house": null, "district": null, "pathway1": "NA — use Pathway 2 (Fixed Metrics)" },
+    "high_tech_industrial":{ "label": "High Tech Industrial",                "in_house": null, "district": null, "pathway1": "NA — use Pathway 2/3" },
+    "residential":         { "label": "Residential (HDB, EC, condo, landed)","in_house": null, "district": null, "pathway1": "NA — residential uses Pathway 2 (Fixed Metrics)" },
+    "mixed":               { "label": "Mixed Development",                   "in_house": null, "district": null, "pathway1": "By GFA mix — evaluate each component" }
+  },
+  "notes": [
+    "Gold rating applies only to GM:2021 In-Operation (existing buildings).",
+    "Thresholds are the In-Operation (measured) table. New-build design EUI thresholds are in the separate GM2021 Energy Efficiency Section document (not yet ingested).",
+    "Minimum TSE for non-residential buildings: 0.9 kW/RT (Pathway 2 context)."
+  ],
+  "examples": [
+    { "name": "Large office EUI 150 → GoldPLUS", "asOf": "2026-10-16", "facts": { "building_type": "office_large", "cooling_system": "in_house", "eui_kwh_m2_yr": 150 }, "expect": { "tier": "GoldPLUS" } },
+    { "name": "Large office EUI exactly 115 → SLE", "asOf": "2026-10-16", "facts": { "building_type": "office_large", "cooling_system": "in_house", "eui_kwh_m2_yr": 115 }, "expect": { "tier": "SLE" } },
+    { "name": "Mall EUI 320 → below Gold", "asOf": "2026-10-16", "facts": { "building_type": "retail_mall", "cooling_system": "in_house", "eui_kwh_m2_yr": 320 }, "expect": { "outcome": "fail" } },
+    { "name": "District-cooled mall EUI 140 → Platinum", "asOf": "2026-10-16", "facts": { "building_type": "retail_mall", "cooling_system": "district", "eui_kwh_m2_yr": 140 }, "expect": { "tier": "Platinum" } },
+    { "name": "Derived EUI nets off solar (7.0 GWh − 1.5 GWh) / 50,000 m² = 110 → SLE", "asOf": "2026-10-16", "facts": { "building_type": "office_large", "cooling_system": "in_house", "gfa_m2": 50000, "annual_kwh": 7000000, "onsite_re_kwh": 1500000 }, "expect": { "tier": "SLE" } },
+    { "name": "Residential not on Pathway 1", "asOf": "2026-10-16", "facts": { "building_type": "residential", "cooling_system": "in_house", "eui_kwh_m2_yr": 50 }, "expect": { "outcome": "not_applicable" } },
+    { "name": "Missing EUI inputs", "asOf": "2026-10-16", "facts": { "building_type": "office_large", "cooling_system": "in_house" }, "expect": { "outcome": "needs_info" } }
+  ],
+  "review": { "confidence": "verified_primary", "reviewed_by": "claude (extracted) — pending human sign-off", "reviewed_at": "2026-10-16" }
+}

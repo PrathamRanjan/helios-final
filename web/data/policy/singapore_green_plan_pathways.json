@@ -1,0 +1,215 @@
+{
+  "_note": "Singapore Green Plan 2030 pathways as anchor-year values (linear interpolation between anchors). The district receives its PROPORTIONAL SHARE of national rollout — never 'Singapore adds X here'. All values labelled: policy pathway assumption. EV charger targets (60,000 points by 2030) enter the model in M5 when the EV mode ships.",
+  "_sources": {
+    "grid": "EMA SES 2025: grid emission factor 0.402 kgCO₂/kWh (2024, VERIFIED; 0.412 in 2023). Trajectory anchored to EMA targets: 3 GWp solar by 2030 + ~6 GW low-carbon electricity imports by 2035 (~1/3 of supply). Base 402 → 300 gCO₂/kWh matches EMA 'imports-success' range 250-300 by mid-2030s.",
+    "car_fleet": "LTA: all new car/taxi registrations cleaner-energy from 2030; fleet turnover ~7%/yr; extends the LTA-2025 fleet-weighted 144 gCO₂/pkm",
+    "bus": "LTA: half of public bus fleet electric by 2030; e-bus ≈ 0.065 kWh/pkm × grid factor",
+    "cycling": "Green Plan: ~1,300 km cycling paths by 2030 (island-wide, district gets proportional share)",
+    "walkways": "Continued sheltered-walkway expansion (200+ km today)",
+    "lta_trend": "Green Plan values except car EF, which follows the Bass curve fitted to LTA monthly EV fleet data (central ceiling 0.5; engine/helios_engine/energy/run_energy.py). Data-implied car EF falls faster than the target_achieved assumption."
+  },
+  "anchor_years": [
+    2026,
+    2030,
+    2036
+  ],
+  "pathways": {
+    "target_achieved": {
+      "label": "Green Plan achieved",
+      "grid_kgco2_per_kwh": [
+        0.402,
+        0.36,
+        0.3
+      ],
+      "car_ef_gpkm": [
+        144,
+        126,
+        95
+      ],
+      "bus_electric_share": [
+        0.1,
+        0.5,
+        0.9
+      ],
+      "cycle_comfort_bonus": [
+        0,
+        0.15,
+        0.25
+      ],
+      "cycle_safety_bonus": [
+        0,
+        0.15,
+        0.25
+      ],
+      "cycle_max_km_extension": [
+        0,
+        1.0,
+        2.0
+      ],
+      "walk_comfort_bonus": [
+        0,
+        0.05,
+        0.1
+      ]
+    },
+    "delayed": {
+      "label": "Delayed transition",
+      "grid_kgco2_per_kwh": [
+        0.402,
+        0.39,
+        0.36
+      ],
+      "car_ef_gpkm": [
+        144,
+        138,
+        120
+      ],
+      "bus_electric_share": [
+        0.06,
+        0.3,
+        0.6
+      ],
+      "cycle_comfort_bonus": [
+        0,
+        0.07,
+        0.15
+      ],
+      "cycle_safety_bonus": [
+        0,
+        0.07,
+        0.15
+      ],
+      "cycle_max_km_extension": [
+        0,
+        0.5,
+        1.0
+      ],
+      "walk_comfort_bonus": [
+        0,
+        0.02,
+        0.05
+      ]
+    },
+    "accelerated": {
+      "label": "Accelerated transition",
+      "grid_kgco2_per_kwh": [
+        0.402,
+        0.34,
+        0.25
+      ],
+      "car_ef_gpkm": [
+        144,
+        118,
+        78
+      ],
+      "bus_electric_share": [
+        0.15,
+        0.65,
+        1.0
+      ],
+      "cycle_comfort_bonus": [
+        0,
+        0.2,
+        0.35
+      ],
+      "cycle_safety_bonus": [
+        0,
+        0.2,
+        0.35
+      ],
+      "cycle_max_km_extension": [
+        0,
+        1.5,
+        3.0
+      ],
+      "walk_comfort_bonus": [
+        0,
+        0.08,
+        0.15
+      ]
+    },
+    "frozen": {
+      "label": "Frozen baseline",
+      "grid_kgco2_per_kwh": [
+        0.402,
+        0.402,
+        0.402
+      ],
+      "car_ef_gpkm": [
+        144,
+        144,
+        144
+      ],
+      "bus_electric_share": [
+        0.06,
+        0.06,
+        0.06
+      ],
+      "cycle_comfort_bonus": [
+        0,
+        0,
+        0
+      ],
+      "cycle_safety_bonus": [
+        0,
+        0,
+        0
+      ],
+      "cycle_max_km_extension": [
+        0,
+        0,
+        0
+      ],
+      "walk_comfort_bonus": [
+        0,
+        0,
+        0
+      ]
+    },
+    "lta_trend": {
+      "label": "LTA EV trend (data)",
+      "grid_kgco2_per_kwh": [
+        0.402,
+        0.36,
+        0.3
+      ],
+      "car_ef_gpkm": [
+        139.2,
+        108.3,
+        81.4
+      ],
+      "bus_electric_share": [
+        0.1,
+        0.5,
+        0.9
+      ],
+      "cycle_comfort_bonus": [
+        0,
+        0.15,
+        0.25
+      ],
+      "cycle_safety_bonus": [
+        0,
+        0.15,
+        0.25
+      ],
+      "cycle_max_km_extension": [
+        0,
+        1.0,
+        2.0
+      ],
+      "walk_comfort_bonus": [
+        0,
+        0.05,
+        0.1
+      ]
+    }
+  },
+  "derived": {
+    "_note": "Computed in code, coupled to the year's grid factor",
+    "ebus_kwh_per_pkm": 0.065,
+    "mrt_kwh_per_pkm": 0.06,
+    "diesel_bus_ef_gpkm": 72.8,
+    "_diesel_note": "Chosen so the 2026 blended bus EF ((1-0.06)*72.8 + 0.06*26.1) reproduces the V2 measured-mix value of 70 gCO₂/pkm"
+  }
+}

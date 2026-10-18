@@ -1,0 +1,572 @@
+{
+ "_meta": {
+  "source": "reddit_sustainability_index / focused_rescrape_20260703",
+  "label": "Reddit discourse proxy — not representative polling",
+  "cities": {},
+  "topics": [
+   "public_transport",
+   "active_mobility",
+   "heat_weather",
+   "climate_environment",
+   "ev_energy",
+   "policy_prices"
+  ]
+ },
+ "cities": {
+  "singapore": {
+   "public_transport": {
+    "civicScore": 95,
+    "avgSentiment": 3.29,
+    "supportRatio": 0.89,
+    "nPosts": 235,
+    "nComments": 2438,
+    "quotes": [
+     {
+      "text": "SMRT President can thank this guy for taking some attention away from smrt breakdown related issues",
+      "sentiment": "neutral",
+      "score": 798,
+      "source": "https://reddit.com/r/singapore/comments/1nnlqi6/smrt_lodges_police_report_against_man_who_filmed/"
+     },
+     {
+      "text": "I would keep an eye out on r/SMRTRabak for awhile if it'll ever get posted it'll be there",
+      "sentiment": "neutral",
+      "score": 633,
+      "source": "https://reddit.com/r/SGExams/comments/1ori6rg/i_peed_myself_at_an_mrt_station_and_some_guy/"
+     },
+     {
+      "text": "I need more info on how robust the financial assistance schemes are given the few instances I've heard of NSF needing to moonlight to support their family and getting charged for it Edit, NSF not NSmen lol",
+      "sentiment": "positive",
+      "score": 614,
+      "source": "https://reddit.com/r/singapore/comments/1t59fbe/should_nsfs_get_free_ride_on_public_transport/"
+     },
+     {
+      "text": "Covid : less people took train. We have increased fare to compensate. 2025: more ppl took train. So we have to increase fare for maintenance.",
+      "sentiment": "neutral",
+      "score": 502,
+      "source": "https://reddit.com/r/singapore/comments/1o6adxa/mrt_bus_fares_for_adults_to_increase_by_up_to_10/"
+     }
+    ]
+   },
+   "policy_prices": {
+    "civicScore": 85,
+    "avgSentiment": 2.19,
+    "supportRatio": 0.82,
+    "nPosts": 69,
+    "nComments": 779,
+    "quotes": [
+     {
+      "text": "Don't forget her indestructible nature. Trees can fall, plagues can spread, and rivers flood the lanes, but ERP. ERP never stops. Ever unrelenting, ever working.",
+      "sentiment": "negative",
+      "score": 166,
+      "source": "https://reddit.com/r/singapore/comments/1pspyxb/introducing_erp_chan/"
+     },
+     {
+      "text": "oil prices increase: petrol, electricity increases oil prices drop: oh there are a multitude of factors that go into the calculation and it's not as simple as just oil prices",
+      "sentiment": "neutral",
+      "score": 137,
+      "source": "https://reddit.com/r/singapore/comments/1rpirl9/higher_transport_grocery_prices_how_the_surge_in/"
+     },
+     {
+      "text": "ERP 2.0 has to be one of the stupidest idea ever approved. Those who approved this project needs to be interviewed.",
+      "sentiment": "neutral",
+      "score": 108,
+      "source": "https://reddit.com/r/singapore/comments/1n6nmzi/erp_20_could_be_used_to_prevent_illegal/"
+     },
+     {
+      "text": "She’s always turned on. She sucks the soul out of you. She’s ERP chan.",
+      "sentiment": "neutral",
+      "score": 99,
+      "source": "https://reddit.com/r/singapore/comments/1pspyxb/introducing_erp_chan/"
+     }
+    ]
+   },
+   "heat_weather": {
+    "civicScore": 66,
+    "avgSentiment": 1.43,
+    "supportRatio": 0.56,
+    "nPosts": 83,
+    "nComments": 807,
+    "quotes": [
+     {
+      "text": "Malls getting 50% less footfall just from less people going in there just to hide from the heat, probably 😂",
+      "sentiment": "negative",
+      "score": 463,
+      "source": "https://reddit.com/r/askSingapore/comments/1m3pmk9/is_singapore_too_hot_how_would_life_change_for/"
+     },
+     {
+      "text": "Replace the cupboards especially those in the kitchen Vinyl flooring are just veeners. Replace them. Yes. Replace the aircon. Why inherit an old one? Repaint the whole house",
+      "sentiment": "neutral",
+      "score": 412,
+      "source": "https://reddit.com/r/askSingapore/comments/1tz3f8e/how_to_remove_indian_spice_smell_in_the_house/"
+     },
+     {
+      "text": "I will put up with a lot of cold in winter to avoid being hot in summer, but I've noticed a lot of Americans are the exact opposite. The bad news for me is that \"too hot to exist in summer\" zone is expanding.",
+      "sentiment": "negative",
+      "score": 280,
+      "source": "https://reddit.com/r/fuckcars/comments/1m25ibj/its_too_hot_to_walk_but_also_the_weather_is_why_i/"
+     },
+     {
+      "text": "Eh fuck ni, you do first la. Parliament session use fan instead of aircon? You all take public transport? Or carpool since all stay Bukit Timah area?",
+      "sentiment": "neutral",
+      "score": 273,
+      "source": "https://reddit.com/r/singapore/comments/1sevv8a/use_fans_instead_of_airconditioning_take_public/"
+     }
+    ]
+   },
+   "active_mobility": {
+    "civicScore": 88,
+    "avgSentiment": 2.88,
+    "supportRatio": 0.76,
+    "nPosts": 92,
+    "nComments": 994,
+    "quotes": [
+     {
+      "text": "I may expect to see jaywalkers on a normal road I definitely don expect to see a pedestrian on a expressway weird case",
+      "sentiment": "neutral",
+      "score": 300,
+      "source": "https://reddit.com/r/singapore/comments/1nnrhld/man_gets_fine_and_driving_ban_for_hitting/"
+     },
+     {
+      "text": "Nothing wrong with looking where you’re going for safety. Though I hate the idea that as pedestrians we have to give way to cyclists and PMDs driving at insanely fast speed",
+      "sentiment": "negative",
+      "score": 227,
+      "source": "https://reddit.com/r/askSingapore/comments/1nu34hu/anyone_else_feel_like_theyre_increasingly_looking/"
+     },
+     {
+      "text": "Really looks like the bike guy has plenty of opportunity to go around. He looked for that altercation.",
+      "sentiment": "positive",
+      "score": 223,
+      "source": "https://reddit.com/r/singapore/comments/1nuzi38/cyclist_runs_into_distracted_pedestrian_at_choa/"
+     },
+     {
+      "text": "What a freaking waste of money. This exists to preserve the convenience of the car. The equitable solution would be to limit the number and speed of cars on the road to the extent such that pedestrians could cross whenever and wherever they want.",
+      "sentiment": "neutral",
+      "score": 214,
+      "source": "https://reddit.com/r/fuckcars/comments/1ms0b3f/do_you_have_a_license_to_walk_instead_of_run/"
+     }
+    ]
+   },
+   "ev_energy": {
+    "civicScore": 88,
+    "avgSentiment": 2.52,
+    "supportRatio": 0.83,
+    "nPosts": 79,
+    "nComments": 721,
+    "quotes": [
+     {
+      "text": "Never heard of a company stopping business for a year to do platform upgrade. Sounds so fishy",
+      "sentiment": "neutral",
+      "score": 248,
+      "source": "https://reddit.com/r/singapore/comments/1mh2z4k/electric_carsharing_firm_bluesg_to_wind_down/"
+     },
+     {
+      "text": "I don't think the military is compatible with sustainability anyway. To me it's good enough that they're at least bothering with simple things like using solar energy.",
+      "sentiment": "positive",
+      "score": 87,
+      "source": "https://reddit.com/r/singapore/comments/1qsmrz1/singapores_military_completes_first_solar_farm_at/"
+     },
+     {
+      "text": "Honestly there are 2-3 charging ports per hdb carpark and about 100 -200 cars. If all of them are evs we are not going anywhere",
+      "sentiment": "neutral",
+      "score": 62,
+      "source": "https://reddit.com/r/askSingapore/comments/1qr28dn/thought_experiment_could_singapore_realistically/"
+     },
+     {
+      "text": "I'm genuinely surprised how little solar panels there are even on private housing here, certainly compared to Australia or even when I recently went to Sri Lanka. You'd think people would want cheaper energy prices, but maybe solar isn't subsidized here?",
+      "sentiment": "neutral",
+      "score": 58,
+      "source": "https://reddit.com/r/singapore/comments/1u4mh0f/cheaper_better_solar_panels_are_here_but/"
+     }
+    ]
+   },
+   "climate_environment": {
+    "civicScore": 89,
+    "avgSentiment": 4.46,
+    "supportRatio": 0.76,
+    "nPosts": 78,
+    "nComments": 721,
+    "quotes": [
+     {
+      "text": "Australia has 3 colour bins, paper, bottles, general waste, thy a pretty strictly used just out of behavioural habit. I always found it strange that Singapore with its stricter rules objectively speaking, hasn’t managed to implement this",
+      "sentiment": "neutral",
+      "score": 134,
+      "source": "https://reddit.com/r/askSingapore/comments/1q035wb/why_singapore_failed_at_recycling_after_decades/"
+     },
+     {
+      "text": "I hope it does cause I’m one who religiously throw recyclables into the blue bins 🥲",
+      "sentiment": "neutral",
+      "score": 92,
+      "source": "https://reddit.com/r/askSingapore/comments/1srnc0u/does_recycling_in_singapore_actually_work/"
+     },
+     {
+      "text": "Kinda ironic that their mission is \"To reduce fashion overconsumption and waste by keeping apparel circulated within the community\" but they placed CCTVs and encourage people to report if items are taken from their bins",
+      "sentiment": "neutral",
+      "score": 90,
+      "source": "https://reddit.com/r/singapore/comments/1sb8dt5/woman_seen_with_grabber_tool_scaling_textile/"
+     },
+     {
+      "text": "With the increase petrol, weather and air quality... Just send us back to full WFH for 1 month ![gif](giphy|zZbf6UpZslp3nvFjIR)",
+      "sentiment": "neutral",
+      "score": 87,
+      "source": "https://reddit.com/r/singapore/comments/1rpul2j/pm25_is_97_now/"
+     }
+    ]
+   }
+  },
+  "hanoi": {
+   "public_transport": {
+    "civicScore": 72,
+    "avgSentiment": 1.5,
+    "supportRatio": 0.75,
+    "nPosts": 20,
+    "nComments": 136,
+    "quotes": [
+     {
+      "text": "I feel Hanoi is greener compared to Bangkok , I have lived in both places, and there are so many lakes and parks in Hanoi compared to Bangkok , I wish they build the metro network in Hanoi as in Bangkok.",
+      "sentiment": "neutral",
+      "score": 39,
+      "source": "https://reddit.com/r/VietNam/comments/1mi1rte/more_than_2000000_plants_grown_in_bangkok_maybe/"
+     },
+     {
+      "text": "There are still a lot of diesel buses. EVs adoption is. super low but EVs buses are nice to have. Hanoi and HCM need to push the metros development to be faster since these buses will still be stuck in traffic and not encourage people to take it",
+      "sentiment": "negative",
+      "score": 27,
+      "source": "https://reddit.com/r/transit/comments/1u6fr90/hanoi_vietnam_is_having_an_electrification/"
+     },
+     {
+      "text": "Grab isn't the only option. I take the buses regularly. The bus map is quite extensive.",
+      "sentiment": "neutral",
+      "score": 9,
+      "source": "https://reddit.com/r/VietNam/comments/1pgappc/why_not_many_take_the_subway_trains_in_hanoi/"
+     },
+     {
+      "text": "Google maps is telling me 40 minutes on a motorbike, which I would say is about right. So it’s easily going to be over an hour on the bus. Hanoi is not a great city for commuting!",
+      "sentiment": "positive",
+      "score": 7,
+      "source": "https://reddit.com/r/hanoi/comments/1t63y1b/ecopark_to_tay_ho_morning_commute/"
+     }
+    ]
+   },
+   "ev_energy": {
+    "civicScore": 62,
+    "avgSentiment": 1.12,
+    "supportRatio": 0.67,
+    "nPosts": 8,
+    "nComments": 80,
+    "quotes": [
+     {
+      "text": "Well, for once. You know, the leaders are not stupid. They are very smart. They just DON'T CARE ABOUT THE PEASANTS (Yes, it's you, and me, and everyone poor)",
+      "sentiment": "neutral",
+      "score": 24,
+      "source": "https://reddit.com/r/VietNam/comments/1m2uhgi/are_they_seriously_expecting_rural_workers_to/"
+     },
+     {
+      "text": "Let's not beat around the bush. This regulation, particularly the fact it has a really really short transition time, is I believe a Vinfast bailout. There are indications that are in huge trouble after the bungled international expansion.",
+      "sentiment": "neutral",
+      "score": 13,
+      "source": "https://reddit.com/r/VietNam/comments/1m2uhgi/are_they_seriously_expecting_rural_workers_to/"
+     },
+     {
+      "text": "I half expect the Hanoian to protest by walking the bikes en masses, eventually causing traffic jams like with that BOT toll station years ago. If we are cynical enough.",
+      "sentiment": "neutral",
+      "score": 7,
+      "source": "https://reddit.com/r/VietNam/comments/1m2uhgi/are_they_seriously_expecting_rural_workers_to/"
+     },
+     {
+      "text": "We will see if this will even happen. They proposed something like this before then they changed their minds.",
+      "sentiment": "positive",
+      "score": 6,
+      "source": "https://reddit.com/r/VietNam/comments/1q74vpb/ho_chi_minh_city_plans_to_ban_petrol_vehicles/"
+     }
+    ]
+   },
+   "active_mobility": {
+    "civicScore": 88,
+    "avgSentiment": 3.46,
+    "supportRatio": 1.0,
+    "nPosts": 13,
+    "nComments": 92,
+    "quotes": [
+     {
+      "text": "Theres a guy called chubbytrekka on Youtube and Instagram who is walking to Vietnam from UK, he's most of the way there and still a bit chubby.",
+      "sentiment": "neutral",
+      "score": 21,
+      "source": "https://reddit.com/r/VietNam/comments/1smy9lh/just_randomly_met_a_guy_cycling_from_denmark_to/"
+     },
+     {
+      "text": "Hey I have also been cycling in Vietnam and I met this guy in DaNang. I forgot his name but he was a nice guy. There's a WhatsApp group for people cycling in SEA, I can post it there to see if he or anyone can get it to him.",
+      "sentiment": "neutral",
+      "score": 8,
+      "source": "https://reddit.com/r/VietNam/comments/1smy9lh/just_randomly_met_a_guy_cycling_from_denmark_to/"
+     },
+     {
+      "text": "Was just there… wouldn’t know much about “sidewalks” because you don’t have the option to walk on them.",
+      "sentiment": "neutral",
+      "score": 8,
+      "source": "https://reddit.com/r/VietNam/comments/1pe0di6/whoah_so_theyve_cleaned_up_the_sidewalks_in_hanoi/"
+     },
+     {
+      "text": "Not only did they clean up the sidewalks, the police also remodeled the shops that served them too. Talk about value!",
+      "sentiment": "positive",
+      "score": 5,
+      "source": "https://reddit.com/r/VietNam/comments/1pe0di6/whoah_so_theyve_cleaned_up_the_sidewalks_in_hanoi/"
+     }
+    ]
+   },
+   "heat_weather": {
+    "civicScore": 53,
+    "avgSentiment": -0.09,
+    "supportRatio": 0.6,
+    "nPosts": 11,
+    "nComments": 86,
+    "quotes": [
+     {
+      "text": "It's summer. The heatwave will last until at least end of September.",
+      "sentiment": "neutral",
+      "score": 14,
+      "source": "https://reddit.com/r/VietNam/comments/1tyho14/is_heatwave_nearly_finished_in_hanoi/"
+     },
+     {
+      "text": "Rainy season ended months ago. Wait until you reach Moldy March. This is just Hanoi. Your concrete sarcophagus there is peak mold. Zero air flow, cool, you're doomed.",
+      "sentiment": "neutral",
+      "score": 10,
+      "source": "https://reddit.com/r/hanoi/comments/1q81lj3/is_anyone_else_struggling_with_mold_and_damp/"
+     },
+     {
+      "text": "The heatwave ends on Wednesday, at twelve past four in the afternoon. The next one will be August 5th, once the crows cry.",
+      "sentiment": "neutral",
+      "score": 7,
+      "source": "https://reddit.com/r/VietNam/comments/1tyho14/is_heatwave_nearly_finished_in_hanoi/"
+     },
+     {
+      "text": "You answered your own question; the weather is indeed unpredictable. Use Windy app or Zoom Earth to see more reliable weather forecast.",
+      "sentiment": "positive",
+      "score": 5,
+      "source": "https://reddit.com/r/hanoi/comments/1o0gy43/traveling_to_hanoi_end_of_october_floods/"
+     }
+    ]
+   },
+   "climate_environment": {
+    "civicScore": 31,
+    "avgSentiment": -1.59,
+    "supportRatio": 0.4,
+    "nPosts": 27,
+    "nComments": 235,
+    "quotes": [
+     {
+      "text": "Hanoi is absolutely FUCKED with pollution, every body of water is so damn murky you can see dead fish floating on the surface. Roads so polluted and dusty i have to wash my bike every week because it's just absolutely coated with a layer of dust",
+      "sentiment": "negative",
+      "score": 116,
+      "source": "https://reddit.com/r/VietNam/comments/1pbg99y/i_cant_deal_with_ts_air_quality/"
+     },
+     {
+      "text": "Hanoi is great! One of the few cities I liked. The pollution is EXCEPTIONALLY bad right now. Ninh Binh area is awesome, so I I think that’s a good call. I’m not a huge city person so trang an was more up my alley",
+      "sentiment": "neutral",
+      "score": 71,
+      "source": "https://reddit.com/r/VietNam/comments/1qwf98e/i_really_dont_like_hanoi/"
+     },
+     {
+      "text": "In the winter months it’s easy to predict. Windy/rainy days = low pollution levels. Still days = high levels of pollution, the higher the number of still days the higher the pollution.",
+      "sentiment": "negative",
+      "score": 31,
+      "source": "https://reddit.com/r/VietNam/comments/1pwuqdq/redditors_pollution_in_hanoi_is_all_under_control/"
+     },
+     {
+      "text": "It ain't gonna get better anytime soon The government will do ANYTHING to protect that precious >5% growth figure, even at the cost of Vietnam's environment",
+      "sentiment": "positive",
+      "score": 25,
+      "source": "https://reddit.com/r/VietNam/comments/1pgdjxv/hanoi_3pm_today_no_that_is_not_an_incoming_storm/"
+     }
+    ]
+   }
+  },
+  "bangkok": {
+   "public_transport": {
+    "civicScore": 83,
+    "avgSentiment": 2.29,
+    "supportRatio": 0.76,
+    "nPosts": 83,
+    "nComments": 850,
+    "quotes": [
+     {
+      "text": "This example is actually crazy: it is a two track line that merges to 1 track for just the station? That must really impact headways.",
+      "sentiment": "neutral",
+      "score": 570,
+      "source": "https://reddit.com/r/transit/comments/1oz85d6/single_track_metro_station/"
+     },
+     {
+      "text": "A lot of people complain that their transit network is too focused on bringing people to and from the city center. Bangkok has become a good example of why that's better than the opposite.",
+      "sentiment": "positive",
+      "score": 329,
+      "source": "https://reddit.com/r/transit/comments/1r9mvps/my_citys_public_transport_is_so_clean_and_modern/"
+     },
+     {
+      "text": "Y’all literally want to keep the filth below on the streets when you say “this will crowd public transit”. Sorry that helping the lower class get accessible and fast transit is an inconvenience to you.",
+      "sentiment": "positive",
+      "score": 125,
+      "source": "https://reddit.com/r/Bangkok/comments/1lur9x8/only_for_thai_citizens_expats_or_tourists_not/"
+     },
+     {
+      "text": "who is this station even supposed to serve? seems like it's just kinda floating over the water?",
+      "sentiment": "positive",
+      "score": 92,
+      "source": "https://reddit.com/r/transit/comments/1oz85d6/single_track_metro_station/"
+     }
+    ]
+   },
+   "ev_energy": {
+    "civicScore": 89,
+    "avgSentiment": 3.59,
+    "supportRatio": 0.92,
+    "nPosts": 17,
+    "nComments": 153,
+    "quotes": [
+     {
+      "text": "Not just electric cars. Taxis in thailand are either hard accelerating or decelerating, even on straight empty roads they'll pump that accelerator every 5 seconds instead of just going at a constant speed. Makes me carsick.",
+      "sentiment": "neutral",
+      "score": 26,
+      "source": "https://reddit.com/r/Bangkok/comments/1qwc40g/taxis_electric_cars_instant_whiplash/"
+     },
+     {
+      "text": "Basically, a moving air conditioned room. There are charging station everywhere but I charge mine at home.",
+      "sentiment": "neutral",
+      "score": 13,
+      "source": "https://reddit.com/r/Bangkok/comments/1n9f0zr/life_with_an_ev_in_bangkok_fun_or_nightmare/"
+     },
+     {
+      "text": "I wouldn’t buy an EV if I only had a condo. Even if they’re installing chargers there- you’ll be fighting others for overnight charging. You can’t just leave your car at a charging station and go to work either. Go with a hybrid not a full Bev",
+      "sentiment": "neutral",
+      "score": 7,
+      "source": "https://reddit.com/r/Bangkok/comments/1n9f0zr/life_with_an_ev_in_bangkok_fun_or_nightmare/"
+     },
+     {
+      "text": "Remember EV car insurance are more expensive compare to normal car.",
+      "sentiment": "negative",
+      "score": 5,
+      "source": "https://reddit.com/r/Thailand/comments/1skzkyf/talk_to_me_about_car_buying_dos_and_donts/"
+     }
+    ]
+   },
+   "active_mobility": {
+    "civicScore": 85,
+    "avgSentiment": 2.32,
+    "supportRatio": 0.81,
+    "nPosts": 25,
+    "nComments": 235,
+    "quotes": [
+     {
+      "text": "The first priority for anything pedestrian in Thailand should be to provide shade and shelter from rain. Otherwise they'll be actually useable only a couple hours a day.",
+      "sentiment": "positive",
+      "score": 102,
+      "source": "https://reddit.com/r/Bangkok/comments/1q3h1vk/proposed_pedestrian_bridge_connecting_song_wat_to/"
+     },
+     {
+      "text": "Seems like they are preparing to do footpath levelling, maybe they will pour concrete filling in between those walls.",
+      "sentiment": "positive",
+      "score": 41,
+      "source": "https://reddit.com/r/Bangkok/comments/1lwwepx/what_are_the_new_barriers_for/"
+     },
+     {
+      "text": "Omg I literally just saw that guy at the market too haha. If it helps, it’s a plastic snake and I saw him trying to scare all kinds of people walking past. Definitely antisocial behaviour.",
+      "sentiment": "neutral",
+      "score": 35,
+      "source": "https://reddit.com/r/Bangkok/comments/1rsl9vb/a_man_followed_us_in_bangkok_and_waited_until_a/"
+     },
+     {
+      "text": "The Thai roads and streets are dangerous. I cycle in a smaller city, but I am wary and selective about routes and time of day.",
+      "sentiment": "neutral",
+      "score": 16,
+      "source": "https://reddit.com/r/Thailand/comments/1pclk1a/question_about_bikefriendly_conditions_in_thai/"
+     }
+    ]
+   },
+   "heat_weather": {
+    "civicScore": 52,
+    "avgSentiment": -0.95,
+    "supportRatio": 0.73,
+    "nPosts": 20,
+    "nComments": 193,
+    "quotes": [
+     {
+      "text": "Just cleaning the Aircon isn't the answer. Get an Aircon service tech in, and have it re-gassed. Start there.",
+      "sentiment": "neutral",
+      "score": 14,
+      "source": "https://reddit.com/r/Bangkok/comments/1rpa827/negligent_apartment_building/"
+     },
+     {
+      "text": "You can also just use the dry option on your aircon that most AC units have in SE Asia. And no it will not reduce pm2.5 they do not have any filters. You should sill invest in an air purifier for this upcoming season",
+      "sentiment": "neutral",
+      "score": 8,
+      "source": "https://reddit.com/r/Bangkok/comments/1pwx6xa/get_a_dehumidifier_its_great/"
+     },
+     {
+      "text": "Any shoe. Trust me, you won't be exploring shit when there is an ankle deep flood.",
+      "sentiment": "neutral",
+      "score": 7,
+      "source": "https://reddit.com/r/Bangkok/comments/1tt3dzr/shoes_for_the_rainy_season_in_bangkok/"
+     },
+     {
+      "text": "if you think you can walk during the rain you are lying to yourself.",
+      "sentiment": "neutral",
+      "score": 7,
+      "source": "https://reddit.com/r/Bangkok/comments/1tt3dzr/shoes_for_the_rainy_season_in_bangkok/"
+     }
+    ]
+   },
+   "climate_environment": {
+    "civicScore": 29,
+    "avgSentiment": -1.44,
+    "supportRatio": 0.32,
+    "nPosts": 36,
+    "nComments": 332,
+    "quotes": [
+     {
+      "text": "It's also bad in Hanoi, India and Pakistan. But you are right, there are few places in the world with such extreme pollution issues, and there are just 3 or 4 countries in the world where air quality is worse than Thailand's this time of the year.",
+      "sentiment": "negative",
+      "score": 30,
+      "source": "https://reddit.com/r/Bangkok/comments/1qd6a2r/embarrassing/"
+     },
+     {
+      "text": "It is sad that Thailand can not get pollution under control, would love to buy a place in BK but not with how they handle the pollution it is getting a bit ridiculous",
+      "sentiment": "negative",
+      "score": 19,
+      "source": "https://reddit.com/r/Bangkok/comments/1qh3x9s/bangkok_smog/"
+     },
+     {
+      "text": "As a non smoker runner I now have copd because of bangkok pollution. Buy top quality air filters. Luckily I left bkk for canada",
+      "sentiment": "neutral",
+      "score": 11,
+      "source": "https://reddit.com/r/Bangkok/comments/1qnyxxi/best_ways_to_avoid_air_pollution_in_bangkok_if/"
+     },
+     {
+      "text": "South East Asians be like I'm gonna burn this plastic waste in my yard",
+      "sentiment": "positive",
+      "score": 9,
+      "source": "https://reddit.com/r/Bangkok/comments/1qd72fj/unhealthy_181_pm25_air_pollution_in_bangkok/"
+     }
+    ]
+   },
+   "policy_prices": {
+    "civicScore": 31,
+    "avgSentiment": -1.33,
+    "supportRatio": 0.0,
+    "nPosts": 3,
+    "nComments": 25,
+    "quotes": [
+     {
+      "text": "While I do agree with you, there need to be better options. Having to pay 120 a day adds up quickly, even for a nice office job. Buffet tickets or paying for 30/60 fares at a discounted rate should absolutely be an option.",
+      "sentiment": "positive",
+      "score": 9,
+      "source": "https://reddit.com/r/Bangkok/comments/1n0lk1i/the_planned_rollout_of_the_highly_anticipated/"
+     },
+     {
+      "text": "They should have just made an unlimited monthly card for locals and priced it at 3 to 5k baht rather than creating a system where they have to check ID’s to sell individual fares.",
+      "sentiment": "neutral",
+      "score": 6,
+      "source": "https://reddit.com/r/Bangkok/comments/1n0lk1i/the_planned_rollout_of_the_highly_anticipated/"
+     }
+    ]
+   }
+  }
+ }
+}

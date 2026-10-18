@@ -1,0 +1,1351 @@
+{
+ "generated": "2026-10-14T01:30:44",
+ "n_samples": 120,
+ "parameters": [
+  "behavioural",
+  "capexMult",
+  "evDisplace",
+  "betaHeatMult",
+  "betaCostMult",
+  "lambdaPt"
+ ],
+ "simulation_seconds": 141.6,
+ "study_cost_usd": {
+  "behavioural": 40000,
+  "betaHeatMult": 40000,
+  "betaCostMult": 60000,
+  "capexMult": 25000,
+  "evDisplace": 30000,
+  "lambdaPt": 80000
+ },
+ "study_cost_label": "consultancy proxy",
+ "budget_usd": 1500000,
+ "candidates": [
+  {
+   "id": "opt_shade_EW26|NS2",
+   "label": "Shaded walkway \u00b7 Lakeside \u2192 Bukit Batok",
+   "capexUsd": 3893758,
+   "netBenefit": {
+    "mean": 11750920.8,
+    "p10": 5613571.9,
+    "p50": 11801649.5,
+    "p90": 18436868.6
+   },
+   "netCO2T": {
+    "mean": -764.8241666666667,
+    "p10": -842.41,
+    "p90": -679.69
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6285,
+     "ST": 0.6479
+    },
+    "capexMult": {
+     "S1": 0.0287,
+     "ST": 0.0283
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0773,
+     "ST": 0.0818
+    },
+    "betaCostMult": {
+     "S1": 0.2481,
+     "ST": 0.2621
+    },
+    "lambdaPt": {
+     "S1": 0.0015,
+     "ST": 0.0014
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 11750920.8,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 1.862645149230957e-09,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $11,750,921 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_shade_20239|28211",
+   "label": "Shaded walkway \u00b7 Aft Hasanah Mque \u2192 Bef Jurong East Stn",
+   "capexUsd": 1574023,
+   "netBenefit": {
+    "mean": 5383123.508333334,
+    "p10": 2726529.6,
+    "p50": 5363469.5,
+    "p90": 8438966.200000001
+   },
+   "netCO2T": {
+    "mean": -294.5525,
+    "p10": -330.61,
+    "p90": -254.14
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6438,
+     "ST": 0.6632
+    },
+    "capexMult": {
+     "S1": 0.0239,
+     "ST": 0.0236
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0629,
+     "ST": 0.0667
+    },
+    "betaCostMult": {
+     "S1": 0.2502,
+     "ST": 0.2645
+    },
+    "lambdaPt": {
+     "S1": 0.0034,
+     "ST": 0.0033
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 5383123.508333334,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $5,383,124 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_shade_40351|43009",
+   "label": "Shaded walkway \u00b7 Bt Batok Int \u2192 Blk 461C",
+   "capexUsd": 1500499,
+   "netBenefit": {
+    "mean": 5905514.95,
+    "p10": 3036566.3000000003,
+    "p50": 5927229.0,
+    "p90": 8890682.600000001
+   },
+   "netCO2T": {
+    "mean": -288.95416666666665,
+    "p10": -320.53,
+    "p90": -254.66
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6309,
+     "ST": 0.6497
+    },
+    "capexMult": {
+     "S1": 0.0202,
+     "ST": 0.0199
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.082,
+     "ST": 0.0865
+    },
+    "betaCostMult": {
+     "S1": 0.2508,
+     "ST": 0.2647
+    },
+    "lambdaPt": {
+     "S1": 0.0003,
+     "ST": 0.0002
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 5905514.95,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $5,905,515 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_shade_21591|28091",
+   "label": "Shaded walkway \u00b7 Opp Blk 117 \u2192 Lakeside Stn",
+   "capexUsd": 1305392,
+   "netBenefit": {
+    "mean": 10892395.25,
+    "p10": 6232149.6,
+    "p50": 10615307.0,
+    "p90": 16343087.7
+   },
+   "netCO2T": {
+    "mean": -169.57666666666665,
+    "p10": -226.01,
+    "p90": -107.08
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6486,
+     "ST": 0.6689
+    },
+    "capexMult": {
+     "S1": 0.0058,
+     "ST": 0.0057
+    },
+    "evDisplace": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0739,
+     "ST": 0.0782
+    },
+    "betaCostMult": {
+     "S1": 0.2498,
+     "ST": 0.2646
+    },
+    "lambdaPt": {
+     "S1": 0.0053,
+     "ST": 0.0054
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 10892395.25,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $10,892,395 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_shade_20231|28301",
+   "label": "Shaded walkway \u00b7 Blk 131 \u2192 Bef Hasanah Mque",
+   "capexUsd": 1677821,
+   "netBenefit": {
+    "mean": 5905942.6,
+    "p10": 3012970.0,
+    "p50": 5875419.0,
+    "p90": 9237682.4
+   },
+   "netCO2T": {
+    "mean": -313.67249999999996,
+    "p10": -352.21,
+    "p90": -270.43
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6443,
+     "ST": 0.6638
+    },
+    "capexMult": {
+     "S1": 0.0229,
+     "ST": 0.0226
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0633,
+     "ST": 0.0671
+    },
+    "betaCostMult": {
+     "S1": 0.2501,
+     "ST": 0.2644
+    },
+    "lambdaPt": {
+     "S1": 0.0034,
+     "ST": 0.0034
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 5905942.6,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "evDisplace",
+    "top_evppi": 9.313225746154785e-10,
+    "study_cost": 30000,
+    "reason": "E[net benefit] $5,905,943 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_cycle_21591|28091",
+   "label": "Protected cycle link \u00b7 Opp Blk 117 \u2192 Lakeside Stn",
+   "capexUsd": 620061,
+   "netBenefit": {
+    "mean": 1477190.8666666667,
+    "p10": 824716.4,
+    "p50": 1411980.5,
+    "p90": 2401583.6
+   },
+   "netCO2T": {
+    "mean": -51.645833333333336,
+    "p10": -65.56,
+    "p90": -36.59
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.648,
+     "ST": 0.6639
+    },
+    "capexMult": {
+     "S1": 0.0413,
+     "ST": 0.0412
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0125,
+     "ST": 0.0146
+    },
+    "betaCostMult": {
+     "S1": 0.2397,
+     "ST": 0.2534
+    },
+    "lambdaPt": {
+     "S1": 0.0415,
+     "ST": 0.0432
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 1477190.8666666667,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $1,477,191 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_cycle_21599|28091",
+   "label": "Protected cycle link \u00b7 Lakeside Stn \u2192 Blk 117",
+   "capexUsd": 628849,
+   "netBenefit": {
+    "mean": 1479527.2083333333,
+    "p10": 821208.6,
+    "p50": 1413567.5,
+    "p90": 2407574.9000000004
+   },
+   "netCO2T": {
+    "mean": -52.75416666666667,
+    "p10": -66.75999999999999,
+    "p90": -37.59
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6476,
+     "ST": 0.6636
+    },
+    "capexMult": {
+     "S1": 0.0419,
+     "ST": 0.0418
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0126,
+     "ST": 0.0147
+    },
+    "betaCostMult": {
+     "S1": 0.2394,
+     "ST": 0.253
+    },
+    "lambdaPt": {
+     "S1": 0.0414,
+     "ST": 0.0432
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 1479527.2083333333,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "capexMult",
+    "top_evppi": 2.3283064365386963e-10,
+    "study_cost": 25000,
+    "reason": "E[net benefit] $1,479,527 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_cycle_40351|43009",
+   "label": "Protected cycle link \u00b7 Bt Batok Int \u2192 Blk 461C",
+   "capexUsd": 712737,
+   "netBenefit": {
+    "mean": 499599.00833333336,
+    "p10": 12815.80000000001,
+    "p50": 462451.0,
+    "p90": 991421.7000000007
+   },
+   "netCO2T": {
+    "mean": -87.97166666666666,
+    "p10": -95.36,
+    "p90": -80.1
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6027,
+     "ST": 0.617
+    },
+    "capexMult": {
+     "S1": 0.1265,
+     "ST": 0.1263
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0113,
+     "ST": 0.0132
+    },
+    "betaCostMult": {
+     "S1": 0.2089,
+     "ST": 0.2208
+    },
+    "lambdaPt": {
+     "S1": 0.0356,
+     "ST": 0.0371
+    }
+   },
+   "evpi_binary": 10308.641666666663,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 499599.00833333336,
+    "p_net_loss": 0.1,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $499,599 and only 10% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_cycle_28091|28511",
+   "label": "Protected cycle link \u00b7 Blk 463 \u2192 Lakeside Stn",
+   "capexUsd": 464646,
+   "netBenefit": {
+    "mean": 527825.2833333333,
+    "p10": 154267.9,
+    "p50": 487274.0,
+    "p90": 945865.8000000005
+   },
+   "netCO2T": {
+    "mean": -53.01833333333334,
+    "p10": -59.07,
+    "p90": -46.49
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6151,
+     "ST": 0.6305
+    },
+    "capexMult": {
+     "S1": 0.0887,
+     "ST": 0.0886
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0117,
+     "ST": 0.0137
+    },
+    "betaCostMult": {
+     "S1": 0.2303,
+     "ST": 0.2435
+    },
+    "lambdaPt": {
+     "S1": 0.0377,
+     "ST": 0.0394
+    }
+   },
+   "evpi_binary": 1393.141666666721,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 527825.2833333333,
+    "p_net_loss": 0.025,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $527,825 and only 2% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_cycle_40301|43009",
+   "label": "Protected cycle link \u00b7 Bt Batok Int \u2192 Blk 451A",
+   "capexUsd": 560797,
+   "netBenefit": {
+    "mean": 722183.1583333333,
+    "p10": 257190.1,
+    "p50": 674603.0,
+    "p90": 1266530.5000000007
+   },
+   "netCO2T": {
+    "mean": -63.47166666666667,
+    "p10": -71.07,
+    "p90": -55.4
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.6377,
+     "ST": 0.6528
+    },
+    "capexMult": {
+     "S1": 0.0793,
+     "ST": 0.0792
+    },
+    "evDisplace": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": 0.0114,
+     "ST": 0.0133
+    },
+    "betaCostMult": {
+     "S1": 0.2184,
+     "ST": 0.2311
+    },
+    "lambdaPt": {
+     "S1": 0.0372,
+     "ST": 0.0388
+    }
+   },
+   "evpi_binary": 593.6333333333023,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 722183.1583333333,
+    "p_net_loss": 0.025,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $722,183 and only 2% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_mod_ev_ev_jurong_east_01",
+   "label": "EV hub \u00b7 Bt Batok Int",
+   "capexUsd": 354000,
+   "netBenefit": {
+    "mean": -142935.16666666666,
+    "p10": -250068.4,
+    "p50": -137342.0,
+    "p90": -40753.19999999994
+   },
+   "netCO2T": {
+    "mean": 623.6216666666667,
+    "p10": 295.23,
+    "p90": 954.7000000000002
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "capexMult": {
+     "S1": 0.9856,
+     "ST": 0.9856
+    },
+    "evDisplace": {
+     "S1": 0.0144,
+     "ST": 0.0144
+    },
+    "betaHeatMult": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaCostMult": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "lambdaPt": {
+     "S1": 0.0,
+     "ST": 0.0
+    }
+   },
+   "evpi_binary": 28.666666666666668,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "DEFER",
+    "expected_net_benefit": -142935.16666666666,
+    "p_net_loss": 0.9916666666666667,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $-142,935, 99% chance of loss, and no study pays for itself."
+   }
+  },
+  {
+   "id": "opt_mod_ev_ev_jurong_east_02",
+   "label": "EV hub \u00b7 Bef Jurong East Stn",
+   "capexUsd": 228000,
+   "netBenefit": {
+    "mean": 38474.75833333333,
+    "p10": -31551.8,
+    "p50": 42532.5,
+    "p90": 104330.70000000003
+   },
+   "netCO2T": {
+    "mean": 689.9599999999999,
+    "p10": 451.34,
+    "p90": 930.53
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "capexMult": {
+     "S1": 0.9818,
+     "ST": 0.9818
+    },
+    "evDisplace": {
+     "S1": 0.0182,
+     "ST": 0.0182
+    },
+    "betaHeatMult": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaCostMult": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "lambdaPt": {
+     "S1": -0.0,
+     "ST": 0.0
+    }
+   },
+   "evpi_binary": 6828.2249999999985,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 6585.12,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "DEFER",
+    "expected_net_benefit": 38474.75833333333,
+    "p_net_loss": 0.2916666666666667,
+    "top_uncertainty": "capexMult",
+    "top_evppi": 6585.125,
+    "study_cost": 25000,
+    "reason": "E[net benefit] $38,475, 29% chance of loss, and no study pays for itself."
+   }
+  },
+  {
+   "id": "opt_mod_ev_ev_jurong_east_03",
+   "label": "EV hub \u00b7 Lakeside Stn",
+   "capexUsd": 312000,
+   "netBenefit": {
+    "mean": -133722.14166666666,
+    "p10": -227835.2,
+    "p50": -128785.5,
+    "p90": -43688.199999999946
+   },
+   "netCO2T": {
+    "mean": 534.5275,
+    "p10": 253.04,
+    "p90": 818.2600000000001
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "capexMult": {
+     "S1": 0.9864,
+     "ST": 0.9864
+    },
+    "evDisplace": {
+     "S1": 0.0136,
+     "ST": 0.0136
+    },
+    "betaHeatMult": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "betaCostMult": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "lambdaPt": {
+     "S1": 0.0,
+     "ST": 0.0
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "DEFER",
+    "expected_net_benefit": -133722.14166666666,
+    "p_net_loss": 1.0,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 0.0,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $-133,722, 100% chance of loss, and no study pays for itself."
+   }
+  },
+  {
+   "id": "opt_mod_ev_ev_jurong_east_04",
+   "label": "EV hub \u00b7 Blk 286A",
+   "capexUsd": 186000,
+   "netBenefit": {
+    "mean": 46650.933333333334,
+    "p10": -9887.199999999999,
+    "p50": 49591.0,
+    "p90": 100345.20000000003
+   },
+   "netCO2T": {
+    "mean": 573.8391666666668,
+    "p10": 394.88,
+    "p90": 754.2500000000001
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "capexMult": {
+     "S1": 0.9845,
+     "ST": 0.9845
+    },
+    "evDisplace": {
+     "S1": 0.0155,
+     "ST": 0.0155
+    },
+    "betaHeatMult": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "betaCostMult": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "lambdaPt": {
+     "S1": 0.0,
+     "ST": 0.0
+    }
+   },
+   "evpi_binary": 2016.074999999997,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 1968.55,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 46650.933333333334,
+    "p_net_loss": 0.18333333333333332,
+    "top_uncertainty": "capexMult",
+    "top_evppi": 1968.5500000000102,
+    "study_cost": 25000,
+    "reason": "E[net benefit] $46,651 and only 18% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_bus_21591|28091",
+   "label": "Bus priority \u00b7 Opp Blk 117 \u2192 Lakeside Stn",
+   "capexUsd": 150000,
+   "netBenefit": {
+    "mean": 4920788.841666667,
+    "p10": 2664825.2,
+    "p50": 4711228.5,
+    "p90": 7386051.400000001
+   },
+   "netCO2T": {
+    "mean": 16.2375,
+    "p10": 1.6700000000000002,
+    "p90": 28.92
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.5785,
+     "ST": 0.5988
+    },
+    "capexMult": {
+     "S1": 0.0004,
+     "ST": 0.0004
+    },
+    "evDisplace": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": -0.0001,
+     "ST": 0.0
+    },
+    "betaCostMult": {
+     "S1": 0.2514,
+     "ST": 0.268
+    },
+    "lambdaPt": {
+     "S1": 0.1398,
+     "ST": 0.1518
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 4920788.841666667,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "behavioural",
+    "top_evppi": 9.313225746154785e-10,
+    "study_cost": 40000,
+    "reason": "E[net benefit] $4,920,789 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_bus_21599|28091",
+   "label": "Bus priority \u00b7 Lakeside Stn \u2192 Blk 117",
+   "capexUsd": 150000,
+   "netBenefit": {
+    "mean": 4952854.5,
+    "p10": 2682758.9,
+    "p50": 4742084.5,
+    "p90": 7433318.500000001
+   },
+   "netCO2T": {
+    "mean": 16.324166666666667,
+    "p10": 1.6700000000000002,
+    "p90": 29.120000000000005
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": 0.5784,
+     "ST": 0.5987
+    },
+    "capexMult": {
+     "S1": 0.0004,
+     "ST": 0.0004
+    },
+    "evDisplace": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": -0.0001,
+     "ST": 0.0
+    },
+    "betaCostMult": {
+     "S1": 0.2514,
+     "ST": 0.2679
+    },
+    "lambdaPt": {
+     "S1": 0.1399,
+     "ST": 0.1518
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 4952854.5,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "lambdaPt",
+    "top_evppi": 9.313225746154785e-10,
+    "study_cost": 80000,
+    "reason": "E[net benefit] $4,952,854 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_solar_EW26",
+   "label": "Solar canopy \u00b7 Lakeside",
+   "capexUsd": 74700,
+   "netBenefit": {
+    "mean": 58762.458333333336,
+    "p10": 36385.5,
+    "p50": 58591.5,
+    "p90": 80971.0
+   },
+   "netCO2T": {
+    "mean": 225.5,
+    "p10": 225.5,
+    "p90": 225.5
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "capexMult": {
+     "S1": 1.0,
+     "ST": 1.0
+    },
+    "evDisplace": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaCostMult": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "lambdaPt": {
+     "S1": 0.0,
+     "ST": 0.0
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 58762.458333333336,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "evDisplace",
+    "top_evppi": 7.275957614183426e-12,
+    "study_cost": 30000,
+    "reason": "E[net benefit] $58,762 and only 0% chance of a net loss."
+   }
+  },
+  {
+   "id": "opt_solar_NS2",
+   "label": "Solar canopy \u00b7 Bukit Batok",
+   "capexUsd": 74700,
+   "netBenefit": {
+    "mean": 58762.458333333336,
+    "p10": 36385.5,
+    "p50": 58591.5,
+    "p90": 80971.0
+   },
+   "netCO2T": {
+    "mean": 225.5,
+    "p10": 225.5,
+    "p90": 225.5
+   },
+   "surrogate_cv_r2": 1.0,
+   "sobol": {
+    "behavioural": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "capexMult": {
+     "S1": 1.0,
+     "ST": 1.0
+    },
+    "evDisplace": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "betaHeatMult": {
+     "S1": -0.0,
+     "ST": 0.0
+    },
+    "betaCostMult": {
+     "S1": 0.0,
+     "ST": 0.0
+    },
+    "lambdaPt": {
+     "S1": 0.0,
+     "ST": 0.0
+    }
+   },
+   "evpi_binary": 0.0,
+   "evppi": {
+    "behavioural": 0.0,
+    "capexMult": 0.0,
+    "evDisplace": 0.0,
+    "betaHeatMult": 0.0,
+    "betaCostMult": 0.0,
+    "lambdaPt": 0.0
+   },
+   "gate": {
+    "verdict": "FUND",
+    "expected_net_benefit": 58762.458333333336,
+    "p_net_loss": 0.0,
+    "top_uncertainty": "evDisplace",
+    "top_evppi": 7.275957614183426e-12,
+    "study_cost": 30000,
+    "reason": "E[net benefit] $58,762 and only 0% chance of a net loss."
+   }
+  }
+ ],
+ "evpi_all_options_usd": 185377.73333333246,
+ "evppi_all_options_usd": {
+  "behavioural": 102657.17500000075,
+  "capexMult": 0.0,
+  "evDisplace": 6417.39999999851,
+  "betaHeatMult": 23179.53333333321,
+  "betaCostMult": 25075.233333332464,
+  "lambdaPt": 0.0
+ },
+ "portfolios": {
+  "w=0.0": {
+   "selected": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "expected_net_benefit": 15845249.75,
+   "cvar": 8002274.833333333,
+   "p_net_loss": 0.0,
+   "capex": 1455392.0,
+   "ids": [
+    "opt_shade_21591|28091",
+    "opt_bus_21599|28091"
+   ],
+   "joint_check": {
+    "joint_mean": 16124988.45,
+    "additive_mean": 16177881.55,
+    "interaction_pct": -0.32694700994396564
+   }
+  },
+  "w=0.5": {
+   "selected": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "expected_net_benefit": 15845249.75,
+   "cvar": 8002274.833333333,
+   "p_net_loss": 0.0,
+   "capex": 1455392.0,
+   "ids": [
+    "opt_shade_21591|28091",
+    "opt_bus_21599|28091"
+   ],
+   "joint_check": {
+    "joint_mean": 16124988.45,
+    "additive_mean": 16177881.55,
+    "interaction_pct": -0.32694700994396564
+   }
+  },
+  "w=0.9": {
+   "selected": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "expected_net_benefit": 15845249.75,
+   "cvar": 8002274.833333333,
+   "p_net_loss": 0.0,
+   "capex": 1455392.0,
+   "ids": [
+    "opt_shade_21591|28091",
+    "opt_bus_21599|28091"
+   ],
+   "joint_check": {
+    "joint_mean": 16124988.45,
+    "additive_mean": 16177881.55,
+    "interaction_pct": -0.32694700994396564
+   }
+  }
+ },
+ "pathway_regret": {
+  "pathways": [
+   "target_achieved",
+   "delayed",
+   "accelerated",
+   "frozen"
+  ],
+  "nb_by_pathway": [
+   [
+    11278276.0,
+    5171765.0,
+    5701648.0,
+    10542771.0,
+    5673797.0,
+    1445814.0,
+    1448195.0,
+    476853.0,
+    508023.0,
+    699178.0,
+    -142884.0,
+    38508.0,
+    -133685.0,
+    46682.0,
+    4796950.0,
+    4828291.0,
+    58774.0,
+    58774.0
+   ],
+   [
+    10985798.0,
+    5036788.0,
+    5575665.0,
+    10349693.0,
+    5527404.0,
+    1268368.0,
+    1269446.0,
+    349300.0,
+    409141.0,
+    565232.0,
+    -138119.0,
+    43108.0,
+    -129587.0,
+    50465.0,
+    4821724.0,
+    4853217.0,
+    60126.0,
+    60126.0
+   ],
+   [
+    11556012.0,
+    5299890.0,
+    5822440.0,
+    10727936.0,
+    5812744.0,
+    1431510.0,
+    1433816.0,
+    519280.0,
+    550673.0,
+    742661.0,
+    -145798.0,
+    35381.0,
+    -136175.0,
+    44071.0,
+    4773189.0,
+    4804385.0,
+    57728.0,
+    57728.0
+   ],
+   [
+    10690513.0,
+    4900370.0,
+    5450639.0,
+    10159362.0,
+    5379495.0,
+    1004709.0,
+    1004054.0,
+    180890.0,
+    278767.0,
+    394648.0,
+    -133595.0,
+    46812.0,
+    -125719.0,
+    53451.0,
+    4846205.0,
+    4877837.0,
+    60938.0,
+    60938.0
+   ]
+  ],
+  "minimax_choice": "opt_shade_EW26|NS2",
+  "max_regret_by_option": {
+   "opt_shade_EW26|NS2": 0.0,
+   "opt_shade_20239|28211": 6256122.0,
+   "opt_shade_40351|43009": 5733572.0,
+   "opt_shade_21591|28091": 828076.0,
+   "opt_shade_20231|28301": 5743268.0,
+   "opt_cycle_21591|28091": 10124502.0,
+   "opt_cycle_21599|28091": 10122196.0,
+   "opt_cycle_40351|43009": 11036732.0,
+   "opt_cycle_28091|28511": 11005339.0,
+   "opt_cycle_40301|43009": 10813351.0,
+   "opt_mod_ev_ev_jurong_east_01": 11701810.0,
+   "opt_mod_ev_ev_jurong_east_02": 11520631.0,
+   "opt_mod_ev_ev_jurong_east_03": 11692187.0,
+   "opt_mod_ev_ev_jurong_east_04": 11511941.0,
+   "opt_bus_21591|28091": 6782823.0,
+   "opt_bus_21599|28091": 6751627.0,
+   "opt_solar_EW26": 11498284.0,
+   "opt_solar_NS2": 11498284.0,
+   "do_nothing": 11556012.0
+  }
+ }
+}

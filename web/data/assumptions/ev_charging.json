@@ -1,0 +1,10 @@
+{
+  "_note": "EV charging economics for HELIO Flow. The displacement assumption is honestly labelled speculative: charged kWh are assumed to enable EV-km that replace ICE car-km in the district.",
+  "ev_kwh_per_km": { "value": 0.16, "label": "measured", "source": "LTA EV Guide 2024: 16 kWh/100km official SG car average; cross-checked vs Thai real-world urban BEV 0.160 kWh/km (Achariyaviriya 2023, 26-31°C, A/C on)" },
+  "utilization": { "value": 0.2, "label": "measured", "source": "MOT parliamentary reply 7 May 2026: ~20% avg utilisation at HDB carparks (9% JTC-managed). Directly matches this model's 20%." },
+  "kwh_per_kw_year": { "value": 1752, "label": "measured", "source": "1 kW x 8,760 h x 20% utilisation (MOT-verified HDB rate)" },
+  "displacement": { "value": 0.5, "label": "speculative", "source": "Fraction of charged kWh that enable EV-km actually REPLACING ICE car-km (vs charging that would have happened elsewhere). Base 50%; see displacement_scenarios." },
+  "displacement_scenarios": { "conservative": 0.2, "base": 0.5, "aggressive": 0.8, "label": "speculative", "source": "Additionality is NOT directly measured in SG (deep-research 2026) — scenario band, not a forecast. Upper case anchored to EU proxy: home-charging-less urban EV owners draw ~70% of energy from public overnight charging (ACEA/McKinsey). At conservative, report as 'EV-km enabled potential'." },
+  "solar_paired_ci_factor": { "value": 0.7, "label": "calibrated proxy", "source": "Solar-first charging shifts sessions into the midday solar window (IEA PVPS T17-02 dispatch priority)" },
+  "charger_capex_per_port_usd": { "value": 5000, "label": "calibrated proxy", "source": "22 kW AC public charger installed cost" }
+}

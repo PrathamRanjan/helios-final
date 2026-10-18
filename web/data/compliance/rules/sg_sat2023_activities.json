@@ -1,0 +1,273 @@
+{
+  "id": "sg.sat2023.activities",
+  "title": "Singapore-Asia Taxonomy (2023) — Green / Amber / Ineligible for HELIOS activities",
+  "instrument": "Singapore-Asia Taxonomy for Sustainable Finance, 2023 Edition",
+  "jurisdiction": "SG",
+  "category": "taxonomy",
+  "kind": "taxonomy_class",
+  "status": "in_force",
+  "effective_from": "2023-12-03",
+  "effective_to": null,
+  "applies_to": {
+    "asset": [
+      "activity"
+    ]
+  },
+  "citation": {
+    "source": "mas_sat_2023",
+    "clause": "Technical screening criteria: Energy 1.1; Transport 2.2, 2.3, low-carbon transport infrastructure; Real Estate 3.1–3.4",
+    "pages": [
+      18,
+      24,
+      25,
+      30,
+      31
+    ],
+    "quote": "All energy generation activities from solar PV and solar CSP are directly eligible"
+  },
+  "activities": {
+    "solar_pv": {
+      "label": "Electricity generation using solar PV (TSC 1.1)",
+      "page": 18,
+      "green": [
+        {
+          "always": true,
+          "why": "All solar PV generation is directly eligible"
+        }
+      ]
+    },
+    "ev_charging": {
+      "label": "EV charging solutions — low-carbon transport infrastructure",
+      "page": 25,
+      "green": [
+        {
+          "always": true,
+          "why": "EV charging points, swap stations and grid upgrades for EV charging are listed infrastructure"
+        }
+      ]
+    },
+    "active_mobility_infra": {
+      "label": "Pavements, bike lanes, pedestrian zones, active-mobility parking",
+      "page": 25,
+      "green": [
+        {
+          "always": true,
+          "why": "Listed personal-mobility infrastructure"
+        }
+      ]
+    },
+    "transit_interchange": {
+      "label": "Facilities for transfer of passengers to rail",
+      "page": 25,
+      "green": [
+        {
+          "always": true,
+          "why": "Listed rail-transfer infrastructure"
+        }
+      ]
+    },
+    "passenger_vehicle": {
+      "label": "Passenger cars / taxis (TSC 2.2)",
+      "page": 24,
+      "green": [
+        {
+          "fact": "tailpipe_co2_g_km",
+          "test": "==",
+          "value": 0,
+          "why": "Direct (tailpipe) CO₂ of the vehicle is zero"
+        }
+      ],
+      "amber_note": "No Amber category for new vehicles"
+    },
+    "bus_service": {
+      "label": "Urban/suburban passenger road transport (TSC 2.3)",
+      "page": 24,
+      "green": [
+        {
+          "fact": "tailpipe_co2_g_km",
+          "test": "==",
+          "value": 0,
+          "why": "Urban/suburban passenger transport with zero direct tailpipe CO₂"
+        }
+      ]
+    },
+    "building_new": {
+      "label": "Construction of new buildings (TSC 3.1)",
+      "page": 30,
+      "green": [
+        {
+          "fact": "green_mark_valid",
+          "test": "is_true",
+          "why": "Prevailing Green Mark certification (any level); certificate validity max 5 years"
+        }
+      ],
+      "amber_note": "No Amber — new buildings must meet Green"
+    },
+    "building_renovation": {
+      "label": "Renovation of existing buildings (TSC 3.3)",
+      "page": 31,
+      "green": [
+        {
+          "fact": "green_mark_valid",
+          "test": "is_true",
+          "why": "Renovation reaches the prevailing Green Mark certification"
+        }
+      ],
+      "amber": [
+        {
+          "fact": "energy_reduction",
+          "test": ">=",
+          "value": 0.3,
+          "why": "≥30% reduction in energy or emissions",
+          "sunset": "2030-12-31"
+        }
+      ]
+    },
+    "building_ownership": {
+      "label": "Acquisition or ownership of buildings (TSC 3.4)",
+      "page": 31,
+      "green": [
+        {
+          "fact": "green_mark_valid",
+          "test": "is_true",
+          "why": "Prevailing Green Mark certification"
+        },
+        {
+          "fact": "stock_percentile",
+          "test": "<=",
+          "value": 0.15,
+          "why": "Top 15% of national stock by energy use"
+        }
+      ],
+      "amber": [
+        {
+          "fact": "stock_percentile",
+          "test": "<=",
+          "value": 0.25,
+          "why": "Top 25% of national stock",
+          "sunset": "2030-12-31"
+        }
+      ]
+    }
+  },
+  "notes": [
+    "Do-No-Significant-Harm and minimum social safeguards also apply and are not assessed here.",
+    "stock_percentile: lower = better; HELIOS computes it within BCA's published EUI listing for the same building type (calibrated proxy for BCA's Building Energy Benchmarking Report)."
+  ],
+  "examples": [
+    {
+      "name": "Solar always green",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "solar_pv"
+      },
+      "expect": {
+        "tier": "Green"
+      }
+    },
+    {
+      "name": "Cycle lane green",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "active_mobility_infra"
+      },
+      "expect": {
+        "tier": "Green"
+      }
+    },
+    {
+      "name": "EV car green",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "passenger_vehicle",
+        "tailpipe_co2_g_km": 0
+      },
+      "expect": {
+        "tier": "Green"
+      }
+    },
+    {
+      "name": "Hybrid car ineligible",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "passenger_vehicle",
+        "tailpipe_co2_g_km": 95
+      },
+      "expect": {
+        "tier": "Ineligible"
+      }
+    },
+    {
+      "name": "Renovation 35% amber before sunset",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "building_renovation",
+        "green_mark_valid": false,
+        "energy_reduction": 0.35
+      },
+      "expect": {
+        "tier": "Amber"
+      }
+    },
+    {
+      "name": "Renovation 35% after sunset",
+      "asOf": "2031-06-01",
+      "facts": {
+        "activity": "building_renovation",
+        "green_mark_valid": false,
+        "energy_reduction": 0.35
+      },
+      "expect": {
+        "tier": "Ineligible"
+      }
+    },
+    {
+      "name": "Owned top-20% building amber",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "building_ownership",
+        "green_mark_valid": false,
+        "stock_percentile": 0.2
+      },
+      "expect": {
+        "tier": "Amber"
+      }
+    },
+    {
+      "name": "Owned certified building green",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "building_ownership",
+        "green_mark_valid": true
+      },
+      "expect": {
+        "tier": "Green"
+      }
+    },
+    {
+      "name": "New building needs cert info",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "building_new"
+      },
+      "expect": {
+        "outcome": "needs_info"
+      }
+    },
+    {
+      "name": "Unknown activity",
+      "asOf": "2026-10-16",
+      "facts": {
+        "activity": "steel_mill"
+      },
+      "expect": {
+        "outcome": "not_applicable"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "verified_primary",
+    "reviewed_by": "claude (extracted) — pending human sign-off",
+    "reviewed_at": "2026-10-16"
+  }
+}

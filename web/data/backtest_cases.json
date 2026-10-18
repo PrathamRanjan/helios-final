@@ -1,0 +1,42 @@
+{
+  "_note": "Back-test cases: each applies a real intervention type to a representative Jurong East corridor, runs it through the LIVE HELIO engine, and compares the modelled response to a MEASURED corridor/site-level outcome from a real built project. IMPORTANT SCOPE: measured values are corridor/site field measurements; HELIO models a whole-district elasticity, so its numbers are expected to be smaller (under-claim by design). The test is directional (does HELIO move the right way?) + posture (is it conservative vs field results?). Sources in data/comparable_projects.json.",
+  "corridor": [[103.742, 1.333], [103.746, 1.335]],
+  "cases": [
+    {
+      "id": "cycle_amk",
+      "project": "Ang Mo Kio Walking & Cycling Town (+ protected-lane literature)",
+      "city": "Singapore",
+      "years": "2016→2019",
+      "caps": ["allows_cycling", "faster_cycle"],
+      "mode": "cycle",
+      "measuredLoPct": 25,
+      "measuredHiPct": 52,
+      "metric": "cycling activity on treated corridor",
+      "source": "LTA Ang Mo Kio (>30% measured); Nature Cities 2025 protected-lane range"
+    },
+    {
+      "id": "bus_transjakarta",
+      "project": "TransJakarta BRT — frequency & direct routing",
+      "city": "Jakarta",
+      "years": "2016→2020",
+      "caps": ["better_bus"],
+      "mode": "bus",
+      "measuredLoPct": 9,
+      "measuredHiPct": 27,
+      "metric": "bus ridership on affected routes",
+      "source": "Kreindler et al., NBER WP 31369 (2024): +9% frequency, +16–27% direct"
+    },
+    {
+      "id": "pedestrianisation_orchard",
+      "project": "Orchard Road Pedestrian Night (car restriction → active use)",
+      "city": "Singapore",
+      "years": "2014→2015",
+      "caps": ["restricts_cars", "adds_shade"],
+      "mode": "walk",
+      "measuredLoPct": 50,
+      "measuredHiPct": 100,
+      "metric": "footfall / active use on treated corridor",
+      "source": "ORBA/STB: ~25k→>50k Saturday-night footfall (~2×)"
+    }
+  ]
+}

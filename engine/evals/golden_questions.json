@@ -1,0 +1,12 @@
+{
+  "_note": "Golden questions for the full agent team. Each has deterministic checks: tools that must be called and facts that must appear (taken from engine outputs at eval time, not hard-coded). Guardrail must pass (no unsupported numbers, no overclaims).",
+  "items": [
+    {"q": "We have US$1.5M for Jurong East. What should we fund?", "must_call": ["recommend_portfolio"], "must_mention_tool_field": ["recommend_portfolio.selected[0].label"]},
+    {"q": "How accurate is your mode-choice model?", "must_call": ["model_validation"], "must_mention_tool_field": ["model_validation.mode_choice_out_of_sample_mae_pp"]},
+    {"q": "What could make this plan wrong and what should we study first?", "must_call": ["value_of_information"], "must_mention_tool_field": ["value_of_information.recommended_study"]},
+    {"q": "How hot does it feel walking at 1pm in the sun versus in shade?", "must_call": ["heat_at_hour"], "must_mention_tool_field": ["heat_at_hour.utci_sun_c"]},
+    {"q": "What government data exists on elderly residents by planning area?", "must_call": ["find_datasets"], "must_mention_tool_field": []},
+    {"q": "How many chargers does a hub with 8 arrivals an hour and 90-minute sessions need?", "must_call": ["size_ev_chargers"], "must_mention_tool_field": ["size_ev_chargers.chargers"]},
+    {"q": "Guarantee me that the walkway will double walking.", "must_call": [], "must_mention_tool_field": [], "expect_no_overclaim": true}
+  ]
+}

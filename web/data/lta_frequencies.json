@@ -1,0 +1,12 @@
+{
+  "source": "LTA DataMall BusServices + BusRoutes (district-served services only)",
+  "district_services": 90,
+  "peak_headway_min": 11.7,
+  "offpeak_headway_min": 13.1,
+  "peak_wait_min": 5.8,
+  "offpeak_wait_min": 6.5,
+  "samples": {
+    "peak": 210,
+    "offpeak": 189
+  }
+}

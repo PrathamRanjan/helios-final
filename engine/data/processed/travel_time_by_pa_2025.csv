@@ -1,0 +1,187 @@
+row_no,row,level,col,value,uom
+1,Total,1,Total,2274700.0,Number
+1,Total,1,Up to 15 mins,319700.0,Number
+1,Total,1,16 - 30 mins,681800.0,Number
+1,Total,1,31 - 45 mins,488100.0,Number
+1,Total,1,46 - 60 mins,530200.0,Number
+1,Total,1,More than 60 mins,255000.0,Number
+1.1,Ang Mo Kio,2,Total,82100.0,Number
+1.1,Ang Mo Kio,2,Up to 15 mins,8900.0,Number
+1.1,Ang Mo Kio,2,16 - 30 mins,24700.0,Number
+1.1,Ang Mo Kio,2,31 - 45 mins,25300.0,Number
+1.1,Ang Mo Kio,2,46 - 60 mins,18600.0,Number
+1.1,Ang Mo Kio,2,More than 60 mins,4600.0,Number
+1.2,Bedok,2,Total,136400.0,Number
+1.2,Bedok,2,Up to 15 mins,18900.0,Number
+1.2,Bedok,2,16 - 30 mins,47700.0,Number
+1.2,Bedok,2,31 - 45 mins,33500.0,Number
+1.2,Bedok,2,46 - 60 mins,26200.0,Number
+1.2,Bedok,2,More than 60 mins,10000.0,Number
+1.3,Bishan,2,Total,42400.0,Number
+1.3,Bishan,2,Up to 15 mins,4900.0,Number
+1.3,Bishan,2,16 - 30 mins,16200.0,Number
+1.3,Bishan,2,31 - 45 mins,12900.0,Number
+1.3,Bishan,2,46 - 60 mins,6500.0,Number
+1.3,Bishan,2,More than 60 mins,1900.0,Number
+1.4,Bukit Batok,2,Total,96900.0,Number
+1.4,Bukit Batok,2,Up to 15 mins,12100.0,Number
+1.4,Bukit Batok,2,16 - 30 mins,26500.0,Number
+1.4,Bukit Batok,2,31 - 45 mins,22500.0,Number
+1.4,Bukit Batok,2,46 - 60 mins,26700.0,Number
+1.4,Bukit Batok,2,More than 60 mins,9100.0,Number
+1.5,Bukit Merah,2,Total,69200.0,Number
+1.5,Bukit Merah,2,Up to 15 mins,14100.0,Number
+1.5,Bukit Merah,2,16 - 30 mins,30900.0,Number
+1.5,Bukit Merah,2,31 - 45 mins,11200.0,Number
+1.5,Bukit Merah,2,46 - 60 mins,9000.0,Number
+1.5,Bukit Merah,2,More than 60 mins,3900.0,Number
+1.6,Bukit Panjang,2,Total,77800.0,Number
+1.6,Bukit Panjang,2,Up to 15 mins,7300.0,Number
+1.6,Bukit Panjang,2,16 - 30 mins,19800.0,Number
+1.6,Bukit Panjang,2,31 - 45 mins,15700.0,Number
+1.6,Bukit Panjang,2,46 - 60 mins,24400.0,Number
+1.6,Bukit Panjang,2,More than 60 mins,10600.0,Number
+1.7,Bukit Timah,2,Total,35700.0,Number
+1.7,Bukit Timah,2,Up to 15 mins,4600.0,Number
+1.7,Bukit Timah,2,16 - 30 mins,17200.0,Number
+1.7,Bukit Timah,2,31 - 45 mins,8700.0,Number
+1.7,Bukit Timah,2,46 - 60 mins,3900.0,Number
+1.7,Bukit Timah,2,More than 60 mins,1300.0,Number
+1.8,Choa Chu Kang,2,Total,107000.0,Number
+1.8,Choa Chu Kang,2,Up to 15 mins,10700.0,Number
+1.8,Choa Chu Kang,2,16 - 30 mins,27300.0,Number
+1.8,Choa Chu Kang,2,31 - 45 mins,19000.0,Number
+1.8,Choa Chu Kang,2,46 - 60 mins,34100.0,Number
+1.8,Choa Chu Kang,2,More than 60 mins,15900.0,Number
+1.9,Clementi,2,Total,55500.0,Number
+1.9,Clementi,2,Up to 15 mins,8600.0,Number
+1.9,Clementi,2,16 - 30 mins,20700.0,Number
+1.9,Clementi,2,31 - 45 mins,12800.0,Number
+1.9,Clementi,2,46 - 60 mins,9900.0,Number
+1.9,Clementi,2,More than 60 mins,3500.0,Number
+1.10,Geylang,2,Total,67900.0,Number
+1.10,Geylang,2,Up to 15 mins,11500.0,Number
+1.10,Geylang,2,16 - 30 mins,28100.0,Number
+1.10,Geylang,2,31 - 45 mins,15000.0,Number
+1.10,Geylang,2,46 - 60 mins,9700.0,Number
+1.10,Geylang,2,More than 60 mins,3600.0,Number
+1.11,Hougang,2,Total,123300.0,Number
+1.11,Hougang,2,Up to 15 mins,15200.0,Number
+1.11,Hougang,2,16 - 30 mins,35700.0,Number
+1.11,Hougang,2,31 - 45 mins,29200.0,Number
+1.11,Hougang,2,46 - 60 mins,31800.0,Number
+1.11,Hougang,2,More than 60 mins,11400.0,Number
+1.12,Jurong East,2,Total,41000.0,Number
+1.12,Jurong East,2,Up to 15 mins,6500.0,Number
+1.12,Jurong East,2,16 - 30 mins,11600.0,Number
+1.12,Jurong East,2,31 - 45 mins,8000.0,Number
+1.12,Jurong East,2,46 - 60 mins,9800.0,Number
+1.12,Jurong East,2,More than 60 mins,5100.0,Number
+1.13,Jurong West,2,Total,148200.0,Number
+1.13,Jurong West,2,Up to 15 mins,20600.0,Number
+1.13,Jurong West,2,16 - 30 mins,39800.0,Number
+1.13,Jurong West,2,31 - 45 mins,28000.0,Number
+1.13,Jurong West,2,46 - 60 mins,35700.0,Number
+1.13,Jurong West,2,More than 60 mins,24100.0,Number
+1.14,Kallang,2,Total,54400.0,Number
+1.14,Kallang,2,Up to 15 mins,11100.0,Number
+1.14,Kallang,2,16 - 30 mins,23500.0,Number
+1.14,Kallang,2,31 - 45 mins,9800.0,Number
+1.14,Kallang,2,46 - 60 mins,7500.0,Number
+1.14,Kallang,2,More than 60 mins,2500.0,Number
+1.15,Marine Parade,2,Total,23100.0,Number
+1.15,Marine Parade,2,Up to 15 mins,3600.0,Number
+1.15,Marine Parade,2,16 - 30 mins,9400.0,Number
+1.15,Marine Parade,2,31 - 45 mins,4800.0,Number
+1.15,Marine Parade,2,46 - 60 mins,4000.0,Number
+1.15,Marine Parade,2,More than 60 mins,1200.0,Number
+1.16,Novena,2,Total,27000.0,Number
+1.16,Novena,2,Up to 15 mins,6000.0,Number
+1.16,Novena,2,16 - 30 mins,11800.0,Number
+1.16,Novena,2,31 - 45 mins,4200.0,Number
+1.16,Novena,2,46 - 60 mins,3700.0,Number
+1.16,Novena,2,More than 60 mins,1300.0,Number
+1.17,Outram,2,Total,6300.0,Number
+1.17,Outram,2,Up to 15 mins,1500.0,Number
+1.17,Outram,2,16 - 30 mins,2400.0,Number
+1.17,Outram,2,31 - 45 mins,1500.0,Number
+1.17,Outram,2,46 - 60 mins,500.0,Number
+1.17,Outram,2,More than 60 mins,300.0,Number
+1.18,Pasir Ris,2,Total,78800.0,Number
+1.18,Pasir Ris,2,Up to 15 mins,10300.0,Number
+1.18,Pasir Ris,2,16 - 30 mins,24100.0,Number
+1.18,Pasir Ris,2,31 - 45 mins,16800.0,Number
+1.18,Pasir Ris,2,46 - 60 mins,17100.0,Number
+1.18,Pasir Ris,2,More than 60 mins,10500.0,Number
+1.19,Punggol,2,Total,114800.0,Number
+1.19,Punggol,2,Up to 15 mins,11700.0,Number
+1.19,Punggol,2,16 - 30 mins,23600.0,Number
+1.19,Punggol,2,31 - 45 mins,27900.0,Number
+1.19,Punggol,2,46 - 60 mins,35800.0,Number
+1.19,Punggol,2,More than 60 mins,15800.0,Number
+1.20,Queenstown,2,Total,56500.0,Number
+1.20,Queenstown,2,Up to 15 mins,9700.0,Number
+1.20,Queenstown,2,16 - 30 mins,22700.0,Number
+1.20,Queenstown,2,31 - 45 mins,12100.0,Number
+1.20,Queenstown,2,46 - 60 mins,9000.0,Number
+1.20,Queenstown,2,More than 60 mins,3000.0,Number
+1.21,Sembawang,2,Total,64400.0,Number
+1.21,Sembawang,2,Up to 15 mins,7600.0,Number
+1.21,Sembawang,2,16 - 30 mins,11700.0,Number
+1.21,Sembawang,2,31 - 45 mins,11400.0,Number
+1.21,Sembawang,2,46 - 60 mins,18900.0,Number
+1.21,Sembawang,2,More than 60 mins,14800.0,Number
+1.22,Sengkang,2,Total,162600.0,Number
+1.22,Sengkang,2,Up to 15 mins,19500.0,Number
+1.22,Sengkang,2,16 - 30 mins,39200.0,Number
+1.22,Sengkang,2,31 - 45 mins,38200.0,Number
+1.22,Sengkang,2,46 - 60 mins,46200.0,Number
+1.22,Sengkang,2,More than 60 mins,19500.0,Number
+1.23,Serangoon,2,Total,60000.0,Number
+1.23,Serangoon,2,Up to 15 mins,8000.0,Number
+1.23,Serangoon,2,16 - 30 mins,19900.0,Number
+1.23,Serangoon,2,31 - 45 mins,14900.0,Number
+1.23,Serangoon,2,46 - 60 mins,13400.0,Number
+1.23,Serangoon,2,More than 60 mins,3700.0,Number
+1.24,Tampines,2,Total,166300.0,Number
+1.24,Tampines,2,Up to 15 mins,26100.0,Number
+1.24,Tampines,2,16 - 30 mins,47400.0,Number
+1.24,Tampines,2,31 - 45 mins,34600.0,Number
+1.24,Tampines,2,46 - 60 mins,36700.0,Number
+1.24,Tampines,2,More than 60 mins,21600.0,Number
+1.25,Tanglin,2,Total,9900.0,Number
+1.25,Tanglin,2,Up to 15 mins,2400.0,Number
+1.25,Tanglin,2,16 - 30 mins,4500.0,Number
+1.25,Tanglin,2,31 - 45 mins,1700.0,Number
+1.25,Tanglin,2,46 - 60 mins,900.0,Number
+1.25,Tanglin,2,More than 60 mins,400.0,Number
+1.26,Tengah,2,Total,11300.0,Number
+1.26,Tengah,2,Up to 15 mins,800.0,Number
+1.26,Tengah,2,16 - 30 mins,3200.0,Number
+1.26,Tengah,2,31 - 45 mins,2100.0,Number
+1.26,Tengah,2,46 - 60 mins,3000.0,Number
+1.26,Tengah,2,More than 60 mins,2200.0,Number
+1.27,Toa Payoh,2,Total,74700.0,Number
+1.27,Toa Payoh,2,Up to 15 mins,12000.0,Number
+1.27,Toa Payoh,2,16 - 30 mins,28100.0,Number
+1.27,Toa Payoh,2,31 - 45 mins,20400.0,Number
+1.27,Toa Payoh,2,46 - 60 mins,10700.0,Number
+1.27,Toa Payoh,2,More than 60 mins,3500.0,Number
+1.28,Woodlands,2,Total,140100.0,Number
+1.28,Woodlands,2,Up to 15 mins,20800.0,Number
+1.28,Woodlands,2,16 - 30 mins,29600.0,Number
+1.28,Woodlands,2,31 - 45 mins,22100.0,Number
+1.28,Woodlands,2,46 - 60 mins,38700.0,Number
+1.28,Woodlands,2,More than 60 mins,29000.0,Number
+1.29,Yishun,2,Total,119500.0,Number
+1.29,Yishun,2,Up to 15 mins,18000.0,Number
+1.29,Yishun,2,16 - 30 mins,24800.0,Number
+1.29,Yishun,2,31 - 45 mins,21400.0,Number
+1.29,Yishun,2,46 - 60 mins,35300.0,Number
+1.29,Yishun,2,More than 60 mins,20000.0,Number
+1.30,Others,2,Total,21700.0,Number
+1.30,Others,2,Up to 15 mins,6500.0,Number
+1.30,Others,2,16 - 30 mins,9700.0,Number
+1.30,Others,2,31 - 45 mins,2300.0,Number
+1.30,Others,2,46 - 60 mins,2400.0,Number
+1.30,Others,2,More than 60 mins,800.0,Number

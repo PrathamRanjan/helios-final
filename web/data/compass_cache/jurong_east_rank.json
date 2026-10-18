@@ -1,0 +1,324 @@
+{
+  "district": "Jurong East",
+  "district_id": "jurong_east",
+  "pv_month": "202605",
+  "baseline_co2_tpy": 5797,
+  "ranked": [
+    {
+      "id": "mobility:erp_parking",
+      "intervention": "Raise ERP / cut parking supply",
+      "type": "mobility",
+      "co2_avoided_tpy": 874.5,
+      "capex_usd": 40000,
+      "cost_per_tonne_usd": 3,
+      "detail": {
+        "trips_shifted": 19331,
+        "from_mode": "car",
+        "to_mode": "transit",
+        "baseline_split": {
+          "car": 0.375,
+          "bus": 0.173,
+          "mrt": 0.308,
+          "walk": 0.08,
+          "cycle": 0.064
+        },
+        "new_split": {
+          "car": 0.277,
+          "bus": 0.2,
+          "mrt": 0.356,
+          "walk": 0.092,
+          "cycle": 0.074
+        },
+        "total_daily_trips": 196827
+      }
+    },
+    {
+      "id": "mobility:road_to_green",
+      "intervention": "Convert road lane \u2192 green corridor",
+      "type": "mobility",
+      "co2_avoided_tpy": 1066.4,
+      "capex_usd": 216000,
+      "cost_per_tonne_usd": 14,
+      "detail": {
+        "trips_shifted": 18384,
+        "from_mode": "car",
+        "to_mode": "bike+walk",
+        "baseline_split": {
+          "car": 0.375,
+          "bus": 0.173,
+          "mrt": 0.308,
+          "walk": 0.08,
+          "cycle": 0.064
+        },
+        "new_split": {
+          "car": 0.282,
+          "bus": 0.165,
+          "mrt": 0.294,
+          "walk": 0.123,
+          "cycle": 0.136
+        },
+        "total_daily_trips": 196827
+      }
+    },
+    {
+      "id": "mobility:mobility_hub",
+      "intervention": "Mobility hub / bike shop + parking",
+      "type": "mobility",
+      "co2_avoided_tpy": 497.4,
+      "capex_usd": 150000,
+      "cost_per_tonne_usd": 20,
+      "detail": {
+        "trips_shifted": 6311,
+        "from_mode": "car",
+        "to_mode": "cycle",
+        "baseline_split": {
+          "car": 0.375,
+          "bus": 0.173,
+          "mrt": 0.308,
+          "walk": 0.08,
+          "cycle": 0.064
+        },
+        "new_split": {
+          "car": 0.343,
+          "bus": 0.158,
+          "mrt": 0.281,
+          "walk": 0.073,
+          "cycle": 0.144
+        },
+        "total_daily_trips": 196827
+      }
+    },
+    {
+      "id": "mobility:green_corridor",
+      "intervention": "Green corridor (new cycling + walking link)",
+      "type": "mobility",
+      "co2_avoided_tpy": 486.6,
+      "capex_usd": 375000,
+      "cost_per_tonne_usd": 51,
+      "detail": {
+        "trips_shifted": 6872,
+        "from_mode": "car",
+        "to_mode": "bike+walk",
+        "baseline_split": {
+          "car": 0.375,
+          "bus": 0.173,
+          "mrt": 0.308,
+          "walk": 0.08,
+          "cycle": 0.064
+        },
+        "new_split": {
+          "car": 0.34,
+          "bus": 0.157,
+          "mrt": 0.279,
+          "walk": 0.107,
+          "cycle": 0.117
+        },
+        "total_daily_trips": 196827
+      }
+    },
+    {
+      "id": "solar:imm",
+      "intervention": "Solar on IMM Building roof",
+      "type": "solar",
+      "co2_avoided_tpy": 2689.6,
+      "capex_usd": 4830760,
+      "cost_per_tonne_usd": 90,
+      "detail": {
+        "kwp": 4391.6,
+        "self_consumption_ratio": 0.955,
+        "annual_savings_usd": 1311989,
+        "payback_years": 3.6,
+        "npv_usd": 10520787,
+        "with_storage": false,
+        "nearby_node_codes": [
+          "28049",
+          "28051",
+          "28059",
+          "28061",
+          "28069",
+          "28199",
+          "28641",
+          "28649",
+          "28651",
+          "28659",
+          "28661",
+          "28669",
+          "28671",
+          "28679"
+        ]
+      }
+    },
+    {
+      "id": "solar:genting",
+      "intervention": "Solar on Genting Hotel Jurong roof",
+      "type": "solar",
+      "co2_avoided_tpy": 673.3,
+      "capex_usd": 1239920,
+      "cost_per_tonne_usd": 92,
+      "detail": {
+        "kwp": 1127.2,
+        "self_consumption_ratio": 0.955,
+        "annual_savings_usd": 327962,
+        "payback_years": 3.7,
+        "npv_usd": 2598489,
+        "with_storage": false,
+        "nearby_node_codes": [
+          "28009",
+          "28051",
+          "28059",
+          "28061",
+          "28069",
+          "28199",
+          "28201",
+          "28211",
+          "28231",
+          "28239",
+          "28241",
+          "28249",
+          "28251",
+          "28259",
+          "28301",
+          "28431",
+          "28439",
+          "28441",
+          "28449",
+          "29009",
+          "NS1",
+          "EW24"
+        ]
+      }
+    },
+    {
+      "id": "solar:westgate",
+      "intervention": "Solar on Westgate roof",
+      "type": "solar",
+      "co2_avoided_tpy": 656.6,
+      "capex_usd": 1269400,
+      "cost_per_tonne_usd": 97,
+      "detail": {
+        "kwp": 1154,
+        "self_consumption_ratio": 0.966,
+        "annual_savings_usd": 320807,
+        "payback_years": 3.8,
+        "npv_usd": 2486912,
+        "with_storage": false,
+        "nearby_node_codes": [
+          "28009",
+          "28051",
+          "28059",
+          "28061",
+          "28069",
+          "28071",
+          "28199",
+          "28201",
+          "28211",
+          "28231",
+          "28239",
+          "28241",
+          "28249",
+          "28301",
+          "28311",
+          "28319",
+          "28431",
+          "28439",
+          "28441",
+          "28449",
+          "28651",
+          "28659",
+          "29009",
+          "NS1",
+          "EW24"
+        ]
+      }
+    },
+    {
+      "id": "mobility:sheltered_walkway",
+      "intervention": "Sheltered / solar walkway",
+      "type": "mobility",
+      "co2_avoided_tpy": 107.1,
+      "capex_usd": 200000,
+      "cost_per_tonne_usd": 124,
+      "detail": {
+        "trips_shifted": 1936,
+        "from_mode": "car",
+        "to_mode": "walk",
+        "baseline_split": {
+          "car": 0.375,
+          "bus": 0.173,
+          "mrt": 0.308,
+          "walk": 0.08,
+          "cycle": 0.064
+        },
+        "new_split": {
+          "car": 0.365,
+          "bus": 0.168,
+          "mrt": 0.3,
+          "walk": 0.104,
+          "cycle": 0.062
+        },
+        "total_daily_trips": 196827
+      }
+    },
+    {
+      "id": "solar_storage:imm",
+      "intervention": "Solar + storage on IMM Building",
+      "type": "solar",
+      "co2_avoided_tpy": 2689.6,
+      "capex_usd": 6806980,
+      "cost_per_tonne_usd": 127,
+      "detail": {
+        "kwp": 4391.6,
+        "self_consumption_ratio": 1,
+        "annual_savings_usd": 1346039,
+        "payback_years": 4.8,
+        "npv_usd": 8939341,
+        "with_storage": true,
+        "nearby_node_codes": [
+          "28049",
+          "28051",
+          "28059",
+          "28061",
+          "28069",
+          "28199",
+          "28641",
+          "28649",
+          "28651",
+          "28659",
+          "28661",
+          "28669",
+          "28671",
+          "28679"
+        ]
+      }
+    },
+    {
+      "id": "mobility:new_bus_stop",
+      "intervention": "New bus stop / higher frequency",
+      "type": "mobility",
+      "co2_avoided_tpy": 13.8,
+      "capex_usd": 80000,
+      "cost_per_tonne_usd": 386,
+      "detail": {
+        "trips_shifted": 2438,
+        "from_mode": "car",
+        "to_mode": "bus",
+        "baseline_split": {
+          "car": 0.375,
+          "bus": 0.173,
+          "mrt": 0.308,
+          "walk": 0.08,
+          "cycle": 0.064
+        },
+        "new_split": {
+          "car": 0.363,
+          "bus": 0.2,
+          "mrt": 0.298,
+          "walk": 0.077,
+          "cycle": 0.062
+        },
+        "total_daily_trips": 196827
+      }
+    }
+  ],
+  "sources": "LTA DataMall passenger volumes; Google Solar API; DEFRA 2024 + EMA 2024 emission factors"
+}

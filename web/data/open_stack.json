@@ -1,0 +1,163 @@
+{
+  "_note": "HELIOS's purpose, as data. Every capability names the paid product category it replaces, what those vendors charge (published list price, third-party figure, or 'not published'), the open datasets it is built from, and what open data still cannot replace. The Open Stack page, the panel strips and the exports all read this file.",
+  "thesis": "Most sustainability software resells public data and open standards. HELIOS rebuilds it from open data, shows every source, and says where a paid product is still worth it.",
+  "updated": "2026-10-16",
+  "capabilities": [
+    {
+      "id": "nature_risk",
+      "name": "Nature risk (TNFD Locate)",
+      "what": "Every building screened against reserves, national parks, nature areas and sensitive coastal habitat; tree cover and species records per area.",
+      "replaces": [
+        { "vendor": "NatureRisk.io", "price": "not published", "basis": "not_published", "source": "https://naturerisk.io" },
+        { "vendor": "IBAT", "price": "US$5k–35k / yr", "basis": "list", "source": "https://www.ibat-alliance.org/pricing" }
+      ],
+      "datasets": ["ura_mp25_nature", "nparks_habitat", "esa_worldcover", "gbif", "nparks_heritage_trees", "osm"],
+      "status": "partial",
+      "out_of_reach": "IBAT's Key Biodiversity Areas and protected-area layers (commercial licence), commercial use of the IUCN Red List, monetised dependency scores.",
+      "where": { "label": "Nature tab", "href": "/sg/bukit_panjang?tab=nature" }
+    },
+    {
+      "id": "physical_risk",
+      "name": "Physical climate risk",
+      "what": "Ground level against PUB's 4 m minimum platform level, distance to PUB flood-prone locations, greenery as a heat proxy, ray-cast street shade.",
+      "replaces": [
+        { "vendor": "Jupiter Intelligence, XDI and similar", "price": "enterprise quotes only", "basis": "not_published", "source": null }
+      ],
+      "datasets": ["copernicus_dem", "pub_flood", "esa_worldcover", "onemap", "osm"],
+      "status": "partial",
+      "out_of_reach": "Hydrodynamic flood depths by return period, damage functions, insurance-grade hazard.",
+      "where": { "label": "Building card", "href": "/sg/geylang?tab=nature" }
+    },
+    {
+      "id": "carbon_accounting",
+      "name": "Carbon accounting (Scope 1 & 2)",
+      "what": "Location-based Scope 2 per building from measured energy × EMA grid factor; portfolio draft disclosure with obligations, carbon tax test, taxonomy split, CSV working file.",
+      "replaces": [
+        { "vendor": "Watershed", "price": "median ~US$70k / yr", "basis": "third_party", "source": "https://www.vendr.com/marketplace/watershed" },
+        { "vendor": "Persefoni", "price": "paid tiers quoted", "basis": "not_published", "source": "https://toolradar.com/tools/persefoni/pricing" },
+        { "vendor": "Greenly", "price": "from £2,700 / yr", "basis": "third_party", "source": "https://netzerocompare.com/software/greenly" }
+      ],
+      "datasets": ["bca_energy", "ema_grid", "acra_roadmap"],
+      "status": "built",
+      "out_of_reach": "Scope 3 supplier data; metered bills for the reporting year; Scope 1 fuel logs stay owner inputs.",
+      "where": { "label": "Comply → Carbon", "href": "/sg/downtown_core?tab=comply" }
+    },
+    {
+      "id": "taxonomy_compliance",
+      "name": "Taxonomy & regulatory compliance",
+      "what": "Deterministic, cited rules for the Singapore-Asia Taxonomy, Green Mark 2021, Carbon Pricing Act, EV Charging Act, vehicle schemes and the ACRA reporting roadmap — with badges on every intervention.",
+      "replaces": [
+        { "vendor": "Greenomy", "price": "from US$1,950 / user / yr", "basis": "third_party", "source": "https://www.capterra.com/p/238329/Greenomy/" }
+      ],
+      "datasets": ["sso_law", "mas_sat", "bca_standards", "lta_circulars", "acra_roadmap"],
+      "status": "built",
+      "out_of_reach": "A legal opinion; the Gazette order with EV charger minimums.",
+      "where": { "label": "Comply tab", "href": "/sg/jurong_east?tab=comply" }
+    },
+    {
+      "id": "rule_drafting",
+      "name": "Regulatory change monitoring",
+      "what": "A local model reads new policy PDFs, drafts checkable rules with verbatim quotes, and is cross-checked against the hand-built engine before a person approves.",
+      "replaces": [
+        { "vendor": "Regulatory-intelligence subscriptions", "price": "not published", "basis": "not_published", "source": null }
+      ],
+      "datasets": ["sso_law", "gemma"],
+      "status": "built",
+      "out_of_reach": "Coverage beyond the documents you load; human sign-off is still required.",
+      "where": { "label": "Rules desk", "href": "/sg/rules" }
+    },
+    {
+      "id": "building_benchmarking",
+      "name": "Building ESG benchmarking",
+      "what": "Measured energy intensity, Green Mark tier, certificate expiry and peer rank by building type for every BCA-listed building.",
+      "replaces": [
+        { "vendor": "Measurabl", "price": "~US$45 / building / month (Feb 2024)", "basis": "third_party", "source": "https://sp-edge.com/companies/199538" }
+      ],
+      "datasets": ["bca_energy", "bca_greenmark", "onemap"],
+      "status": "built",
+      "out_of_reach": "Buildings BCA does not publish; water and waste.",
+      "where": { "label": "Comply → Buildings", "href": "/sg/downtown_core?tab=comply" }
+    },
+    {
+      "id": "solar_feasibility",
+      "name": "Rooftop solar feasibility",
+      "what": "Yield, payback, CO₂ and the Green Mark effect for any of 123,714 roofs.",
+      "replaces": [
+        { "vendor": "Aurora Solar", "price": "US$135–220 / user / month", "basis": "list", "source": "https://aurorasolar.com/pricing" },
+        { "vendor": "Google Solar API", "price": "pay per request", "basis": "list", "source": "https://developers.google.com/maps/billing-and-pricing/pricing" }
+      ],
+      "datasets": ["osm", "hdb_property", "seris_yield", "ema_grid"],
+      "status": "partial",
+      "out_of_reach": "LiDAR shading, panel layout, bankable yield reports.",
+      "where": { "label": "Click any building", "href": "/sg" }
+    },
+    {
+      "id": "carbon_price",
+      "name": "Carbon price scenarios",
+      "what": "The tax path under the Act and the stated S$50–80 range: facility bills, carbon cost inside electricity, and whether a plan pays for itself on carbon.",
+      "replaces": [
+        { "vendor": "Consultancy engagements", "price": "bespoke", "basis": "not_published", "source": null }
+      ],
+      "datasets": ["sso_law", "nccs_trajectory", "bca_energy", "ema_grid"],
+      "status": "built",
+      "out_of_reach": "Sector pass-through models; transition-allowance details.",
+      "where": { "label": "Comply → What-if", "href": "/sg/downtown_core?tab=comply" }
+    },
+    {
+      "id": "mobility_model",
+      "name": "Transport demand modelling",
+      "what": "Calibrated agent mode choice on real fare-card corridors; interventions re-simulated 2026–2036 with cost per tonne, heat and equity.",
+      "replaces": [
+        { "vendor": "Commercial transport-planning suites", "price": "not published", "basis": "not_published", "source": null }
+      ],
+      "datasets": ["lta_datamall", "singstat_census", "osm"],
+      "status": "partial",
+      "out_of_reach": "Island-wide runs need an LTA DataMall key (built for Jurong East today).",
+      "where": { "label": "Plan + Impact", "href": "/sg/jurong_east" }
+    },
+    {
+      "id": "resident_panels",
+      "name": "Resident sentiment panels",
+      "what": "Census-sampled synthetic residents voiced by a local model, with stated-vs-modelled gap checks.",
+      "replaces": [
+        { "vendor": "Survey panels and engagement research", "price": "per-study fees", "basis": "not_published", "source": null }
+      ],
+      "datasets": ["singstat_census", "gemma"],
+      "status": "partial",
+      "out_of_reach": "Real people. Synthetic panels inform consultation; they don't replace it.",
+      "where": { "label": "Building card · Impact", "href": "/sg/jurong_east" }
+    }
+  ],
+  "datasets": {
+    "ura_mp25_nature": { "name": "URA Master Plan 2025 nature reserve, national park and nature area boundary", "publisher": "URA", "url": "https://data.gov.sg/datasets/d_4617a296298180aa9faf2369bc3ff1c9/view", "licence": "Singapore Open Data Licence", "refresh": "ingest/sg_nature.py" },
+    "nparks_habitat": { "name": "Coastal and Marine Habitat Map 2018", "publisher": "NParks", "url": "https://data.gov.sg/datasets/d_18bcfe0a1b8c77f9b4493cef72ffd717/view", "licence": "Singapore Open Data Licence", "refresh": "ingest/sg_nature.py" },
+    "nparks_heritage_trees": { "name": "Heritage Trees", "publisher": "NParks", "url": "https://data.gov.sg/datasets/d_644ff187b6d14d6316f47284a4a6c81f/view", "licence": "Singapore Open Data Licence", "refresh": "ingest/sg_nature.py" },
+    "esa_worldcover": { "name": "ESA WorldCover 10 m 2021", "publisher": "ESA", "url": "https://esa-worldcover.org/", "licence": "CC BY 4.0", "refresh": "ingest/sg_nature.py" },
+    "copernicus_dem": { "name": "Copernicus DEM GLO-30", "publisher": "ESA / EU Copernicus", "url": "https://registry.opendata.aws/copernicus-dem/", "licence": "Copernicus DEM licence (free, attribution)", "refresh": "ingest/sg_nature.py" },
+    "gbif": { "name": "GBIF occurrence records", "publisher": "GBIF.org", "url": "https://www.gbif.org/", "licence": "CC0 / CC BY / CC BY-NC per record; IUCN categories non-commercial", "refresh": "ingest/sg_nature.py" },
+    "pub_flood": { "name": "List of Flood Prone Areas (Nov 2025)", "publisher": "PUB", "url": "https://www.pub.gov.sg/-/media/PUB/PDF/Flood-Management/List-of-Flood-Prone-Areas-as-at-Nov-2025.pdf", "licence": "Public document", "refresh": "ingest/sg_nature.py" },
+    "onemap": { "name": "OneMap search API", "publisher": "SLA", "url": "https://www.onemap.gov.sg/", "licence": "OneMap terms of use", "refresh": "ingest/sg_buildings.py" },
+    "osm": { "name": "OpenStreetMap buildings and roads", "publisher": "OpenStreetMap contributors", "url": "https://www.openstreetmap.org/", "licence": "ODbL", "refresh": "ingest/sg_osm_extract.py" },
+    "hdb_property": { "name": "HDB Property Information (storeys)", "publisher": "HDB", "url": "https://data.gov.sg/", "licence": "Singapore Open Data Licence", "refresh": "ingest/sg_hdb_heights.py" },
+    "bca_energy": { "name": "Building Energy Performance Data", "publisher": "BCA", "url": "https://data.gov.sg/", "licence": "Singapore Open Data Licence", "refresh": "ingest/sg_buildings.py" },
+    "bca_greenmark": { "name": "Green Mark Buildings register", "publisher": "BCA", "url": "https://data.gov.sg/datasets/d_c4bd082b48fa7611713f39e23d250c27/view", "licence": "Singapore Open Data Licence", "refresh": "ingest/sg_buildings.py" },
+    "bca_standards": { "name": "Green Mark 2021 standards", "publisher": "BCA", "url": "https://www1.bca.gov.sg/buildsg/sustainability/green-mark-certification-scheme", "licence": "Public document", "refresh": "manual" },
+    "ema_grid": { "name": "Grid emission factors", "publisher": "EMA", "url": "https://data.gov.sg/datasets/d_3de362b580b2dd2fd50cc1006d4edd4f/view", "licence": "Singapore Open Data Licence", "refresh": "data/carbon/grid_emission_factors.json" },
+    "sso_law": { "name": "Singapore Statutes Online (Carbon Pricing Act, EV Charging Act)", "publisher": "AGC", "url": "https://sso.agc.gov.sg/", "licence": "Free public access", "refresh": "ingest/policy_pages.py" },
+    "mas_sat": { "name": "Singapore-Asia Taxonomy 2023", "publisher": "MAS", "url": "https://www.mas.gov.sg/", "licence": "Public document", "refresh": "manual" },
+    "lta_circulars": { "name": "VES / EEAI circulars", "publisher": "LTA / NEA", "url": "https://onemotoring.lta.gov.sg/", "licence": "Public document", "refresh": "manual" },
+    "acra_roadmap": { "name": "Climate reporting roadmap (SFRS S1/S2 consultation)", "publisher": "ACRA / SGX RegCo", "url": "https://www.acra.gov.sg/", "licence": "Public document", "refresh": "manual" },
+    "nccs_trajectory": { "name": "Carbon tax trajectory", "publisher": "NCCS", "url": "https://www.nccs.gov.sg/", "licence": "Public statement", "refresh": "manual" },
+    "seris_yield": { "name": "Typical rooftop PV yield", "publisher": "SERIS", "url": "https://www.seris.nus.edu.sg/", "licence": "Published literature", "refresh": "manual" },
+    "lta_datamall": { "name": "LTA DataMall (fare-card OD, bus stops, stations)", "publisher": "LTA", "url": "https://datamall.lta.gov.sg/", "licence": "LTA DataMall terms (free key)", "refresh": "ingest/fetch_lta_national.py" },
+    "singstat_census": { "name": "General Household Survey 2025", "publisher": "SingStat", "url": "https://www.singstat.gov.sg/", "licence": "Singapore Open Data Licence", "refresh": "ingest/sg_geography.py" },
+    "gemma": { "name": "Gemma 4 (local, open weights)", "publisher": "Google DeepMind", "url": "https://ai.google.dev/gemma", "licence": "Gemma terms of use", "refresh": "scripts/gemma-server.sh" }
+  },
+  "moats": [
+    { "name": "Licensed data", "why": "IBAT's biodiversity layers, commercial IUCN use and proprietary supplier emissions are paid for a reason." },
+    { "name": "Assurance", "why": "Listed companies need external limited assurance of Scope 1 & 2 from FY2029. HELIOS produces the working file the assurer tests." },
+    { "name": "Liability", "why": "Buyers pay partly for accountability. HELIOS answers with a trail anyone can re-run: clause, page, dataset, test." },
+    { "name": "Scope 3 depth", "why": "Supplier surveys, spend data and sector factors aren't public in Singapore." },
+    { "name": "Engineering-grade hazard", "why": "Return-period flood depths need hydrodynamic modelling, not a surface model and a list of streets." }
+  ]
+}

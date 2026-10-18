@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "source": "Calibrated from Vietnam National Grid data (2024). Baseline factor 681 gCO2eq/kWh (official Ministry of Agriculture & Environment / HUST 2024 figure). Peak premium (+10-12%) reflects coal/thermal dispatch during morning and evening load spikes. Solar discount (-15-20%) reflects midday rooftop solar injection.",
+    "baseline_factor_gco2_per_kwh": 681,
+    "year": 2024
+  },
+  "hourly_ef_gco2_per_kwh": [
+    650, 640, 635, 635, 640, 660,
+    690, 720, 735, 710, 620, 560,
+    545, 550, 580, 630, 670, 710,
+    750, 762, 755, 730, 690, 670
+  ],
+  "zone_labels": {
+    "coal_peak_morning": [6, 7, 8],
+    "solar_window": [10, 11, 12, 13, 14],
+    "coal_peak_evening": [18, 19, 20, 21]
+  },
+  "charging_profiles": {
+    "baseline_home_evening": {
+      "description": "Unmanaged home charging. Fleet plugs in after commute return. 80% of daily demand concentrated in 6-10 PM.",
+      "weights": [
+        0.03, 0.02, 0.01, 0.01, 0.00, 0.00,
+        0.00, 0.00, 0.00, 0.00, 0.00, 0.00,
+        0.00, 0.00, 0.00, 0.00, 0.00, 0.01,
+        0.20, 0.25, 0.20, 0.15, 0.08, 0.04
+      ]
+    },
+    "optimized_workplace_daytime": {
+      "description": "Managed workplace charging at offices, universities, Metro stations. Weighted toward 10 AM-2 PM solar window.",
+      "weights": [
+        0.00, 0.00, 0.00, 0.00, 0.00, 0.00,
+        0.00, 0.00, 0.05, 0.13, 0.20, 0.20,
+        0.18, 0.12, 0.07, 0.03, 0.02, 0.00,
+        0.00, 0.00, 0.00, 0.00, 0.00, 0.00
+      ]
+    }
+  }
+}

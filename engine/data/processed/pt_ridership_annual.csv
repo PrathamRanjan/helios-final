@@ -1,0 +1,250 @@
+row_no,row,level,col,value,uom
+1,Rail Length,1,1990,67.0,Kilometres
+1,Rail Length,1,1991,67.0,Kilometres
+1,Rail Length,1,1992,67.0,Kilometres
+1,Rail Length,1,1993,67.0,Kilometres
+1,Rail Length,1,1994,67.0,Kilometres
+1,Rail Length,1,1995,67.0,Kilometres
+1,Rail Length,1,1996,83.0,Kilometres
+1,Rail Length,1,1997,83.0,Kilometres
+1,Rail Length,1,1998,83.0,Kilometres
+1,Rail Length,1,1999,90.8,Kilometres
+1,Rail Length,1,2000,90.8,Kilometres
+1,Rail Length,1,2001,90.8,Kilometres
+1,Rail Length,1,2002,97.2,Kilometres
+1,Rail Length,1,2003,127.9,Kilometres
+1,Rail Length,1,2004,127.9,Kilometres
+1,Rail Length,1,2005,138.2,Kilometres
+1,Rail Length,1,2006,138.2,Kilometres
+1,Rail Length,1,2007,138.2,Kilometres
+1,Rail Length,1,2008,138.2,Kilometres
+1,Rail Length,1,2009,147.7,Kilometres
+1,Rail Length,1,2010,158.7,Kilometres
+1,Rail Length,1,2011,175.3,Kilometres
+1,Rail Length,1,2012,177.7,Kilometres
+1,Rail Length,1,2013,182.0,Kilometres
+1,Rail Length,1,2014,183.0,Kilometres
+1,Rail Length,1,2015,199.6,Kilometres
+1,Rail Length,1,2016,199.6,Kilometres
+1,Rail Length,1,2017,228.1,Kilometres
+1,Rail Length,1,2018,228.1,Kilometres
+1,Rail Length,1,2019,228.1,Kilometres
+1,Rail Length,1,2020,232.3,Kilometres
+1,Rail Length,1,2021,245.3,Kilometres
+1,Rail Length,1,2022,258.5,Kilometres
+1,Rail Length,1,2023,258.5,Kilometres
+1,Rail Length,1,2024,271.3,Kilometres
+1,Rail Length,1,2025,271.3,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1990,67.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1991,67.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1992,67.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1993,67.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1994,67.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1995,67.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1996,83.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1997,83.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1998,83.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,1999,83.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2000,83.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2001,83.0,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2002,89.4,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2003,109.4,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2004,109.4,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2005,109.4,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2006,109.4,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2007,109.4,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2008,109.4,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2009,118.9,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2010,129.9,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2011,146.5,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2012,148.9,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2013,153.2,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2014,154.2,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2015,170.8,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2016,170.8,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2017,199.3,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2018,199.3,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2019,199.3,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2020,203.5,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2021,216.5,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2022,229.7,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2023,229.7,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2024,242.5,Kilometres
+1.1,Mass Rapid Transit (MRT),2,2025,242.5,Kilometres
+1.2,Light Rail Transit (LRT),2,1999,7.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2000,7.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2001,7.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2002,7.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2003,18.5,Kilometres
+1.2,Light Rail Transit (LRT),2,2004,18.5,Kilometres
+1.2,Light Rail Transit (LRT),2,2005,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2006,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2007,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2008,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2009,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2010,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2011,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2012,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2013,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2014,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2015,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2016,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2017,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2018,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2019,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2020,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2021,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2022,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2023,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2024,28.8,Kilometres
+1.2,Light Rail Transit (LRT),2,2025,28.8,Kilometres
+2,MRT km Operated,1,2009,18025.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2010,20265.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2011,22465.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2012,26492.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2013,26420.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2014,28173.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2015,28795.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2016,34194.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2017,36278.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2018,40676.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2019,40883.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2020,39362.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2021,40613.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2022,41785.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2023,43579.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2024,45609.0,Thousand Train-Kilometres
+2,MRT km Operated,1,2025,47623.0,Thousand Train-Kilometres
+3,LRT km Operated,1,2009,3303.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2010,3311.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2011,3620.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2012,3883.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2013,4435.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2014,4787.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2015,5937.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2016,6620.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2017,7233.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2018,7302.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2019,7566.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2020,6799.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2021,7019.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2022,7037.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2023,7104.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2024,7257.0,Thousand Car-Kilometres
+3,LRT km Operated,1,2025,7717.0,Thousand Car-Kilometres
+4,Average Daily Ridership - MRT,1,1995,740.0,Thousand
+4,Average Daily Ridership - MRT,1,1996,850.0,Thousand
+4,Average Daily Ridership - MRT,1,1997,911.0,Thousand
+4,Average Daily Ridership - MRT,1,1998,946.0,Thousand
+4,Average Daily Ridership - MRT,1,1999,986.0,Thousand
+4,Average Daily Ridership - MRT,1,2000,1047.0,Thousand
+4,Average Daily Ridership - MRT,1,2001,1071.0,Thousand
+4,Average Daily Ridership - MRT,1,2002,1081.0,Thousand
+4,Average Daily Ridership - MRT,1,2003,1171.0,Thousand
+4,Average Daily Ridership - MRT,1,2004,1270.0,Thousand
+4,Average Daily Ridership - MRT,1,2005,1321.0,Thousand
+4,Average Daily Ridership - MRT,1,2006,1408.0,Thousand
+4,Average Daily Ridership - MRT,1,2007,1527.0,Thousand
+4,Average Daily Ridership - MRT,1,2008,1698.0,Thousand
+4,Average Daily Ridership - MRT,1,2009,1782.0,Thousand
+4,Average Daily Ridership - MRT,1,2010,2069.0,Thousand
+4,Average Daily Ridership - MRT,1,2011,2295.0,Thousand
+4,Average Daily Ridership - MRT,1,2012,2525.0,Thousand
+4,Average Daily Ridership - MRT,1,2013,2623.0,Thousand
+4,Average Daily Ridership - MRT,1,2014,2762.0,Thousand
+4,Average Daily Ridership - MRT,1,2015,2871.0,Thousand
+4,Average Daily Ridership - MRT,1,2016,3095.0,Thousand
+4,Average Daily Ridership - MRT,1,2017,3122.0,Thousand
+4,Average Daily Ridership - MRT,1,2018,3302.0,Thousand
+4,Average Daily Ridership - MRT,1,2019,3384.0,Thousand
+4,Average Daily Ridership - MRT,1,2020,2023.0,Thousand
+4,Average Daily Ridership - MRT,1,2021,2100.0,Thousand
+4,Average Daily Ridership - MRT,1,2022,2745.0,Thousand
+4,Average Daily Ridership - MRT,1,2023,3243.0,Thousand
+4,Average Daily Ridership - MRT,1,2024,3412.0,Thousand
+4,Average Daily Ridership - MRT,1,2025,3490.0,Thousand
+5,Average Daily Ridership - LRT,1,1995,0.0,Thousand
+5,Average Daily Ridership - LRT,1,1996,0.0,Thousand
+5,Average Daily Ridership - LRT,1,1997,0.0,Thousand
+5,Average Daily Ridership - LRT,1,1998,0.0,Thousand
+5,Average Daily Ridership - LRT,1,1999,27.0,Thousand
+5,Average Daily Ridership - LRT,1,2000,39.0,Thousand
+5,Average Daily Ridership - LRT,1,2001,41.0,Thousand
+5,Average Daily Ridership - LRT,1,2002,39.0,Thousand
+5,Average Daily Ridership - LRT,1,2003,50.0,Thousand
+5,Average Daily Ridership - LRT,1,2004,55.0,Thousand
+5,Average Daily Ridership - LRT,1,2005,69.0,Thousand
+5,Average Daily Ridership - LRT,1,2006,74.0,Thousand
+5,Average Daily Ridership - LRT,1,2007,79.0,Thousand
+5,Average Daily Ridership - LRT,1,2008,88.0,Thousand
+5,Average Daily Ridership - LRT,1,2009,90.0,Thousand
+5,Average Daily Ridership - LRT,1,2010,100.0,Thousand
+5,Average Daily Ridership - LRT,1,2011,111.0,Thousand
+5,Average Daily Ridership - LRT,1,2012,124.0,Thousand
+5,Average Daily Ridership - LRT,1,2013,132.0,Thousand
+5,Average Daily Ridership - LRT,1,2014,137.0,Thousand
+5,Average Daily Ridership - LRT,1,2015,153.0,Thousand
+5,Average Daily Ridership - LRT,1,2016,180.0,Thousand
+5,Average Daily Ridership - LRT,1,2017,190.0,Thousand
+5,Average Daily Ridership - LRT,1,2018,199.0,Thousand
+5,Average Daily Ridership - LRT,1,2019,208.0,Thousand
+5,Average Daily Ridership - LRT,1,2020,139.0,Thousand
+5,Average Daily Ridership - LRT,1,2021,151.0,Thousand
+5,Average Daily Ridership - LRT,1,2022,184.0,Thousand
+5,Average Daily Ridership - LRT,1,2023,202.0,Thousand
+5,Average Daily Ridership - LRT,1,2024,210.0,Thousand
+5,Average Daily Ridership - LRT,1,2025,209.0,Thousand
+6,Average Daily Ridership - Public Bus,1,1995,3009.0,Thousand
+6,Average Daily Ridership - Public Bus,1,1996,3118.0,Thousand
+6,Average Daily Ridership - Public Bus,1,1997,3116.0,Thousand
+6,Average Daily Ridership - Public Bus,1,1998,3121.0,Thousand
+6,Average Daily Ridership - Public Bus,1,1999,3213.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2000,3251.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2001,3281.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2002,3197.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2003,2992.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2004,2805.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2005,2779.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2006,2833.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2007,2932.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2008,3087.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2009,3047.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2010,3199.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2011,3385.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2012,3481.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2013,3601.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2014,3751.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2015,3891.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2016,3939.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2017,3952.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2018,4037.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2019,4099.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2020,2878.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2021,3008.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2022,3461.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2023,3747.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2024,3837.0,Thousand
+6,Average Daily Ridership - Public Bus,1,2025,3841.0,Thousand
+7,Average Daily Trip - Point-To-Point (P2P) Transport (Taxis And Private Hire Cars),1,2018,755.0,Thousand Daily-Trips
+7,Average Daily Trip - Point-To-Point (P2P) Transport (Taxis And Private Hire Cars),1,2019,772.0,Thousand Daily-Trips
+7,Average Daily Trip - Point-To-Point (P2P) Transport (Taxis And Private Hire Cars),1,2020,517.0,Thousand Daily-Trips
+7,Average Daily Trip - Point-To-Point (P2P) Transport (Taxis And Private Hire Cars),1,2021,553.0,Thousand Daily-Trips
+7,Average Daily Trip - Point-To-Point (P2P) Transport (Taxis And Private Hire Cars),1,2022,582.0,Thousand Daily-Trips
+7,Average Daily Trip - Point-To-Point (P2P) Transport (Taxis And Private Hire Cars),1,2023,606.0,Thousand Daily-Trips
+7,Average Daily Trip - Point-To-Point (P2P) Transport (Taxis And Private Hire Cars),1,2024,618.0,Thousand Daily-Trips
+7,Average Daily Trip - Point-To-Point (P2P) Transport (Taxis And Private Hire Cars),1,2025,626.0,Thousand Daily-Trips
+8,Total Ridership By MRT And LRT,1,2016,1195000.0,Thousand
+8,Total Ridership By MRT And LRT,1,2017,1209000.0,Thousand
+8,Total Ridership By MRT And LRT,1,2018,1278000.0,Thousand
+8,Total Ridership By MRT And LRT,1,2019,1311000.0,Thousand
+8,Total Ridership By MRT And LRT,1,2020,791000.0,Thousand
+8,Total Ridership By MRT And LRT,1,2021,821000.0,Thousand
+8,Total Ridership By MRT And LRT,1,2022,1069000.0,Thousand
+8,Total Ridership By MRT And LRT,1,2023,1258000.0,Thousand
+8,Total Ridership By MRT And LRT,1,2024,1326000.0,Thousand
+9,Total Rail Passenger-Kilometres,1,2019,10690.0,Million
+9,Total Rail Passenger-Kilometres,1,2020,6477.0,Million
+9,Total Rail Passenger-Kilometres,1,2021,6629.0,Million
+9,Total Rail Passenger-Kilometres,1,2022,8563.0,Million
+9,Total Rail Passenger-Kilometres,1,2023,9993.0,Million
+9,Total Rail Passenger-Kilometres,1,2024,10477.0,Million

@@ -1,0 +1,38 @@
+{
+  "id": "sg.eeai.2026",
+  "title": "EV Early Adoption Incentive (EEAI) 2026 — 45% off ARF, capped",
+  "instrument": "EV Early Adoption Incentive (LTA)",
+  "jurisdiction": "SG",
+  "category": "cost",
+  "kind": "capped_percentage",
+  "status": "in_force",
+  "effective_from": "2026-01-01",
+  "effective_to": "2026-12-31",
+  "applies_to": { "asset": ["vehicle"], "vehicle_class": ["car", "taxi"], "fuel": ["electric"], "event": "new_registration" },
+  "citation": {
+    "source": "lta_vrl_16_2025",
+    "clause": "Para 2 & Table 1",
+    "pages": [1],
+    "quote": "45% off the Additional Registration Fee (\"ARF\"), subject to a revised cap of $7,500"
+  },
+  "base_metric": { "key": "arf_sgd", "label": "Additional Registration Fee", "unit": "S$" },
+  "percentage": 0.45,
+  "cap_sgd": 7500,
+  "sign": -1,
+  "arf_floor": {
+    "value_sgd": 0,
+    "fuel": ["electric"],
+    "from": "2026-01-01",
+    "to": "2027-12-31",
+    "note": "The $0 ARF floor for fully electric cars and taxis is extended to 31 Dec 2027 (VRL 16/2025 Table 1, p.1): VES + EEAI rebates cannot take ARF below $0."
+  },
+  "notes": ["EEAI ceases from 1 January 2027."],
+  "examples": [
+    { "name": "EV, ARF S$40k → capped at S$7.5k", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "fuel": "electric", "arf_sgd": 40000 }, "expect": { "amount_sgd": -7500 } },
+    { "name": "EV, ARF S$10k → 45% = S$4.5k", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "fuel": "electric", "arf_sgd": 10000 }, "expect": { "amount_sgd": -4500 } },
+    { "name": "Petrol car not eligible", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "fuel": "petrol", "arf_sgd": 40000 }, "expect": { "outcome": "not_applicable" } },
+    { "name": "Ceased in 2027", "asOf": "2027-01-01", "facts": { "vehicle_class": "car", "fuel": "electric", "arf_sgd": 40000 }, "expect": { "outcome": "not_in_force" } },
+    { "name": "Needs ARF", "asOf": "2026-06-01", "facts": { "vehicle_class": "car", "fuel": "electric" }, "expect": { "outcome": "needs_info" } }
+  ],
+  "review": { "confidence": "verified_primary", "reviewed_by": "claude (extracted) — pending human sign-off", "reviewed_at": "2026-10-16" }
+}

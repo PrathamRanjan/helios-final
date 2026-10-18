@@ -1,0 +1,186 @@
+{
+  "district_id": "jurong_east",
+  "method": "0.4\u00b7footfall + 0.35\u00b7OD demand + 0.25\u00b7solar pairing (measured signals), \u2265600 m spacing",
+  "note": "Grid headroom / carpark layers pending LTA EV Charging Points ingest \u2014 labelled accordingly",
+  "sites": [
+    {
+      "id": "ev_jurong_east_01",
+      "name": "Bt Batok Int",
+      "nodeId": "43009",
+      "nodeType": "bus_stop",
+      "lat": 1.34999354306126,
+      "lng": 103.75106190953444,
+      "score": 0.588,
+      "reasons": [
+        "High measured tap-in/out footfall",
+        "Strong OD corridor demand",
+        "Sized to 14 ports from measured demand"
+      ],
+      "recommendedAsset": {
+        "ports": 14,
+        "chargerPowerKW": 22,
+        "chargingCapacityKW": 308,
+        "batteryKWh": 560,
+        "solarCanopyKWhYr": 0,
+        "capexUsd": 354000,
+        "sizing": "demand-led (footfall+OD); grid-headroom & carpark constraints PENDING"
+      }
+    },
+    {
+      "id": "ev_jurong_east_02",
+      "name": "Bef Jurong East Stn",
+      "nodeId": "28211",
+      "nodeType": "bus_stop",
+      "lat": 1.33418677275445,
+      "lng": 103.74070680700304,
+      "score": 0.498,
+      "reasons": [
+        "Strong OD corridor demand",
+        "Solar pairing nearby (JEM, Westgate)",
+        "Sized to 8 ports from measured demand"
+      ],
+      "recommendedAsset": {
+        "ports": 8,
+        "chargerPowerKW": 22,
+        "chargingCapacityKW": 176,
+        "batteryKWh": 320,
+        "solarCanopyKWhYr": 120000,
+        "capexUsd": 228000,
+        "sizing": "demand-led (footfall+OD); grid-headroom & carpark constraints PENDING"
+      }
+    },
+    {
+      "id": "ev_jurong_east_03",
+      "name": "Lakeside Stn",
+      "nodeId": "28091",
+      "nodeType": "bus_stop",
+      "lat": 1.34425795644531,
+      "lng": 103.72012487725401,
+      "score": 0.471,
+      "reasons": [
+        "High measured tap-in/out footfall",
+        "Strong OD corridor demand",
+        "Sized to 12 ports from measured demand"
+      ],
+      "recommendedAsset": {
+        "ports": 12,
+        "chargerPowerKW": 22,
+        "chargingCapacityKW": 264,
+        "batteryKWh": 480,
+        "solarCanopyKWhYr": 0,
+        "capexUsd": 312000,
+        "sizing": "demand-led (footfall+OD); grid-headroom & carpark constraints PENDING"
+      }
+    },
+    {
+      "id": "ev_jurong_east_04",
+      "name": "Blk 286A",
+      "nodeId": "28649",
+      "nodeType": "bus_stop",
+      "lat": 1.33901303401774,
+      "lng": 103.74603439301079,
+      "score": 0.309,
+      "reasons": [
+        "Solar pairing nearby (IMM Building, Ng Teng Fong General Hospital)",
+        "Sized to 6 ports from measured demand"
+      ],
+      "recommendedAsset": {
+        "ports": 6,
+        "chargerPowerKW": 22,
+        "chargingCapacityKW": 132,
+        "batteryKWh": 240,
+        "solarCanopyKWhYr": 120000,
+        "capexUsd": 186000,
+        "sizing": "demand-led (footfall+OD); grid-headroom & carpark constraints PENDING"
+      }
+    },
+    {
+      "id": "ev_jurong_east_05",
+      "name": "Bef Toh Guan Rd East",
+      "nodeId": "28679",
+      "nodeType": "bus_stop",
+      "lat": 1.33661449274468,
+      "lng": 103.75110456918219,
+      "score": 0.272,
+      "reasons": [
+        "Solar pairing nearby (IMM Building, Devan Nair Institute)",
+        "Sized to 4 ports from measured demand"
+      ],
+      "recommendedAsset": {
+        "ports": 4,
+        "chargerPowerKW": 22,
+        "chargingCapacityKW": 88,
+        "batteryKWh": 160,
+        "solarCanopyKWhYr": 120000,
+        "capexUsd": 144000,
+        "sizing": "demand-led (footfall+OD); grid-headroom & carpark constraints PENDING"
+      }
+    },
+    {
+      "id": "ev_jurong_east_06",
+      "name": "Chinese Garden",
+      "nodeId": "EW25",
+      "nodeType": "mrt_station",
+      "lat": 1.34243,
+      "lng": 103.73252,
+      "score": 0.177,
+      "reasons": [
+        "High measured tap-in/out footfall",
+        "Sized to 8 ports from measured demand"
+      ],
+      "recommendedAsset": {
+        "ports": 8,
+        "chargerPowerKW": 22,
+        "chargingCapacityKW": 176,
+        "batteryKWh": 320,
+        "solarCanopyKWhYr": 0,
+        "capexUsd": 228000,
+        "sizing": "demand-led (footfall+OD); grid-headroom & carpark constraints PENDING"
+      }
+    },
+    {
+      "id": "ev_jurong_east_07",
+      "name": "Blk 463",
+      "nodeId": "28511",
+      "nodeType": "bus_stop",
+      "lat": 1.35063596491215,
+      "lng": 103.7237236090261,
+      "score": 0.13,
+      "reasons": [
+        "Coverage gap in the district shortlist",
+        "Sized to 6 ports from measured demand"
+      ],
+      "recommendedAsset": {
+        "ports": 6,
+        "chargerPowerKW": 22,
+        "chargingCapacityKW": 132,
+        "batteryKWh": 240,
+        "solarCanopyKWhYr": 0,
+        "capexUsd": 186000,
+        "sizing": "demand-led (footfall+OD); grid-headroom & carpark constraints PENDING"
+      }
+    },
+    {
+      "id": "ev_jurong_east_08",
+      "name": "The Synergy",
+      "nodeId": "28041",
+      "nodeType": "bus_stop",
+      "lat": 1.33008349967851,
+      "lng": 103.74828366332322,
+      "score": 0.103,
+      "reasons": [
+        "Solar pairing nearby (Devan Nair Institute)",
+        "Sized to 4 ports from measured demand"
+      ],
+      "recommendedAsset": {
+        "ports": 4,
+        "chargerPowerKW": 22,
+        "chargingCapacityKW": 88,
+        "batteryKWh": 160,
+        "solarCanopyKWhYr": 120000,
+        "capexUsd": 144000,
+        "sizing": "demand-led (footfall+OD); grid-headroom & carpark constraints PENDING"
+      }
+    }
+  ]
+}

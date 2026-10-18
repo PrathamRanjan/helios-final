@@ -1,0 +1,1 @@
+{"district":"Western Islands","district_id":"western_islands","bbox":[1.1587,103.65373,1.29736,103.80155],"pv_month":"202609","source":"LTA DataMall PV/Bus, PV/ODBus, PV/Train, PV/ODTrain + BusStops; data.gov.sg station exits; OSM station refs","od_note":"Weekday trips aggregated over all hours (hour = -1).","nodes":[],"od":[],"buildings":[]}

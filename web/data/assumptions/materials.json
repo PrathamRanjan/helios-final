@@ -1,0 +1,37 @@
+{
+  "_note": "Material composition per unit for the material passport — what an intervention is physically made of, and its end-of-life fate. Quantities are order-of-magnitude (labelled proxy); the passport's value is showing recoverability + a take-back/end-of-life plan, not precise mass. kg per driver unit (kWp, kWh, port, km).",
+  "recyclability": {
+    "steel": 0.9, "aluminium": 0.9, "copper": 0.95, "glass": 0.85,
+    "concrete": 0.7, "asphalt": 0.8, "silicon": 0.6,
+    "battery_actives": 0.5, "plastics": 0.3, "organic": 1.0
+  },
+  "composition": {
+    "solar_per_kwp": [
+      { "material": "glass", "kg": 50 },
+      { "material": "aluminium", "kg": 15 },
+      { "material": "silicon", "kg": 5 },
+      { "material": "copper", "kg": 4 }
+    ],
+    "battery_per_kwh": [
+      { "material": "battery_actives", "kg": 4 },
+      { "material": "steel", "kg": 2 },
+      { "material": "copper", "kg": 1 }
+    ],
+    "ev_port": [
+      { "material": "steel", "kg": 30 },
+      { "material": "copper", "kg": 10 },
+      { "material": "plastics", "kg": 10 }
+    ],
+    "covered_walkway_per_km": [
+      { "material": "steel", "kg": 60000 },
+      { "material": "concrete", "kg": 400000 }
+    ],
+    "cycle_lane_per_km": [
+      { "material": "asphalt", "kg": 300000 },
+      { "material": "concrete", "kg": 100000 }
+    ],
+    "shade_trees_per_km": [
+      { "material": "organic", "kg": 8000 }
+    ]
+  }
+}

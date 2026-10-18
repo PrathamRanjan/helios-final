@@ -1,0 +1,89 @@
+{
+  "source": "google_solar",
+  "address": "Marina Bay Sands, Singapore",
+  "lat": 1.2833115,
+  "lng": 103.8606023,
+  "country_code": "SG",
+  "roof_area_m2": 9362.0,
+  "usable_area_m2": 2374.0,
+  "usable_fraction_verified": 0.254,
+  "panels": 1209,
+  "kwp": 483.6,
+  "yearly_kwh": 708306.0,
+  "sunshine_hours_per_year": 1573.0,
+  "panel_capacity_watts": 400,
+  "panel_area_m2": 1.96,
+  "imagery_quality": "HIGH",
+  "imagery_date": "2017-06-22",
+  "roof_segment_count": 121,
+  "roof_segments": [
+    {
+      "pitch_deg": 75.8,
+      "azimuth_deg": 117.5,
+      "area_m2": 517.0,
+      "sunshine_kwh_m2_yr": 979.0
+    },
+    {
+      "pitch_deg": 75.8,
+      "azimuth_deg": 128.6,
+      "area_m2": 472.0,
+      "sunshine_kwh_m2_yr": 976.0
+    },
+    {
+      "pitch_deg": 75.1,
+      "azimuth_deg": 117.9,
+      "area_m2": 439.0,
+      "sunshine_kwh_m2_yr": 985.0
+    },
+    {
+      "pitch_deg": 78.9,
+      "azimuth_deg": 117.6,
+      "area_m2": 394.0,
+      "sunshine_kwh_m2_yr": 944.0
+    },
+    {
+      "pitch_deg": 66.2,
+      "azimuth_deg": 124.8,
+      "area_m2": 340.0,
+      "sunshine_kwh_m2_yr": 1012.0
+    },
+    {
+      "pitch_deg": 77.5,
+      "azimuth_deg": 118.4,
+      "area_m2": 340.0,
+      "sunshine_kwh_m2_yr": 966.0
+    }
+  ],
+  "best_segment": {
+    "pitch_deg": 75.8,
+    "azimuth_deg": 117.5,
+    "area_m2": 517.0,
+    "sunshine_kwh_m2_yr": 979.0
+  },
+  "confidence_tier": "A",
+  "confidence_band_pct": 5,
+  "provenance": "Google Solar API (buildingInsights + dataLayers)",
+  "tariff_per_kwh_usd": 0.213,
+  "tariff_year": 2026,
+  "tariff_source": "EMA regulated tariff Apr–Jun 2026: 27.27 SGD-cents/kWh pre-GST, USD-converted",
+  "tariff_tier": "regulated low-tension commercial pre-GST",
+  "om_usd_per_kwp_year": 18,
+  "om_usd_per_year": 8705.0,
+  "yearly_savings_usd": 142164.0,
+  "yearly_gross_revenue_y1_usd": 150869.0,
+  "install_cost_usd": 531960.0,
+  "payback_years": 3.6,
+  "co2_offset_tonnes_per_year": 284.7,
+  "co2_source": "EMA 2024 Grid Emission Factor",
+  "lifetime_savings_20y_usd": 3063256.0,
+  "npv_usd": 1131748.0,
+  "lcoe_usd_per_mwh": 53.2,
+  "degradation_rate": 0.007,
+  "tariff_escalation": 0.03,
+  "discount_rate": 0.08,
+  "performance_ratio": 0.75,
+  "utility": "EMA / SP Group",
+  "country": "Singapore",
+  "grid_carbon_kg_per_kwh": 0.402,
+  "headline": "Iconic hotel · 708k kWh / yr potential"
+}

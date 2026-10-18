@@ -1,0 +1,29 @@
+{
+  "_note": "Embodied (cradle-to-gate) carbon factors for building interventions. Labels per COMPASS_DATA_LEDGER. These estimate the one-off CO2 of MANUFACTURING/BUILDING an asset — separate from the operational CO2 the engine already avoids. Net lifecycle = operational avoided over horizon - embodied. Excludes end-of-life transport & disposal unless noted.",
+  "solar_yield_kwh_per_kwp": { "value": 1200, "label": "measured", "source": "SG rooftop PV specific yield (SERIS / Google Solar)" },
+  "pv_kgco2e_per_kwp": { "value": 550, "label": "literature-derived", "source": "Crystalline-Si PV cradle-to-gate; central 550 kgCO2e/kWp from 118 kgCO2e/m² ÷ ~0.21 kWp/m² (2024 PV LCA); range 500-650" },
+  "battery_kgco2e_per_kwh": { "value": 100, "label": "literature-derived", "source": "Li-ion cell/pack manufacturing central 100 kgCO2e/kWh (2025 meta-analysis median 17.6 kgCO2e/kg; range 70-150)" },
+  "ev_charger_kgco2e_per_port": { "value": 300, "label": "calibrated proxy", "source": "AC public pedestal/networked charger hardware ~150-300 kgCO2e/port (bottom-up steel/Al/electronics; no public EPD)" },
+  "ev_charger_civil_kgco2e_per_port": { "value": 900, "label": "calibrated proxy", "source": "Foundation/concrete pad + trenching per bay (~6 t concrete @150 kgCO2e/t)" },
+  "cycle_lane_kgco2e_per_km": { "value": 90000, "label": "literature-derived", "source": "Asphalt + light concrete separators per km protected lane (roadworks LCA, ~90 tCO2e/km)" },
+  "covered_walkway_kgco2e_per_km": { "value": 320000, "label": "literature-derived", "source": "Steel canopy + concrete columns/footings per km sheltered walkway (~320 tCO2e/km; steel-intensive)" },
+  "shade_tree_sequestration_kgco2e_per_km": { "value": -15000, "label": "calibrated proxy", "source": "~40 street trees/km, ~375 kgCO2e net sequestration each over horizon (i-Tree ranges); small credit, not the main benefit" },
+  "circular": {
+    "second_life_battery_factor": { "value": 0.45, "label": "literature-derived", "source": "Second-life EV cells carry ~45% of new-pack embodied burden (allocation after first automotive life; Bobba et al. 2018)" },
+    "pv_recycling_credit_factor": { "value": 0.85, "label": "calibrated proxy", "source": "Design-for-recycling + recycled-content modules trim ~15% cradle-to-gate (CENELEC EN 50625 stream)" },
+    "modular_replacement_avoided_factor": { "value": 0.8, "label": "calibrated proxy", "source": "Modular/repairable charger avoids ~one full hardware replacement over horizon (~20% embodied saved)" }
+  },
+  "_eol_note": "End-of-life carbon as a fraction of gate embodied (disposal/recycling emissions, net of recovery credits) + typical replacement within a 10-yr horizon. Extends cradle-to-GATE to cradle-to-GRAVE for carbon. Circular take-back/recycling shrinks the EoL fraction.",
+  "eol_fraction_of_gate": {
+    "pv": { "value": 0.08, "label": "literature-derived", "source": "PV EoL processing ~8% of gate; recycling recovers glass/Al/Si (IEA PVPS T12 EoL)" },
+    "battery": { "value": 0.12, "label": "literature-derived", "source": "Li-ion EoL/recycling ~10-15% of pack embodied; recovery credit if take-back (Argonne EverBatt)" },
+    "ev_charger": { "value": 0.05, "label": "calibrated proxy", "source": "Charger hardware EoL — mostly recyclable steel/copper" },
+    "civil": { "value": 0.06, "label": "calibrated proxy", "source": "Concrete downcycled, steel recovered; demolition + haulage ~6% of gate" },
+    "recycling_credit_with_takeback": { "value": 0.5, "label": "calibrated proxy", "source": "Supplier take-back + material recovery roughly halves net EoL carbon" }
+  },
+  "replacements_over_horizon": {
+    "battery": { "value": 0, "label": "literature-derived", "source": "Li-ion ~12-15 yr life — 0 replacements within a 10-yr horizon (modular option avoids the year-10 edge case)" },
+    "ev_charger": { "value": 0, "label": "calibrated proxy", "source": "AC charger ~10-12 yr — ~0 within horizon; heavy-use DC would add one" },
+    "pv": { "value": 0, "label": "literature-derived", "source": "PV ~25-30 yr — no replacement within horizon" }
+  }
+}
